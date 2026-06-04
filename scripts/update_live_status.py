@@ -26,8 +26,14 @@ TIMEOUT              = 15  # seconds
 # HTTP helpers
 # ---------------------------------------------------------------------------
 
+DEFAULT_HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; cogip-tv-bot/1.0)",
+    "Accept": "application/json",
+}
+
 def http_get(url: str, headers: dict = None) -> dict:
-    req = urllib.request.Request(url, headers=headers or {})
+    merged = {**DEFAULT_HEADERS, **(headers or {})}
+    req = urllib.request.Request(url, headers=merged)
     with urllib.request.urlopen(req, timeout=TIMEOUT) as resp:
         return json.loads(resp.read().decode())
 
