@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Portail officiel de La COGIP. Consultez les fiches de poste de nos collaborateur·ices et leurs ressources audiovisuelles.">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="COGIP.TV - Portail collaborateur">
+  <meta property="og:description" content="Consultez les fiches de poste et ressources audiovisuelles de nos collaborateur·ices.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://cogip.tv">
+
+  <title>COGIP.TV - Portail collaborateur</title>
+
+  <!-- Favicon -->
+  <link rel="icon" type="image/svg+xml" href="favicon.png">
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Oswald:wght@400;500;600;700&family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Animated background -->
+  <div class="bg-canvas" id="bg-canvas" aria-hidden="true"></div>
+
+  <!-- Header -->
+  <header>
+    <div class="container">
+      <div class="header-inner">
+        <div class="logo-section">
+          <img src="logo.png" alt="COGIP" class="header-logo">
+        </div>
+      </div>
+      <div class="header-divider"></div>
+    </div>
+  </header>
+
+  <!-- Main content -->
+  <main>
+
+    <!-- Hero / intro -->
+    <section class="hero-section">
+      <div class="container">
+        <div class="hero-inner">
+          <div class="hero-memo">
+            <div class="memo-header">
+              <span class="memo-label">MÉMO INTERNE</span>
+              <span class="memo-ref">Réf. COG-TV-6-7 &bull; Diffusion : Tout le monde</span>
+            </div>
+            <p class="memo-body">
+              Bienvenue sur le portail officiel de <strong>La COGIP</strong>.
+            </p>
+            <p class="memo-body">
+              Dans le cadre de notre démarche d'excellence opérationnelle et conformément au plan stratégique pluriannuel validé en CODIR, nous vous invitons à consulter ci-dessous les fiches de poste de nos collaborateur·ices ainsi que les ressources audiovisuelles de l'entreprise.
+            </p>
+            <div class="memo-footer-note">- La Direction des Opérations Streaming &amp; Bien-Être au Travail</div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Live section (hidden until someone is live) -->
+    <section class="live-section" id="live-section" aria-label="Streamers en direct">
+      <div class="container">
+        <div class="section-label">
+          <span class="live-dot" aria-hidden="true"></span>
+          <h2>EN DIRECT</h2>
+        </div>
+        <div id="live-content"></div>
+      </div>
+    </section>
+
+    <!-- All streamers -->
+    <section class="streamers-section" aria-label="Tous les streamers">
+      <div class="container">
+        <h2 class="section-title">Les collaborateur·ices</h2>
+        <div class="streamers-grid" id="streamers-grid" role="list">
+          <!-- Populated by app.js -->
+        </div>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Footer -->
+  <footer>
+    <div class="container">
+      <p>
+        COGIP.TV - Division Streaming &amp; Innovation Digitale (avec les doigts)
+        &bull;
+        <a href="https://cogip.tv" target="_blank" rel="noopener noreferrer">cogip.tv</a>
+      </p>
+    </div>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
