@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-06-05T16:05:19Z",
+  "updated_at": "2026-06-05T16:10:22Z",
   "live": [
-    "gegtropcool",
-    "zakium"
+    "gegtropcool"
   ],
   "streams": {
     "gegtropcool": {
-      "title": "React au Access-ability summer showcase ace @jimauve et @leeloogee",
-      "viewer_count": 16,
-      "game_name": "Just Chatting",
+      "title": "On test Deep dish dungeon avec @jimauve",
+      "viewer_count": 14,
+      "game_name": "Deep Dish Dungeon",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-05T14:30:41Z"
-    },
-    "zakium": {
-      "title": "KCD2 : La Geste de Henri - Partie 24 : toujours plus de chevalerie glorieuse !! (!discord)",
-      "viewer_count": 15,
-      "game_name": "Kingdom Come: Deliverance II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-05T12:06:42Z"
     }
   }
 }
