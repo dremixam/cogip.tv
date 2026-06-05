@@ -151,14 +151,12 @@ function renderLiveSection(profiles, liveStatus) {
 
   section.style.display = 'block';
 
-  const featured  = liveProfiles[0];
-  const login     = twitchLogin(featured.twitch);
+  const parent   = window.location.hostname || 'localhost';
+  const featured = liveProfiles[Math.floor(Math.random() * liveProfiles.length)];
+  const login    = twitchLogin(featured.twitch);
   const streamMeta = liveStatus.streams[login] || {};
 
-  // Detect the current hostname for the Twitch embed `parent` param.
-  const parent = window.location.hostname || 'localhost';
-
-  let html = `
+  const html = `
     <div class="live-featured">
       <div class="live-embed-wrap">
         <iframe
@@ -175,25 +173,16 @@ function renderLiveSection(profiles, liveStatus) {
         ${streamMeta.title
           ? `<span class="live-stream-title">${esc(streamMeta.title)}</span>`
           : ''}
-        ${streamMeta.viewer_count != null
-          ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)} spectateurs</span>`
-          : ''}
         <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-live"
-           target="_blank" rel="noopener noreferrer" style="margin-left:auto;flex-shrink:0;">
+           target="_blank" rel="noopener noreferrer">
           ${ICON.twitch} Regarder sur Twitch
         </a>
+        ${streamMeta.viewer_count != null
+          ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)}</span>`
+          : ''}
       </div>
     </div>
   `;
-
-  // Additional live streamers as mini-cards below the embed.
-  if (liveProfiles.length > 1) {
-    html += '<div class="streamers-grid" style="margin-top:0;">';
-    liveProfiles.slice(1).forEach((p, i) => {
-      html += buildCard(p, liveStatus, i);
-    });
-    html += '</div>';
-  }
 
   content.innerHTML = html;
 }
@@ -233,15 +222,9 @@ function buildCard(profile, liveStatus, animIndex) {
 
       <div class="card-links">
         ${profile.twitch
-          ? `<a href="${esc(profile.twitch)}" class="card-btn card-btn-twitch"
+          ? `<a href="${esc(profile.twitch)}" class="card-btn ${isLive ? 'card-btn-live' : 'card-btn-twitch'}"
                target="_blank" rel="noopener noreferrer">
-               ${ICON.twitch} Twitch
-             </a>`
-          : ''}
-        ${isLive && profile.twitch
-          ? `<a href="${esc(profile.twitch)}" class="card-btn card-btn-live"
-               target="_blank" rel="noopener noreferrer">
-               ${ICON.twitch} Regarder
+               ${ICON.twitch} ${isLive ? 'Regarder' : 'Twitch'}
              </a>`
           : ''}
         ${profile.url
