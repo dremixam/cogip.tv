@@ -2,8 +2,8 @@ name: Update live status
 
 # Runs every 5 minutes and on manual trigger.
 on:
-  schedule:
-    - cron: '*/5 * * * *'
+  repository_dispatch:
+    types: [update-live-status]
   workflow_dispatch:
 
 # Allow the workflow to push the updated live-status.json back to the repo.
