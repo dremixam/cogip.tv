@@ -35,6 +35,7 @@
         <div class="logo-section">
           <img src="logo.png" alt="COGIP" class="header-logo">
         </div>
+        <button class="theme-toggle" id="theme-toggle" aria-label="Changer de thème">JOUR / NUIT</button>
       </div>
       <div class="header-divider"></div>
     </div>
@@ -99,5 +100,21 @@
   </footer>
 
   <script src="app.js"></script>
+  <script>
+    const btn = document.getElementById('theme-toggle');
+    const root = document.documentElement;
+    const saved = localStorage.getItem('cogip-theme');
+    if (saved) root.setAttribute('data-theme', saved);
+    btn.addEventListener('click', () => {
+      const current = root.getAttribute('data-theme');
+      const next = current === 'light' ? 'dark' : 'light';
+      if (next === 'light') {
+        root.setAttribute('data-theme', 'light');
+      } else {
+        root.removeAttribute('data-theme');
+      }
+      localStorage.setItem('cogip-theme', next);
+    });
+  </script>
 </body>
 </html>
