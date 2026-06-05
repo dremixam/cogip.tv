@@ -362,13 +362,20 @@ main {
   background: var(--paper);
 }
 
-.live-stream-meta .card-btn {
+.live-meta-actions {
   margin-left: auto;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+  flex-wrap: wrap;
+}
+
+.live-meta-actions .card-btn {
   flex-shrink: 0;
 }
 
-.live-stream-meta .viewer-pill {
-  margin-left: 0;
+.live-meta-actions .viewer-pill {
   flex-shrink: 0;
   align-self: stretch;
   display: flex;
@@ -741,6 +748,8 @@ footer a:hover { color: var(--cogip-red); }
   .streamers-grid { grid-template-columns: 1fr; }
 
   .live-stream-meta { flex-direction: column; align-items: flex-start; }
+  .live-stream-title { width: 100%; }
+  .live-meta-actions { margin-left: 0; width: 100%; flex-wrap: wrap; }
   .viewer-pill { margin-left: 0; }
 }
 @media (min-width: 600px) {

@@ -176,18 +176,18 @@ function renderLiveSection(profiles, liveStatus) {
           ${streamMeta.title
             ? `<span class="live-stream-title">${esc(streamMeta.title)}</span>`
             : ''}
-          <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-twitch"
-             target="_blank" rel="noopener noreferrer">
-            ${ICON.twitch} Voir sur Twitch
-          </a>
-          ${liveProfiles.length > 1
-            ? `<button class="card-btn card-btn-switch" id="btn-switch-stream">
-                 Zapper
-               </button>`
-            : ''}
-          ${streamMeta.viewer_count != null
-            ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)}</span>`
-            : ''}
+          <div class="live-meta-actions">
+            <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-twitch"
+               target="_blank" rel="noopener noreferrer">
+              ${ICON.twitch} Voir sur Twitch
+            </a>
+            ${liveProfiles.length > 1
+              ? `<button class="card-btn card-btn-switch" id="btn-switch-stream">Zapper</button>`
+              : ''}
+            ${streamMeta.viewer_count != null
+              ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)}</span>`
+              : ''}
+          </div>
         </div>
       </div>
     `;
