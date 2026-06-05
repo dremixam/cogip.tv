@@ -23,7 +23,7 @@ scripts/
 3. Les streamers en direct sont affichés en premier avec l'embed Twitch intégré.
 4. Les autres streamers apparaissent en dessous dans un ordre **aléatoire** à chaque chargement.
 
-`live-status.json` est régénéré toutes les 5 minutes par la GitHub Action `update-live-status`, qui appelle l'API Helix de Twitch puis commit le fichier mis à jour.
+`live-status.json` est régénéré toutes les 5 minutes par la GitHub Action `update-live-status`, qui appelle l'API Helix de Twitch puis commit le fichier mis à jour. La planification de l'action est réalisée grâce à https://console.cron-job.org/jobs pour éviter les limitations de Github sur les cron.
 
 ## Mise en place
 
