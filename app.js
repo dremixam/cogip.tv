@@ -151,40 +151,58 @@ function renderLiveSection(profiles, liveStatus) {
 
   section.style.display = 'block';
 
-  const parent   = window.location.hostname || 'localhost';
-  const featured = liveProfiles[Math.floor(Math.random() * liveProfiles.length)];
-  const login    = twitchLogin(featured.twitch);
-  const streamMeta = liveStatus.streams[login] || {};
+  const parent = window.location.hostname || 'localhost';
+  let currentIndex = Math.floor(Math.random() * liveProfiles.length);
 
-  const html = `
-    <div class="live-featured">
-      <div class="live-embed-wrap">
-        <iframe
-          src="https://player.twitch.tv/?channel=${encodeURIComponent(login)}&parent=${encodeURIComponent(parent)}&autoplay=true"
-          allowfullscreen
-          allow="autoplay; fullscreen"
-          title="Stream de ${esc(featured.display_name || featured.name)}"
-          loading="lazy"
-        ></iframe>
-      </div>
-      <div class="live-stream-meta">
-        <span class="live-badge">${ICON.dot} LIVE</span>
-        <span class="live-stream-name">${esc(featured.display_name || featured.name)}</span>
-        ${streamMeta.title
-          ? `<span class="live-stream-title">${esc(streamMeta.title)}</span>`
-          : ''}
-        <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-live"
-           target="_blank" rel="noopener noreferrer">
-          ${ICON.twitch} Regarder sur Twitch
-        </a>
-        ${streamMeta.viewer_count != null
-          ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)}</span>`
-          : ''}
-      </div>
-    </div>
-  `;
+  function renderEmbed() {
+    const featured   = liveProfiles[currentIndex];
+    const login      = twitchLogin(featured.twitch);
+    const streamMeta = liveStatus.streams[login] || {};
 
-  content.innerHTML = html;
+    content.innerHTML = `
+      <div class="live-featured">
+        <div class="live-embed-wrap">
+          <iframe
+            src="https://player.twitch.tv/?channel=${encodeURIComponent(login)}&parent=${encodeURIComponent(parent)}&autoplay=true"
+            allowfullscreen
+            allow="autoplay; fullscreen"
+            title="Stream de ${esc(featured.display_name || featured.name)}"
+            loading="lazy"
+          ></iframe>
+        </div>
+        <div class="live-stream-meta">
+          <span class="live-badge">${ICON.dot} LIVE</span>
+          <span class="live-stream-name">${esc(featured.display_name || featured.name)}</span>
+          ${streamMeta.title
+            ? `<span class="live-stream-title">${esc(streamMeta.title)}</span>`
+            : ''}
+          <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-twitch"
+             target="_blank" rel="noopener noreferrer">
+            ${ICON.twitch} Voir sur Twitch
+          </a>
+          ${liveProfiles.length > 1
+            ? `<button class="card-btn card-btn-switch" id="btn-switch-stream">
+                 Zapper
+               </button>`
+            : ''}
+          ${streamMeta.viewer_count != null
+            ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)}</span>`
+            : ''}
+        </div>
+      </div>
+    `;
+
+    if (liveProfiles.length > 1) {
+      document.getElementById('btn-switch-stream').addEventListener('click', () => {
+        let next = Math.floor(Math.random() * (liveProfiles.length - 1));
+        if (next >= currentIndex) next++;
+        currentIndex = next;
+        renderEmbed();
+      });
+    }
+  }
+
+  renderEmbed();
 }
 
 function buildCard(profile, liveStatus, animIndex) {

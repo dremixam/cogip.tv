@@ -663,6 +663,23 @@ main {
   box-shadow: 3px 3px 0 var(--ink);
 }
 
+.card-btn-switch {
+  background: var(--cogip-orange);
+  color: #fff;
+  border: 2px solid var(--ink);
+  box-shadow: 2px 2px 0 var(--ink);
+  cursor: pointer;
+  font-family: var(--font-display);
+  font-size: 0.78rem;
+  letter-spacing: 0.06em;
+  font-weight: 700;
+  text-transform: uppercase;
+}
+.card-btn-switch:hover {
+  background: #c8601a;
+  box-shadow: 3px 3px 0 var(--ink);
+}
+
 /* loading / error states */
 .state-loading {
   grid-column: 1 / -1;
