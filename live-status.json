@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-05T20:30:30Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-05T20:35:15Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "React au summer game fest avec Lansiger, Rey et Zeroreussite",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-05T20:32:47Z"
+    }
+  }
 }
