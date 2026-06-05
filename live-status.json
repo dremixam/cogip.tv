@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-05T23:05:14Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-05T23:10:17Z",
+  "live": [
+    "dremixam247"
+  ],
+  "streams": {
+    "dremixam247": {
+      "title": "🏙️ Ville de bobo écolo de la gauche piste cyclable la  🚲🚲🚲 (rediffusion) - Suivez la chaine direct @dremixam",
+      "viewer_count": 1,
+      "game_name": "Cities: Skylines II",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam247-640x360.jpg",
+      "started_at": "2026-06-05T00:27:05Z"
+    }
+  }
 }
