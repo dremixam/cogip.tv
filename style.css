@@ -341,6 +341,7 @@ main {
   position: relative;
   width: 100%;
   aspect-ratio: 16 / 9;
+  max-height: 75vh;
   background: #000;
 }
 
@@ -582,7 +583,7 @@ main {
   color: var(--txt-secondary);
   line-height: 1.5;
   display: -webkit-box;
-  -webkit-line-clamp: 3;
+  -webkit-line-clamp: 5;
   -webkit-box-orient: vertical;
   overflow: hidden;
   flex: 1;

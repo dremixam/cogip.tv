@@ -178,6 +178,10 @@ function renderLiveSection(profiles, liveStatus) {
         ${streamMeta.viewer_count != null
           ? `<span class="viewer-pill">${ICON.eye} ${fmtViewers(streamMeta.viewer_count)} spectateurs</span>`
           : ''}
+        <a href="https://twitch.tv/${encodeURIComponent(login)}" class="card-btn card-btn-live"
+           target="_blank" rel="noopener noreferrer" style="margin-left:auto;flex-shrink:0;">
+          ${ICON.twitch} Regarder sur Twitch
+        </a>
       </div>
     </div>
   `;
@@ -229,9 +233,15 @@ function buildCard(profile, liveStatus, animIndex) {
 
       <div class="card-links">
         ${profile.twitch
-          ? `<a href="${esc(profile.twitch)}" class="card-btn ${isLive ? 'card-btn-live' : 'card-btn-twitch'}"
+          ? `<a href="${esc(profile.twitch)}" class="card-btn card-btn-twitch"
                target="_blank" rel="noopener noreferrer">
-               ${ICON.twitch} ${isLive ? 'Regarder' : 'Twitch'}
+               ${ICON.twitch} Twitch
+             </a>`
+          : ''}
+        ${isLive && profile.twitch
+          ? `<a href="${esc(profile.twitch)}" class="card-btn card-btn-live"
+               target="_blank" rel="noopener noreferrer">
+               ${ICON.twitch} Regarder
              </a>`
           : ''}
         ${profile.url
