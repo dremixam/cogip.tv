@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-06-05T12:05:18Z",
+  "updated_at": "2026-06-05T12:10:26Z",
   "live": [
-    "daxxime"
+    "daxxime",
+    "zakium"
   ],
   "streams": {
     "daxxime": {
       "title": "Re-Découverte en Avant première !! | !1001 !discord !kofi !keymailer",
-      "viewer_count": 12,
+      "viewer_count": 9,
       "game_name": "Terrinoth: Heroes of Descent",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-06-05T10:05:19Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 24 : toujours plus de chevalerie glorieuse !! (!discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-05T12:06:42Z"
     }
   }
 }
