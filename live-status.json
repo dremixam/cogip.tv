@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-06T11:35:12Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-06T11:40:17Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 25 : je suis un détective !! (!rs)",
+      "viewer_count": 0,
+      "game_name": "Apex Legends",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-06T11:37:49Z"
+    }
+  }
 }
