@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-06T08:25:15Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-06T08:30:29Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Merci Geoff",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-06T08:27:35Z"
+    }
+  }
 }
