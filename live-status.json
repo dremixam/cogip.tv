@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-06-07T11:50:18Z",
+  "updated_at": "2026-06-07T11:55:14Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "fairuven"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 4] On va piller des villages",
-      "viewer_count": 19,
+      "viewer_count": 20,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-07T11:00:09Z"
+    },
+    "fairuven": {
+      "title": "Sekiro c etait trop simple, augmentons la difficulté !sr  ////   !gaza",
+      "viewer_count": 0,
+      "game_name": " SEKIRO: SHADOWS DIE TWICE",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-06-07T11:51:57Z"
     }
   }
 }
