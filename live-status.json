@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-06-07T14:30:28Z",
+  "updated_at": "2026-06-07T14:35:14Z",
   "live": [
     "kaililou",
-    "fairuven"
+    "fairuven",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 4] On va piller des villages",
-      "viewer_count": 26,
+      "viewer_count": 27,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-07T11:00:09Z"
     },
     "fairuven": {
       "title": "On test Sand (Sea of thieve dans le desert?) avec @jimauve  !sr  ////   !gaza",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "Sand: Raiders Of Sophie",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-06-07T11:51:57Z"
+    },
+    "gegtropcool": {
+      "title": "Reportage cossu sur le Poitou Charente",
+      "viewer_count": 3,
+      "game_name": "Blasphemous",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-07T14:32:38Z"
     }
   }
 }
