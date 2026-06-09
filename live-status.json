@@ -1,31 +1,15 @@
 {
-  "updated_at": "2026-06-09T16:10:21Z",
+  "updated_at": "2026-06-09T16:15:27Z",
   "live": [
-    "kaililou",
-    "dremixam",
-    "zakium"
+    "dremixam"
   ],
   "streams": {
-    "kaililou": {
-      "title": "[☀️Solarpunk, Episode 1] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
-      "viewer_count": 33,
-      "game_name": "Solarpunk",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-06-09T11:01:06Z"
-    },
     "dremixam": {
       "title": "[DROPS] 👨‍🦲 Bye bye Wiz Khalifa - TEST LÉON MK3 !!! - !prime !kofi",
-      "viewer_count": 13,
+      "viewer_count": 17,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-09T15:49:56Z"
-    },
-    "zakium": {
-      "title": "Découverte de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
-      "viewer_count": 9,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-09T10:59:29Z"
     }
   }
 }
