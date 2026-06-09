@@ -1,16 +1,16 @@
 {
-  "updated_at": "2026-06-09T12:00:48Z",
+  "updated_at": "2026-06-09T12:05:17Z",
   "live": [
     "kaililou",
     "zakium",
-    "gegtropcool",
     "notchthewolf",
+    "gegtropcool",
     "jimauve"
   ],
   "streams": {
     "kaililou": {
       "title": "[☀️Solarpunk, Episode 1] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "game_name": "Solarpunk",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-09T11:01:06Z"
@@ -22,6 +22,13 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-06-09T10:59:29Z"
     },
+    "notchthewolf": {
+      "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
+      "viewer_count": 7,
+      "game_name": "Solarpunk",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-06-09T11:00:18Z"
+    },
     "gegtropcool": {
       "title": "Vous voyez le moment Aragorn fait tombé son porte feuille dans le film ? et bah avec @dahkrab on joue à elden ring",
       "viewer_count": 6,
@@ -29,16 +36,9 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-09T11:28:38Z"
     },
-    "notchthewolf": {
-      "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
-      "viewer_count": 5,
-      "game_name": "Solarpunk",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-06-09T11:00:18Z"
-    },
     "jimauve": {
       "title": "Jiji Sous Zoomies qui fait des trucs | NO CAM  | !kofi !rs",
-      "viewer_count": 0,
+      "viewer_count": 1,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-09T12:00:30Z"
