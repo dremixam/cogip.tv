@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-09T13:10:23Z",
+  "updated_at": "2026-06-09T13:15:25Z",
   "live": [
     "kaililou",
     "jimauve",
-    "zakium",
     "meonstera",
+    "zakium",
     "notchthewolf",
     "gegtropcool"
   ],
@@ -18,24 +18,24 @@
     },
     "jimauve": {
       "title": "Jiji monte sa vidéo album en 1 mois | NO CAM  | !kofi !rs",
-      "viewer_count": 18,
+      "viewer_count": 12,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-09T12:00:30Z"
     },
-    "zakium": {
-      "title": "Découverte de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
-      "viewer_count": 11,
-      "game_name": "Solarpunk",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-09T10:59:29Z"
-    },
     "meonstera": {
       "title": "【REACT】 Nintendo Direct à 16h - on fait un bingo ensemble • !discord !rs !ile",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-09T12:37:57Z"
+    },
+    "zakium": {
+      "title": "Découverte de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
+      "viewer_count": 9,
+      "game_name": "Solarpunk",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-09T10:59:29Z"
     },
     "notchthewolf": {
       "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
