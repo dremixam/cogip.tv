@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-06-09T11:55:17Z",
+  "updated_at": "2026-06-09T12:00:48Z",
   "live": [
     "kaililou",
     "zakium",
+    "gegtropcool",
     "notchthewolf",
-    "gegtropcool"
+    "jimauve"
   ],
   "streams": {
     "kaililou": {
@@ -16,17 +17,10 @@
     },
     "zakium": {
       "title": "Découverte de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "game_name": "Solarpunk",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-06-09T10:59:29Z"
-    },
-    "notchthewolf": {
-      "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
-      "viewer_count": 8,
-      "game_name": "Solarpunk",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-06-09T11:00:18Z"
     },
     "gegtropcool": {
       "title": "Vous voyez le moment Aragorn fait tombé son porte feuille dans le film ? et bah avec @dahkrab on joue à elden ring",
@@ -34,6 +28,20 @@
       "game_name": "ELDEN RING",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-09T11:28:38Z"
+    },
+    "notchthewolf": {
+      "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
+      "viewer_count": 5,
+      "game_name": "Solarpunk",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-06-09T11:00:18Z"
+    },
+    "jimauve": {
+      "title": "Jiji Sous Zoomies qui fait des trucs | NO CAM  | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-06-09T12:00:30Z"
     }
   }
 }
