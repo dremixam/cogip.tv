@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-09T14:00:49Z",
+  "updated_at": "2026-06-09T14:05:21Z",
   "live": [
     "kaililou",
     "meonstera",
@@ -10,14 +10,14 @@
   "streams": {
     "kaililou": {
       "title": "[☀️Solarpunk, Episode 1] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
-      "viewer_count": 29,
+      "viewer_count": 31,
       "game_name": "Solarpunk",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-09T11:01:06Z"
     },
     "meonstera": {
       "title": "【REACT】 Nintendo Direct à 16h - on fait un bingo ensemble • !discord !rs !ile",
-      "viewer_count": 16,
+      "viewer_count": 23,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-09T12:37:57Z"
@@ -38,8 +38,8 @@
     },
     "notchthewolf": {
       "title": "Test du  soleil punk avec @kaililou @zakium et @nouvelarobase - !pride !nightlurker",
-      "viewer_count": 5,
-      "game_name": "Just Chatting",
+      "viewer_count": 4,
+      "game_name": "Age of Empires II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-06-09T11:00:18Z"
     }
