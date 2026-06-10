@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-06-10T11:00:43Z",
+  "updated_at": "2026-06-10T11:05:16Z",
   "live": [
+    "zakium",
     "kaililou"
   ],
   "streams": {
-    "kaililou": {
-      "title": "[☀️Solarpunk, Episode 1] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
-      "viewer_count": 0,
+    "zakium": {
+      "title": "2nd Découverte de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
+      "viewer_count": 2,
       "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-10T11:02:38Z"
+    },
+    "kaililou": {
+      "title": "[☀️Solarpunk, Episode 2] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
+      "viewer_count": 2,
+      "game_name": "Solarpunk",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-10T11:00:16Z"
     }
