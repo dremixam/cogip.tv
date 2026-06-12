@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-12T19:20:21Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-12T19:25:15Z",
+  "live": [
+    "jimauve"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "Ca va être super (j'ai aucune idée de ce qu'on va faire)| !kofi !rs",
+      "viewer_count": 1,
+      "game_name": "Games + Demos",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-06-12T19:21:24Z"
+    }
+  }
 }
