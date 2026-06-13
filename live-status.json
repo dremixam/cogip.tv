@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-13T20:35:14Z",
-  "live": [
-    "dremixam"
-  ],
-  "streams": {
-    "dremixam": {
-      "title": "🚗 Aujourd'hui on déménage avec Léon - Prenez donc un Pipi-Cola bien frais - !prime !kofi",
-      "viewer_count": 19,
-      "game_name": "One Move Away",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-06-13T15:49:57Z"
-    }
-  }
+  "updated_at": "2026-06-13T20:40:26Z",
+  "live": [],
+  "streams": {}
 }
