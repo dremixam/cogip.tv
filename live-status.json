@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-13T10:55:16Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-13T11:00:42Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "petit blaspheme en léger",
+      "viewer_count": 0,
+      "game_name": "Games + Demos",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-13T10:58:53Z"
+    }
+  }
 }
