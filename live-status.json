@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-14T10:55:14Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-14T11:00:44Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Soulmask, Episode 5] Besoin de monter sur un léopaaaard",
+      "viewer_count": 0,
+      "game_name": "Soulmask",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-14T11:00:15Z"
+    }
+  }
 }
