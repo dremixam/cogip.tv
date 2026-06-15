@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-06-15T17:31:12Z",
+  "updated_at": "2026-06-15T17:35:31Z",
   "live": [
-    "dremixam",
-    "gegtropcool"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
       "title": "💣 MARRE ! On fabrique une bombe atomique dans le jardin pour tout faire péter avec Léon l'ingénieur nucléaire - !prime !kofi",
-      "viewer_count": 37,
+      "viewer_count": 44,
       "game_name": "How to Make an Atomic Bomb in Your Garden",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-15T15:49:57Z"
-    },
-    "gegtropcool": {
-      "title": "Vous voyez le moment dans le seigneur des anneaux où frodon il fait tombé son glande lait sur aragorn et que il se casse l'orteil ?",
-      "viewer_count": 7,
-      "game_name": "Blasphemous II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-15T15:03:51Z"
     }
   }
 }
