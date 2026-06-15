@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-06-15T15:55:19Z",
+  "updated_at": "2026-06-15T16:00:52Z",
   "live": [
     "kaililou",
-    "gegtropcool",
-    "dremixam"
+    "dremixam",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
@@ -13,19 +13,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-15T11:00:13Z"
     },
-    "gegtropcool": {
-      "title": "Vous voyez le moment dans le seigneur des anneaux où frodon il fait tombé son glande lait sur aragorn et que il se casse l'orteil ?",
-      "viewer_count": 5,
-      "game_name": "Blasphemous II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-15T15:03:51Z"
-    },
     "dremixam": {
       "title": "💣 MARRE ! On fabrique une bombe atomique dans le jardin pour tout faire péter avec Léon l'ingénieur nucléaire - !prime !kofi",
-      "viewer_count": 3,
+      "viewer_count": 9,
       "game_name": "How to Make an Atomic Bomb in Your Garden",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-15T15:49:57Z"
+    },
+    "gegtropcool": {
+      "title": "Vous voyez le moment dans le seigneur des anneaux où frodon il fait tombé son glande lait sur aragorn et que il se casse l'orteil ?",
+      "viewer_count": 6,
+      "game_name": "Blasphemous II",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-15T15:03:51Z"
     }
   }
 }
