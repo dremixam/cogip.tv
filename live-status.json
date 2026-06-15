@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-06-15T15:00:56Z",
+  "updated_at": "2026-06-15T15:05:24Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Plague Tale Requiem, Episode 1] Bonjour les rats !",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "game_name": "A Plague Tale: Requiem",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-15T11:00:13Z"
+    },
+    "gegtropcool": {
+      "title": "Vous voyez le moment dans le seigneur des anneaux où frodon il fait tombé son glande lait sur aragorn et que il se casse l'orteil ?",
+      "viewer_count": 0,
+      "game_name": "Hell is Us",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-15T15:03:51Z"
     }
   }
 }
