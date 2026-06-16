@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-16T10:55:16Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-16T11:00:51Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Plague Tale Requiem, Episode 2] Attention au tsuratmi",
+      "viewer_count": 0,
+      "game_name": "A Plague Tale: Requiem",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-16T11:00:08Z"
+    }
+  }
 }
