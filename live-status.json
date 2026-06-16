@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-16T14:55:24Z",
+  "updated_at": "2026-06-16T15:00:53Z",
   "live": [
-    "kaililou",
     "jimauve",
+    "kaililou",
     "gegtropcool"
   ],
   "streams": {
-    "kaililou": {
-      "title": "[Plague Tale Requiem, Episode 2] Attention au tsuratmi",
-      "viewer_count": 28,
-      "game_name": "A Plague Tale: Requiem",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-06-16T11:00:08Z"
-    },
     "jimauve": {
       "title": "démo du jeu que @gegtropcool veut faire et on a embarqué @raoul_f0 dans l'affaire | !kofi !rs",
-      "viewer_count": 21,
+      "viewer_count": 94,
       "game_name": "Stonewards",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-16T12:00:48Z"
     },
+    "kaililou": {
+      "title": "[Plague Tale Requiem, Episode 2] Attention au tsuratmi",
+      "viewer_count": 27,
+      "game_name": "A Plague Tale: Requiem",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-16T11:00:08Z"
+    },
     "gegtropcool": {
       "title": "On test une démo avec @jimauve et @raoul_f0",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "game_name": "Stonewards",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-16T11:25:06Z"
