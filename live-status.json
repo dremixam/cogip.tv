@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-06-17T16:20:33Z",
+  "updated_at": "2026-06-17T16:25:25Z",
   "live": [
-    "kaililou",
     "meonstera"
   ],
   "streams": {
-    "kaililou": {
-      "title": "[☀️Solarpunk, Episode 3] On s'envole avec @notchthewolf, @nouvelarobase et @zakium",
-      "viewer_count": 50,
-      "game_name": "Solarpunk",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-06-17T11:02:08Z"
-    },
     "meonstera": {
       "title": "【FFXIV】 meuporg vie, musique miam • !discord !rs !ile",
-      "viewer_count": 20,
+      "viewer_count": 37,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-17T12:04:34Z"
