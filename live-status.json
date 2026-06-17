@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-17T15:05:34Z",
+  "updated_at": "2026-06-17T15:10:25Z",
   "live": [
     "kaililou",
     "meonstera",
-    "gegtropcool",
-    "zakium"
+    "zakium",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
@@ -16,17 +16,10 @@
     },
     "meonstera": {
       "title": "【FFXIV】 meuporg vie, musique miam • !discord !rs !ile",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-17T12:04:34Z"
-    },
-    "gegtropcool": {
-      "title": "j'ai 2-3 démos à faire (26)",
-      "viewer_count": 8,
-      "game_name": "THE LIFT",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-17T13:14:42Z"
     },
     "zakium": {
       "title": "3ème épisode de SolarPunk avec @Kaililou, @nouvelarobase et @Notchthewolf ! (!rs)",
@@ -34,6 +27,13 @@
       "game_name": "Solarpunk",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-06-17T11:00:50Z"
+    },
+    "gegtropcool": {
+      "title": "j'ai 2-3 démos à faire (26)",
+      "viewer_count": 7,
+      "game_name": "Valor Mortis",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-17T13:14:42Z"
     }
   }
 }
