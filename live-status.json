@@ -1,28 +1,20 @@
 {
-  "updated_at": "2026-06-18T15:30:41Z",
+  "updated_at": "2026-06-18T15:35:28Z",
   "live": [
     "kaililou",
-    "meonstera",
     "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Romestead, Episode 3] Mission cyclope de l'enfer",
-      "viewer_count": 30,
+      "viewer_count": 31,
       "game_name": "Romestead",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-18T11:00:12Z"
     },
-    "meonstera": {
-      "title": "【FFXIV】en pls mais izok y a des potes sur le meuporg • !discord !rs",
-      "viewer_count": 12,
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-06-18T12:14:19Z"
-    },
     "gegtropcool": {
       "title": "Je me blaspheme le truc en direct",
-      "viewer_count": 4,
+      "viewer_count": 12,
       "game_name": "Blasphemous II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-18T12:00:22Z"
