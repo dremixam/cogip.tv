@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-18T09:40:22Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-18T09:45:25Z",
+  "live": [
+    "fairuven"
+  ],
+  "streams": {
+    "fairuven": {
+      "title": "Hmm Blender ? Jv? Demo ? j sais po   !sr  ////   !gaza",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-06-18T09:40:59Z"
+    }
+  }
 }
