@@ -1,36 +1,28 @@
 {
-  "updated_at": "2026-06-18T14:30:38Z",
+  "updated_at": "2026-06-18T14:35:22Z",
   "live": [
     "kaililou",
     "meonstera",
-    "fairuven",
     "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Romestead, Episode 3] Mission cyclope de l'enfer",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "game_name": "Romestead",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-18T11:00:12Z"
     },
     "meonstera": {
       "title": "【FFXIV】en pls mais izok y a des potes sur le meuporg • !discord !rs",
-      "viewer_count": 13,
+      "viewer_count": 11,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-18T12:14:19Z"
     },
-    "fairuven": {
-      "title": "Hmm Blender ? Jv? Demo ? j sais po   !sr  ////   !gaza",
-      "viewer_count": 6,
-      "game_name": "",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-06-18T09:40:59Z"
-    },
     "gegtropcool": {
       "title": "Je me blaspheme le truc en direct",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "game_name": "Blasphemous II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-18T12:00:22Z"
