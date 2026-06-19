@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-19T17:00:43Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "Découverte d'un petit jeu indépendant je sais pas si vous avez entendu parlé",
-      "viewer_count": 8,
-      "game_name": "Blasphemous II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-19T13:59:19Z"
-    }
-  }
+  "updated_at": "2026-06-19T17:05:17Z",
+  "live": [],
+  "streams": {}
 }
