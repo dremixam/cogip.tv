@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-19T18:55:15Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-19T19:00:46Z",
+  "live": [
+    "jimauve"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "Y'a un alien et j'suis isolé truc du genre | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-06-19T18:59:20Z"
+    }
+  }
 }
