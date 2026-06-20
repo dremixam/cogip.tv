@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-20T10:00:44Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "Tuto Cuisine : Préparé un bon pouler roti en quelques étapes simple // TW : mélenchonistenévrosé",
-      "viewer_count": 7,
-      "game_name": "Blasphemous II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-20T07:10:55Z"
-    }
-  }
+  "updated_at": "2026-06-20T10:05:22Z",
+  "live": [],
+  "streams": {}
 }
