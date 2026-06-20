@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-20T07:10:25Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-20T07:15:26Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Tuto Cuisine : Préparé un bon pouler roti en quelques étapes simple",
+      "viewer_count": 2,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-20T07:10:55Z"
+    }
+  }
 }
