@@ -1,12 +1,12 @@
 {
-  "updated_at": "2026-06-21T13:05:18Z",
+  "updated_at": "2026-06-21T13:10:22Z",
   "live": [
     "kaililou",
     "meonstera",
     "jimauve",
     "zakium",
-    "raoul_f0",
-    "gegtropcool"
+    "gegtropcool",
+    "raoul_f0"
   ],
   "streams": {
     "kaililou": {
@@ -18,14 +18,14 @@
     },
     "meonstera": {
       "title": "【CK III】Meon de Stera, comtesse de Gourmandie • !ck3 • !discord !rs",
-      "viewer_count": 20,
+      "viewer_count": 19,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-21T11:35:19Z"
     },
     "jimauve": {
       "title": "Jimauve Compte de Néo Dijon (Aprem CK3 Semi RP) | !kofi !rs",
-      "viewer_count": 17,
+      "viewer_count": 16,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-21T11:53:41Z"
@@ -37,19 +37,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-06-21T11:53:35Z"
     },
+    "gegtropcool": {
+      "title": "Une expérience social sur la démo de Another door avec @cactus_chaleur, @maanette et @tamerelasorciere",
+      "viewer_count": 7,
+      "game_name": "Another Door",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-21T12:59:06Z"
+    },
     "raoul_f0": {
       "title": "CK3 avec @jimauve @meonstera et @zakium Je suis Raoul de Castamboule",
-      "viewer_count": 5,
+      "viewer_count": 2,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-06-21T12:03:41Z"
-    },
-    "gegtropcool": {
-      "title": "Une expérience social sur la démo de Another door avec @cactus_chaleur, @maanette et @tamerelasorciere",
-      "viewer_count": 3,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-21T12:59:06Z"
     }
   }
 }
