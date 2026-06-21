@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-06-21T13:00:45Z",
+  "updated_at": "2026-06-21T13:05:18Z",
   "live": [
     "kaililou",
     "meonstera",
     "jimauve",
-    "raoul_f0",
     "zakium",
+    "raoul_f0",
     "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 6] L'ère du cuivre et de la bogare",
-      "viewer_count": 23,
+      "viewer_count": 22,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-21T11:02:37Z"
@@ -25,28 +25,28 @@
     },
     "jimauve": {
       "title": "Jimauve Compte de Néo Dijon (Aprem CK3 Semi RP) | !kofi !rs",
-      "viewer_count": 14,
+      "viewer_count": 17,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-21T11:53:41Z"
     },
-    "raoul_f0": {
-      "title": "CK3 avec @jimauve @meonstera et @zakium Je suis Raoul de Castamboule",
-      "viewer_count": 7,
-      "game_name": "Crusader Kings III",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-06-21T12:03:41Z"
-    },
     "zakium": {
       "title": "Crusader King 3 : Roi de Galice avec mes vassaux : @meonstera, @raoul_f0 et @Jimauve ! (no cam désolé j'ai trop chaud ...) (!rs)",
-      "viewer_count": 5,
+      "viewer_count": 9,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-06-21T11:53:35Z"
     },
+    "raoul_f0": {
+      "title": "CK3 avec @jimauve @meonstera et @zakium Je suis Raoul de Castamboule",
+      "viewer_count": 5,
+      "game_name": "Crusader Kings III",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-06-21T12:03:41Z"
+    },
     "gegtropcool": {
       "title": "Une expérience social sur la démo de Another door avec @cactus_chaleur, @maanette et @tamerelasorciere",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-21T12:59:06Z"
