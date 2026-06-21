@@ -1,40 +1,33 @@
 {
-  "updated_at": "2026-06-21T12:50:25Z",
+  "updated_at": "2026-06-21T12:55:18Z",
   "live": [
     "kaililou",
-    "meonstera",
     "jimauve",
-    "zakium",
-    "raoul_f0"
+    "meonstera",
+    "raoul_f0",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 6] L'ère du cuivre et de la bogare",
-      "viewer_count": 20,
+      "viewer_count": 21,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-21T11:02:37Z"
     },
-    "meonstera": {
-      "title": "【CK III】Meon de Stera, comtesse de Gourmandie • !ck3 • !discord !rs",
-      "viewer_count": 15,
-      "game_name": "Crusader Kings III",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-06-21T11:35:19Z"
-    },
     "jimauve": {
       "title": "Jimauve Compte de Néo Dijon (Aprem CK3 Semi RP) | !kofi !rs",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-21T11:53:41Z"
     },
-    "zakium": {
-      "title": "Crusader King 3 : Roi de Galice avec mes vassaux : @meonstera, @raoul_f0 et @Jimauve ! (no cam désolé j'ai trop chaud ...) (!rs)",
-      "viewer_count": 6,
+    "meonstera": {
+      "title": "【CK III】Meon de Stera, comtesse de Gourmandie • !ck3 • !discord !rs",
+      "viewer_count": 14,
       "game_name": "Crusader Kings III",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-21T11:53:35Z"
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
+      "started_at": "2026-06-21T11:35:19Z"
     },
     "raoul_f0": {
       "title": "CK3 avec @jimauve @meonstera et @zakium Je suis Raoul de Castamboule",
@@ -42,6 +35,13 @@
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-06-21T12:03:41Z"
+    },
+    "zakium": {
+      "title": "Crusader King 3 : Roi de Galice avec mes vassaux : @meonstera, @raoul_f0 et @Jimauve ! (no cam désolé j'ai trop chaud ...) (!rs)",
+      "viewer_count": 4,
+      "game_name": "Crusader Kings III",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-21T11:53:35Z"
     }
   }
 }
