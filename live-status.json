@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T12:05:19Z",
+  "updated_at": "2026-06-21T12:10:23Z",
   "live": [
     "kaililou",
     "meonstera",
@@ -10,21 +10,21 @@
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 6] L'ère du cuivre et de la bogare",
-      "viewer_count": 17,
+      "viewer_count": 19,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-21T11:02:37Z"
     },
     "meonstera": {
       "title": "【CK III】Meon de Stera, comtesse de Gourmandie • !ck3 • !discord !rs",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "game_name": "Crusader Kings III",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-21T11:35:19Z"
     },
     "jimauve": {
       "title": "Jimauve Compte de Néo Dijon (Aprem CK3 Semi RP) | !kofi !rs",
-      "viewer_count": 8,
+      "viewer_count": 12,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-21T11:53:41Z"
@@ -38,7 +38,7 @@
     },
     "raoul_f0": {
       "title": "CK3 avec @jimauve @meonstera et @zakium1  Je suis Charles Castamboule",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-06-21T12:03:41Z"
