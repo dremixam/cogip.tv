@@ -1,47 +1,23 @@
 {
-  "updated_at": "2026-06-21T15:25:17Z",
+  "updated_at": "2026-06-21T15:30:36Z",
   "live": [
     "kaililou",
-    "jimauve",
-    "meonstera",
-    "gegtropcool",
-    "zakium"
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 6] L'ère du cuivre et de la bogare",
-      "viewer_count": 19,
+      "viewer_count": 28,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-21T11:02:37Z"
     },
-    "jimauve": {
-      "title": "Jimauve Compte de Néo Dijon (Aprem CK3 Semi RP) | !kofi !rs",
-      "viewer_count": 15,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-06-21T11:53:41Z"
-    },
-    "meonstera": {
-      "title": "【CK III】Meon de Stera, comtesse de Gourmandie • !ck3 • !discord !rs",
-      "viewer_count": 10,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-06-21T11:35:19Z"
-    },
     "gegtropcool": {
-      "title": "Une expérience social sur la démo de Another door avec @cactus_chaleur, @maanette et @tamerelasorciere",
-      "viewer_count": 9,
+      "title": "Une expérience social sur la démo de Another door avec @cactus_chaleur, @maanette",
+      "viewer_count": 16,
       "game_name": "Another Door",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-21T12:59:06Z"
-    },
-    "zakium": {
-      "title": "Crusader King 3 : Roi de Galice avec mes vassaux : @meonstera, @raoul_f0 et @Jimauve ! (no cam désolé j'ai trop chaud ...) (!rs)",
-      "viewer_count": 7,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-21T11:53:35Z"
     }
   }
 }
