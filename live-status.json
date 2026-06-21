@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-21T08:05:19Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-21T08:10:20Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Petite matinale du matin matinal du matin",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-21T08:07:33Z"
+    }
+  }
 }
