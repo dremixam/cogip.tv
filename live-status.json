@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-22T10:55:19Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-22T11:00:47Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "Besoin d'idées de donation goals !",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-22T11:00:21Z"
+    }
+  }
 }
