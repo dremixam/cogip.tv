@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T15:35:29Z",
+  "updated_at": "2026-06-22T15:40:28Z",
   "live": [
     "kaililou",
     "gegtropcool"
@@ -7,14 +7,14 @@
   "streams": {
     "kaililou": {
       "title": "On brotato pour la détente",
-      "viewer_count": 34,
+      "viewer_count": 35,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-22T11:00:21Z"
     },
     "gegtropcool": {
       "title": "Des petites démos en léger",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "game_name": "Zwaard",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-22T15:01:35Z"
