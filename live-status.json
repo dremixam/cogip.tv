@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T16:10:29Z",
+  "updated_at": "2026-06-22T16:15:29Z",
   "live": [
     "dremixam",
     "gegtropcool"
@@ -7,15 +7,15 @@
   "streams": {
     "dremixam": {
       "title": "🌊 Il fait 120 milliards de degrés il nous faut un jeu avec de l'eau pour se rafraichir - !prime !kofi",
-      "viewer_count": 33,
+      "viewer_count": 31,
       "game_name": "Tides of Tomorrow",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-22T15:49:59Z"
     },
     "gegtropcool": {
-      "title": "Des petites démos en léger",
-      "viewer_count": 9,
-      "game_name": "Zwaard",
+      "title": "Des petites démos en léger (@jimauve dans le vocal là)",
+      "viewer_count": 8,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-22T15:01:35Z"
     }
