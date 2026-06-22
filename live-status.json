@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-06-22T15:50:25Z",
+  "updated_at": "2026-06-22T15:55:23Z",
   "live": [
     "kaililou",
-    "gegtropcool",
-    "dremixam"
+    "dremixam",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "On brotato pour la détente",
-      "viewer_count": 38,
+      "viewer_count": 34,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-22T11:00:21Z"
     },
-    "gegtropcool": {
-      "title": "Des petites démos en léger",
-      "viewer_count": 5,
-      "game_name": "Zwaard",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-22T15:01:35Z"
-    },
     "dremixam": {
       "title": "🌊 Il fait 120 milliards de degrés il nous faut un jeu avec de l'eau pour se rafraichir - !prime !kofi",
-      "viewer_count": 0,
+      "viewer_count": 11,
       "game_name": "Tides of Tomorrow",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-22T15:49:59Z"
+    },
+    "gegtropcool": {
+      "title": "Des petites démos en léger",
+      "viewer_count": 6,
+      "game_name": "Zwaard",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-22T15:01:35Z"
     }
   }
 }
