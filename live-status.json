@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-06-23T15:40:26Z",
+  "updated_at": "2026-06-23T15:45:27Z",
   "live": [
-    "gegtropcool",
-    "kaililou"
+    "kaililou",
+    "gegtropcool"
   ],
   "streams": {
-    "gegtropcool": {
-      "title": "Des petites démos en léger",
-      "viewer_count": 4,
-      "game_name": "Blasphemous II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-23T15:26:34Z"
-    },
     "kaililou": {
       "title": "[Plague Tale Requiem, Episode 3] La fin aujourd'hui ?",
-      "viewer_count": 2,
+      "viewer_count": 14,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-23T15:39:06Z"
+    },
+    "gegtropcool": {
+      "title": "Des petites démos en léger",
+      "viewer_count": 6,
+      "game_name": "Blasphemous II",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-23T15:26:34Z"
     }
   }
 }
