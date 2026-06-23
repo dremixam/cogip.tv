@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T13:55:24Z",
+  "updated_at": "2026-06-23T14:00:51Z",
   "live": [
     "kaililou",
     "gegtropcool"
@@ -7,15 +7,15 @@
   "streams": {
     "kaililou": {
       "title": "[Plague Tale Requiem, Episode 3] La fin aujourd'hui ?",
-      "viewer_count": 22,
+      "viewer_count": 23,
       "game_name": "A Plague Tale: Requiem",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-23T11:00:24Z"
     },
     "gegtropcool": {
       "title": "Des petites démos en léger",
-      "viewer_count": 5,
-      "game_name": "Just Chatting",
+      "viewer_count": 8,
+      "game_name": "Dimhaven: The Lost Source",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-23T13:47:02Z"
     }
