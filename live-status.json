@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-06-23T15:50:22Z",
+  "updated_at": "2026-06-23T15:55:20Z",
   "live": [
-    "kaililou",
     "gegtropcool"
   ],
   "streams": {
-    "kaililou": {
-      "title": "[Plague Tale Requiem, Episode 3] La fin aujourd'hui ?",
-      "viewer_count": 12,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-06-23T15:39:06Z"
-    },
     "gegtropcool": {
-      "title": "Des petites démos en léger",
-      "viewer_count": 4,
+      "title": "C'est la blas-flemme ou quoi ? Et non, c'est Blasphemous 2",
+      "viewer_count": 18,
       "game_name": "Blasphemous II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-23T15:26:34Z"
