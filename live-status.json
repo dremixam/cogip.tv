@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-06-24T15:45:32Z",
+  "updated_at": "2026-06-24T15:50:22Z",
   "live": [
     "kaililou",
     "meonstera",
-    "zakium",
-    "gegtropcool"
+    "gegtropcool",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
@@ -16,24 +16,24 @@
     },
     "meonstera": {
       "title": "【FFXIV】viber, pexer, recommencer  • !discord !rs",
-      "viewer_count": 15,
+      "viewer_count": 17,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-24T12:04:36Z"
     },
-    "zakium": {
-      "title": "On fait des démos ? ou du KCD2 ? ou je sais pas ^^ durée de stream aléatoire avec la chaleur ... Soutine (!rs)",
-      "viewer_count": 5,
-      "game_name": "Ascenders: Beyond the Peak",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-24T12:15:03Z"
-    },
     "gegtropcool": {
       "title": "Je me sens comme monsieur Saquet à la fin du seigneur des anneaux là vous voyez ?",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "game_name": "Blasphemous II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-24T13:12:03Z"
+    },
+    "zakium": {
+      "title": "On fait des démos ? ou du KCD2 ? ou je sais pas ^^ durée de stream aléatoire avec la chaleur ... Soutine (!rs)",
+      "viewer_count": 6,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-24T12:15:03Z"
     }
   }
 }
