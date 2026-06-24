@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-06-24T12:10:23Z",
+  "updated_at": "2026-06-24T12:15:27Z",
   "live": [
     "kaililou",
-    "meonstera"
+    "meonstera",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Plague Tale Requiem, Episode 4] Cette fois c'est la fin..",
-      "viewer_count": 23,
+      "viewer_count": 22,
       "game_name": "A Plague Tale: Requiem",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-24T11:00:20Z"
@@ -18,6 +19,13 @@
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-24T12:04:36Z"
+    },
+    "zakium": {
+      "title": "On fait des démos ? ou du KCD2 ? ou je sais pas ^^ durée de stream aléatoire avec la chaleur ... Soutine (!rs)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-24T12:15:03Z"
     }
   }
 }
