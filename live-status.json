@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-25T16:00:48Z",
-  "live": [
-    "kaililou"
-  ],
-  "streams": {
-    "kaililou": {
-      "title": "[Umbral Sands, Nouvelle Maj, ] Oh un désert..",
-      "viewer_count": 29,
-      "game_name": "RuneScape: Dragonwilds",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-06-25T11:00:13Z"
-    }
-  }
+  "updated_at": "2026-06-25T16:05:15Z",
+  "live": [],
+  "streams": {}
 }
