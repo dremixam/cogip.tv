@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T18:45:21Z",
+  "updated_at": "2026-06-26T18:50:21Z",
   "live": [
     "kaililou",
     "gegtropcool"
@@ -7,7 +7,7 @@
   "streams": {
     "kaililou": {
       "title": "[Live caritatif] La ChariTeam pour 48h de raid au profit de Psy’Script",
-      "viewer_count": 62,
+      "viewer_count": 60,
       "game_name": "Special Events",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-26T16:00:19Z"
@@ -15,7 +15,7 @@
     "gegtropcool": {
       "title": "Un jeu d'horreur avec @musedamnee",
       "viewer_count": 7,
-      "game_name": "Just Chatting",
+      "game_name": "ROUTINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-26T18:26:40Z"
     }
