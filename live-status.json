@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-06-26T15:55:17Z",
+  "updated_at": "2026-06-26T16:00:45Z",
   "live": [
-    "meonstera"
+    "meonstera",
+    "kaililou"
   ],
   "streams": {
     "meonstera": {
       "title": "【Tomodachi Life】Ep.8 : retour chez les #allié·e·s (en pngtuber parce qu'il fait chaud comme meme)  • !discord !rs",
-      "viewer_count": 21,
+      "viewer_count": 23,
       "game_name": "Tomodachi Life: Living the Dream",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-06-26T12:13:24Z"
+    },
+    "kaililou": {
+      "title": "[Live caritatif] La ChariTeam pour 48h de raid au profit de Psy’Script",
+      "viewer_count": 0,
+      "game_name": "Special Events",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-26T16:00:19Z"
     }
   }
 }
