@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-27T21:55:15Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-27T22:00:43Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "[Live caritatif] Marathon de la ChariTeam pour 48h de raid au profit de Psy’Script ! -> !don !asso !chariteam",
+      "viewer_count": 1,
+      "game_name": "Special Events",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-06-27T21:56:11Z"
+    }
+  }
 }
