@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-27T15:15:22Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "Présentement présent  | !kofi !rs",
-      "viewer_count": 33,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-06-27T13:05:56Z"
-    }
-  }
+  "updated_at": "2026-06-27T15:20:20Z",
+  "live": [],
+  "streams": {}
 }
