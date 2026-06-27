@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-27T15:45:23Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-27T15:50:21Z",
+  "live": [
+    "dremixam"
+  ],
+  "streams": {
+    "dremixam": {
+      "title": "🧽 Nettoyage de scènes de crime oklm du samedi après-midi  - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Crime Scene Cleaner",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-06-27T15:49:58Z"
+    }
+  }
 }
