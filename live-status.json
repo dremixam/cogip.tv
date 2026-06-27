@@ -1,28 +1,20 @@
 {
-  "updated_at": "2026-06-27T20:10:21Z",
+  "updated_at": "2026-06-27T20:15:20Z",
   "live": [
     "dremixam",
-    "notchthewolf",
     "daxxime"
   ],
   "streams": {
     "dremixam": {
       "title": "🧽 Nettoyage de scènes de crime oklm du samedi après-midi  - !prime !kofi",
-      "viewer_count": 16,
+      "viewer_count": 26,
       "game_name": "Crime Scene Cleaner",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-27T15:49:58Z"
     },
-    "notchthewolf": {
-      "title": "Bonjour je sais pas ce qu'on fait je suis fatchiguée - !pride !nightlurker",
-      "viewer_count": 14,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-06-27T19:26:15Z"
-    },
     "daxxime": {
       "title": "[JDR] 1001 Campagnes : Le Réveil de la Reine - Session 5 : Arriver à Elturel | !1001 !discord !kofi !keymailer",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "game_name": "Dungeons & Dragons",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-06-27T18:30:59Z"
