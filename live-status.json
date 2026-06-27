@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-06-27T11:20:18Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "On profite de la canicule pour chier sur le grand capital en jouant à un jeu d'énigme avec @musedamnee",
-      "viewer_count": 12,
-      "game_name": "Dimhaven: The Lost Source",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-27T08:26:43Z"
-    }
-  }
+  "updated_at": "2026-06-27T11:25:15Z",
+  "live": [],
+  "streams": {}
 }
