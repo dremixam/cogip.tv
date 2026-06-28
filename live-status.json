@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-28T12:55:15Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-28T13:00:41Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Live caritatif] La ChariTeam pour 48h de raid au profit de Psy’Script !don !impôt !chariteam !asso",
+      "viewer_count": 1,
+      "game_name": "Special Events",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-28T12:55:55Z"
+    }
+  }
 }
