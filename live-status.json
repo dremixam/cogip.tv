@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T15:40:20Z",
+  "updated_at": "2026-06-29T15:45:22Z",
   "live": [
     "kaililou",
     "jimauve",
@@ -8,22 +8,22 @@
   "streams": {
     "kaililou": {
       "title": "Découverte, si c'est pas bien c'est la faute de Corta",
-      "viewer_count": 29,
+      "viewer_count": 27,
       "game_name": "No Rest for the Wicked",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-29T11:02:19Z"
     },
     "jimauve": {
       "title": "On se soulève entre amilles (avec @gegtropcool @BubucheEnBois et @hellias) | !kofi !rs",
-      "viewer_count": 19,
-      "game_name": "Salvation Denied",
+      "viewer_count": 17,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-29T11:58:56Z"
     },
     "gegtropcool": {
-      "title": "On test une démo avec @bubuchenbois, @hellias et @jimauve",
-      "viewer_count": 4,
-      "game_name": "Salvation Denied",
+      "title": "On réfléchit avec @jimauve",
+      "viewer_count": 5,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-06-29T14:44:11Z"
     }
