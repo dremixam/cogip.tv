@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-06-29T11:55:18Z",
+  "updated_at": "2026-06-29T12:00:46Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "jimauve"
   ],
   "streams": {
     "kaililou": {
@@ -10,6 +11,13 @@
       "game_name": "",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-29T11:02:19Z"
+    },
+    "jimauve": {
+      "title": "Blabla et a 16H test démo avec les copaines | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-06-29T11:58:56Z"
     }
   }
 }
