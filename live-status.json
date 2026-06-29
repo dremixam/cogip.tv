@@ -1,39 +1,39 @@
 {
-  "updated_at": "2026-06-29T15:55:14Z",
+  "updated_at": "2026-06-29T16:00:47Z",
   "live": [
-    "gegtropcool",
     "kaililou",
+    "gegtropcool",
     "jimauve",
     "dremixam"
   ],
   "streams": {
-    "gegtropcool": {
-      "title": "On réfléchit avec @jimauve",
-      "viewer_count": 29,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-29T14:44:11Z"
-    },
     "kaililou": {
       "title": "Découverte, si c'est pas bien c'est la faute de Corta",
-      "viewer_count": 29,
+      "viewer_count": 30,
       "game_name": "No Rest for the Wicked",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-29T11:02:19Z"
     },
+    "gegtropcool": {
+      "title": "On a finit de réfléchir on va se mettre ce miel avec @jimauve",
+      "viewer_count": 30,
+      "game_name": "The Mound: Omen of Cthulhu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-29T14:44:11Z"
+    },
     "jimauve": {
       "title": "2 amis, 2 streams, une passion : le gaming (avec @Gegtropcool) | !kofi !rs",
-      "viewer_count": 18,
+      "viewer_count": 19,
       "game_name": "",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-29T11:58:56Z"
     },
     "dremixam": {
       "title": "🏡 On continue Town to City - !prime !kofi",
-      "viewer_count": 4,
+      "viewer_count": 0,
       "game_name": "Town to City",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-06-29T15:50:12Z"
+      "started_at": "2026-06-29T16:00:19Z"
     }
   }
 }
