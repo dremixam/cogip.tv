@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-06-29T16:25:16Z",
+  "updated_at": "2026-06-29T16:30:33Z",
   "live": [
     "jimauve",
-    "gegtropcool",
-    "dremixam"
+    "dremixam",
+    "gegtropcool"
   ],
   "streams": {
     "jimauve": {
       "title": "2 amis, 2 streams, une passion : le gaming (avec @Gegtropcool) | !kofi !rs",
-      "viewer_count": 28,
+      "viewer_count": 30,
       "game_name": "The Mound: Omen of Cthulhu",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-06-29T11:58:56Z"
     },
-    "gegtropcool": {
-      "title": "On a finit de réfléchir on va se mettre ce miel avec @jimauve",
-      "viewer_count": 17,
-      "game_name": "The Mound: Omen of Cthulhu",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-29T14:44:11Z"
-    },
     "dremixam": {
       "title": "🏡 On continue Town to City - !prime !kofi",
-      "viewer_count": 14,
+      "viewer_count": 17,
       "game_name": "Town to City",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-06-29T16:00:19Z"
+    },
+    "gegtropcool": {
+      "title": "On a finit de réfléchir on va se mettre ce miel avec @jimauve",
+      "viewer_count": 15,
+      "game_name": "The Mound: Omen of Cthulhu",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-06-29T14:44:11Z"
     }
   }
 }
