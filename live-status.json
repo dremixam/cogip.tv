@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-06-30T11:00:50Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-06-30T11:05:16Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Umbral Sand] C'est l'heure d'affronter Fuzan ?",
+      "viewer_count": 1,
+      "game_name": "RuneScape: Dragonwilds",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-06-30T11:02:55Z"
+    }
+  }
 }
