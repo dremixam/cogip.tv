@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-06-30T13:15:24Z",
+  "updated_at": "2026-06-30T13:20:27Z",
   "live": [
-    "kaililou",
-    "zakium"
+    "kaililou"
   ],
   "streams": {
     "kaililou": {
       "title": "[Umbral Sand] C'est l'heure d'affronter Fuzan ?",
-      "viewer_count": 20,
+      "viewer_count": 23,
       "game_name": "RuneScape: Dragonwilds",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-30T11:02:55Z"
-    },
-    "zakium": {
-      "title": "KCD2 : La Geste de Henri - Partie 28 : je sais plus ce qui se passe ça fait trop longtemps ... ^^ (!rs)",
-      "viewer_count": 3,
-      "game_name": "Kingdom Come: Deliverance II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-06-30T12:19:36Z"
     }
   }
 }
