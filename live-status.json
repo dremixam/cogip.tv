@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-06-30T16:05:26Z",
+  "updated_at": "2026-06-30T16:10:23Z",
   "live": [
-    "kaililou",
-    "gegtropcool"
+    "kaililou"
   ],
   "streams": {
     "kaililou": {
       "title": "On se brotate tranquillou en fin de live",
-      "viewer_count": 22,
+      "viewer_count": 28,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-06-30T11:02:55Z"
-    },
-    "gegtropcool": {
-      "title": "Tuto comment crafter un bon moment entre amis 2 ingrédients : copain, elden ring",
-      "viewer_count": 4,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-06-30T13:35:04Z"
     }
   }
 }
