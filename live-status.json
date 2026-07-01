@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-07-01T16:55:16Z",
+  "updated_at": "2026-07-01T17:00:51Z",
   "live": [
-    "dremixam",
-    "notchthewolf"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
       "title": "[DROPS] 👨‍🦲 Ça me manquait de tuer des riches - !prime !kofi",
-      "viewer_count": 28,
+      "viewer_count": 26,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-01T15:49:57Z"
-    },
-    "notchthewolf": {
-      "title": "Age of Empire III ENFIN- on fait la campagne en big découverte !",
-      "viewer_count": 26,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-07-01T14:08:18Z"
     }
   }
 }
