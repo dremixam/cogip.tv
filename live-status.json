@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-01T16:40:22Z",
+  "updated_at": "2026-07-01T16:45:22Z",
   "live": [
-    "notchthewolf",
-    "dremixam"
+    "dremixam",
+    "notchthewolf"
   ],
   "streams": {
-    "notchthewolf": {
-      "title": "Age of Empire III ENFIN- on fait la campagne en big découverte !",
-      "viewer_count": 29,
-      "game_name": "Age of Empires III",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-07-01T14:08:18Z"
-    },
     "dremixam": {
       "title": "[DROPS] 👨‍🦲 Ça me manquait de tuer des riches - !prime !kofi",
-      "viewer_count": 28,
+      "viewer_count": 27,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-01T15:49:57Z"
+    },
+    "notchthewolf": {
+      "title": "Age of Empire III ENFIN- on fait la campagne en big découverte !",
+      "viewer_count": 24,
+      "game_name": "Age of Empires III",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-01T14:08:18Z"
     }
   }
 }
