@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-07-01T16:05:16Z",
+  "updated_at": "2026-07-01T16:10:24Z",
   "live": [
     "kaililou",
-    "notchthewolf",
-    "dremixam"
+    "dremixam",
+    "notchthewolf"
   ],
   "streams": {
     "kaililou": {
       "title": "[Romestead, Episode 4] Ca soulève Rome ici",
-      "viewer_count": 46,
+      "viewer_count": 44,
       "game_name": "Romestead",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-01T11:02:06Z"
     },
-    "notchthewolf": {
-      "title": "Age of Empire III ENFIN- on fait la campagne en big découverte !",
-      "viewer_count": 13,
-      "game_name": "Games + Demos",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-07-01T14:08:18Z"
-    },
     "dremixam": {
       "title": "[DROPS] 👨‍🦲 Ça me manquait de tuer des riches - !prime !kofi",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-01T15:49:57Z"
+    },
+    "notchthewolf": {
+      "title": "Age of Empire III ENFIN- on fait la campagne en big découverte !",
+      "viewer_count": 11,
+      "game_name": "Games + Demos",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-01T14:08:18Z"
     }
   }
 }
