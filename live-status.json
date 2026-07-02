@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-02T20:35:15Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "Saucissonade en léger (faites vos recherches sur le sens de cette phrase)",
-      "viewer_count": 7,
-      "game_name": "RV There Yet?",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-07-02T18:17:20Z"
-    }
-  }
+  "updated_at": "2026-07-02T20:40:25Z",
+  "live": [],
+  "streams": {}
 }
