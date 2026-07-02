@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-02T11:10:28Z",
+  "updated_at": "2026-07-02T11:15:23Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "fairuven"
   ],
   "streams": {
     "kaililou": {
       "title": "[Romestead, Episode 5] La forge de Vulcain",
-      "viewer_count": 6,
+      "viewer_count": 10,
       "game_name": "Romestead",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-02T11:00:15Z"
+    },
+    "fairuven": {
+      "title": "Surprenant, je suis en vie (contrairement a l industrie JV) et malheureusement comme Quotidien !sr  ////   !gaza",
+      "viewer_count": 2,
+      "game_name": "",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-07-02T11:11:10Z"
     }
   }
 }
