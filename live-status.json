@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:05:17Z",
-  "live": [
-    "notchthewolf"
-  ],
-  "streams": {
-    "notchthewolf": {
-      "title": "Zelda TP Randomizer Glitchless - Je le one shot et c'est pas une blague.",
-      "viewer_count": 19,
-      "game_name": "The Legend of Zelda: Twilight Princess",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-07-02T15:05:35Z"
-    }
-  }
+  "updated_at": "2026-07-02T18:10:28Z",
+  "live": [],
+  "streams": {}
 }
