@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-07-03T12:10:26Z",
+  "updated_at": "2026-07-03T12:15:22Z",
   "live": [
     "gegtropcool",
+    "zakium",
     "fairuven"
   ],
   "streams": {
     "gegtropcool": {
       "title": "C'est vendredi c'est bientôt le week end si vous etes en weekend vendredi ft. @musedamnee",
-      "viewer_count": 4,
+      "viewer_count": 7,
       "game_name": "Dimhaven: The Lost Source",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-03T11:51:11Z"
     },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 28,5 : y eu une coupure la dernière fois ... ^^ (!rs)",
+      "viewer_count": 2,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-03T12:10:52Z"
+    },
     "fairuven": {
       "title": "Blender et JV , Cowork  !sr  ////   !gaza",
-      "viewer_count": 0,
-      "game_name": "Art",
+      "viewer_count": 1,
+      "game_name": "868-BACK",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-07-03T12:01:49Z"
     }
