@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-03T20:30:41Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "On démonte un moteur V8 aberrant avec @dahkrab c'est quoi ce poulet",
-      "viewer_count": 6,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-07-03T17:59:14Z"
-    }
-  }
+  "updated_at": "2026-07-03T20:35:14Z",
+  "live": [],
+  "streams": {}
 }
