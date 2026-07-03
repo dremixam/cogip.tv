@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-03T13:35:17Z",
+  "updated_at": "2026-07-03T13:40:27Z",
   "live": [
     "zakium",
-    "fairuven",
-    "gegtropcool"
+    "gegtropcool",
+    "fairuven"
   ],
   "streams": {
     "zakium": {
@@ -13,19 +13,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-07-03T12:10:52Z"
     },
-    "fairuven": {
-      "title": "Blender et JV , Cowork  !sr  ////   !gaza",
-      "viewer_count": 4,
-      "game_name": "868-BACK",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-07-03T12:01:49Z"
-    },
     "gegtropcool": {
       "title": "C'est vendredi c'est bientôt le week end si vous etes en weekend vendredi ft. @musedamnee",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "Dimhaven: The Lost Source",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-03T11:51:11Z"
+    },
+    "fairuven": {
+      "title": "Blender et JV , Cowork  !sr  ////   !gaza",
+      "viewer_count": 3,
+      "game_name": "868-BACK",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-07-03T12:01:49Z"
     }
   }
 }
