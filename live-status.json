@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-04T16:00:57Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-04T16:05:17Z",
+  "live": [
+    "notchthewolf"
+  ],
+  "streams": {
+    "notchthewolf": {
+      "title": "Mon empathie max va t-elle résoudre tout mes soucis ?",
+      "viewer_count": 1,
+      "game_name": "Disco Elysium",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-04T16:04:23Z"
+    }
+  }
 }
