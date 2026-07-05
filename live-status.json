@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-05T11:00:55Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-05T11:05:17Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Soulmask, Episode 7] SpectroGrenouille nous voilà !",
+      "viewer_count": 1,
+      "game_name": "Soulmask",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-07-05T11:01:25Z"
+    }
+  }
 }
