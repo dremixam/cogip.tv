@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-07-06T15:01:06Z",
+  "updated_at": "2026-07-06T15:05:17Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
@@ -10,6 +11,13 @@
       "game_name": "Librarian: Tidy Up the Arcane Library!",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-06T11:00:38Z"
+    },
+    "gegtropcool": {
+      "title": "Tuto et astuces ménage avec @bubuchenbois",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-07-06T15:02:45Z"
     }
   }
 }
