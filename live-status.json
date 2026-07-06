@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-06T11:30:49Z",
+  "updated_at": "2026-07-06T11:35:15Z",
   "live": [
     "kaililou"
   ],
   "streams": {
     "kaililou": {
-      "title": "On piapiate, planning, mots croisés et rangement de livre !",
-      "viewer_count": 7,
-      "game_name": "Just Chatting",
+      "title": "On range en piapiatant",
+      "viewer_count": 10,
+      "game_name": "Librarian: Tidy Up the Arcane Library!",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-06T11:00:38Z"
     }
