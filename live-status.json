@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-07-06T17:05:18Z",
+  "updated_at": "2026-07-06T17:10:37Z",
   "live": [
-    "dremixam",
-    "gegtropcool"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
@@ -11,13 +10,6 @@
       "game_name": "Town to City",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-06T16:42:39Z"
-    },
-    "gegtropcool": {
-      "title": "Tuto et astuces ménage avec @bubuchenbois",
-      "viewer_count": 2,
-      "game_name": "Goblin Cleanup",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-07-06T15:02:45Z"
     }
   }
 }
