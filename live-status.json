@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-07-06T16:15:24Z",
+  "updated_at": "2026-07-06T16:20:55Z",
   "live": [
-    "kaililou",
     "dremixam",
     "gegtropcool"
   ],
   "streams": {
-    "kaililou": {
-      "title": "On range en piapiatant",
-      "viewer_count": 24,
-      "game_name": "Librarian: Tidy Up the Arcane Library!",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-07-06T11:00:38Z"
-    },
     "dremixam": {
       "title": "🏡 Il fait chaud on chill sur Town to City - !prime !kofi",
-      "viewer_count": 18,
+      "viewer_count": 27,
       "game_name": "Town to City",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-06T15:50:20Z"
