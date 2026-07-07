@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-07T15:45:25Z",
+  "updated_at": "2026-07-07T15:50:43Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
       "title": "[Découverte, jour 1] Besoin de chill 💜",
-      "viewer_count": 24,
+      "viewer_count": 20,
       "game_name": "Pawsome Resort",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-07T11:59:39Z"
+    },
+    "dremixam": {
+      "title": "🌊 On répare les conneries de @KaiLilou dans Tides of Tomorrow - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Tides of Tomorrow",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-07-07T15:49:57Z"
     }
   }
 }
