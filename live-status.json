@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-08T19:25:15Z",
+  "updated_at": "2026-07-08T19:30:58Z",
   "live": [
     "gegtropcool"
   ],
   "streams": {
     "gegtropcool": {
       "title": "#etsi je lançais un stream avant goblin's cleanup à 20h avec @bubuchenbois",
-      "viewer_count": 14,
-      "game_name": "Goblin Cleanup",
+      "viewer_count": 16,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-08T16:34:26Z"
     }
