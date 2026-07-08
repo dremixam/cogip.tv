@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T16:55:15Z",
+  "updated_at": "2026-07-08T17:01:12Z",
   "live": [
     "zakium",
     "gegtropcool"
@@ -7,15 +7,15 @@
   "streams": {
     "zakium": {
       "title": "KCD2 : La Geste de Henri - Partie 29 : on avance bien làààà (non) (!rs)",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "game_name": "Kingdom Come: Deliverance II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-07-08T12:12:16Z"
     },
     "gegtropcool": {
       "title": "#etsi je lançais un stream avant goblin's cleanup à 20h avec @bubuchenbois",
-      "viewer_count": 10,
-      "game_name": "Just Chatting",
+      "viewer_count": 7,
+      "game_name": "Rivage",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-08T16:34:26Z"
     }
