@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-07-08T12:10:40Z",
+  "updated_at": "2026-07-08T12:15:24Z",
   "live": [
     "kaililou",
-    "fairuven"
+    "fairuven",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
@@ -18,6 +19,13 @@
       "game_name": "Art",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-07-08T08:48:59Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 29 : on avance bien làààà (non) (!rs)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-08T12:12:16Z"
     }
   }
 }
