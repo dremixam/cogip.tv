@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T12:15:24Z",
+  "updated_at": "2026-07-08T12:20:41Z",
   "live": [
     "kaililou",
     "fairuven",
@@ -8,7 +8,7 @@
   "streams": {
     "kaililou": {
       "title": "Snotel en développement et on piapiate",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "game_name": "Pawsome Resort",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-08T11:00:53Z"
@@ -22,8 +22,8 @@
     },
     "zakium": {
       "title": "KCD2 : La Geste de Henri - Partie 29 : on avance bien làààà (non) (!rs)",
-      "viewer_count": 0,
-      "game_name": "Just Chatting",
+      "viewer_count": 1,
+      "game_name": "Kingdom Come: Deliverance II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-07-08T12:12:16Z"
     }
