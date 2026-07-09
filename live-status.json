@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-09T16:15:23Z",
-  "live": [
-    "kaililou"
-  ],
-  "streams": {
-    "kaililou": {
-      "title": "[Barotrauma] Pas de panique à bord! Avec plein de gens biens 💜",
-      "viewer_count": 20,
-      "game_name": "Barotrauma",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-07-09T10:59:52Z"
-    }
-  }
+  "updated_at": "2026-07-09T16:20:41Z",
+  "live": [],
+  "streams": {}
 }
