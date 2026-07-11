@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-11T11:05:16Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-11T11:10:40Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 31 : le retour de la quête principale ? peut-être :p (!rs)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-11T11:06:02Z"
+    }
+  }
 }
