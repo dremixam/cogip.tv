@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-13T15:45:26Z",
+  "updated_at": "2026-07-13T15:50:45Z",
   "live": [
-    "zakium"
+    "zakium",
+    "dremixam"
   ],
   "streams": {
     "zakium": {
       "title": "KCD2 : La Geste de Henri - Partie 32 : Retour sur les origines de Henri : le pillage de tombes! (!rs !démo)",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "game_name": "Kingdom Come: Deliverance II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-07-13T12:05:04Z"
+    },
+    "dremixam": {
+      "title": "[DROPS] 👨‍🦲 Quand il fait chaud j'ai envie de tuer des riches - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "HITMAN World of Assassination",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-07-13T15:49:57Z"
     }
   }
 }
