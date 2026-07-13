@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-13T19:10:50Z",
-  "live": [
-    "dremixam"
-  ],
-  "streams": {
-    "dremixam": {
-      "title": "[DROPS] 👨‍🦲 Quand il fait chaud j'ai envie de tuer des riches - !prime !kofi",
-      "viewer_count": 39,
-      "game_name": "HITMAN World of Assassination",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-07-13T15:49:57Z"
-    }
-  }
+  "updated_at": "2026-07-13T20:20:50Z",
+  "live": [],
+  "streams": {}
 }
