@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-15T12:05:15Z",
+  "updated_at": "2026-07-15T12:10:46Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Découverte] Time to pew pew magique",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "game_name": "Magicraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-15T11:01:26Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 33 : Horloge astronomique et housing, la chevalerie à la cool (!rs !démo)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-15T12:07:59Z"
     }
   }
 }
