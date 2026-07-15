@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-15T11:00:59Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-15T11:05:15Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Découverte] Time to pew pew magique",
+      "viewer_count": 3,
+      "game_name": "Magicraft",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-07-15T11:01:26Z"
+    }
+  }
 }
