@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-15T14:55:18Z",
+  "updated_at": "2026-07-15T15:01:03Z",
   "live": [
     "kaililou",
-    "zakium"
+    "zakium",
+    "notchthewolf"
   ],
   "streams": {
     "kaililou": {
       "title": "[Découverte] Time to pew pew magique",
-      "viewer_count": 61,
+      "viewer_count": 60,
       "game_name": "Magicraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-15T11:01:26Z"
@@ -18,6 +19,13 @@
       "game_name": "Kingdom Come: Deliverance II",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-07-15T12:07:59Z"
+    },
+    "notchthewolf": {
+      "title": "Nostalgie max sur BGE. On explore les endroits et moments marquants du jeu.",
+      "viewer_count": 0,
+      "game_name": "Beyond Good & Evil",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-15T14:58:17Z"
     }
   }
 }
