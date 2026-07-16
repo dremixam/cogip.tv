@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-07-16T14:50:48Z",
+  "updated_at": "2026-07-16T14:55:15Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "notchthewolf"
   ],
   "streams": {
     "kaililou": {
@@ -10,6 +11,13 @@
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-07-16T11:00:32Z"
+    },
+    "notchthewolf": {
+      "title": "TP Randomizer no Donjon - Lesbian Link arrivera à ses fins coûte que coûte.",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-16T14:53:02Z"
     }
   }
 }
