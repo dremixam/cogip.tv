@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-19T11:00:42Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-19T11:05:14Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Soulmask, Episode 8] Bogarre d'anniversaire !",
+      "viewer_count": 4,
+      "game_name": "Soulmask",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-07-19T11:00:32Z"
+    }
+  }
 }
