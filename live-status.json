@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-20T14:55:22Z",
-  "live": [
-    "fairuven"
-  ],
-  "streams": {
-    "fairuven": {
-      "title": "Blender Et des Trains  !sr  ////   !gaza",
-      "viewer_count": 2,
-      "game_name": "Art",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-07-20T13:26:33Z"
-    }
-  }
+  "updated_at": "2026-07-20T15:00:49Z",
+  "live": [],
+  "streams": {}
 }
