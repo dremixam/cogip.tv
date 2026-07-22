@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-22T15:30:37Z",
+  "updated_at": "2026-07-22T15:35:19Z",
   "live": [
-    "meonstera"
+    "meonstera",
+    "notchthewolf"
   ],
   "streams": {
     "meonstera": {
       "title": "【Tomodachi Life】Ep.9 : Nouveau quartier d' allié·e·s  • !discord !rs",
-      "viewer_count": 19,
+      "viewer_count": 16,
       "game_name": "Tomodachi Life: Living the Dream",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-07-22T12:28:42Z"
+    },
+    "notchthewolf": {
+      "title": "Nostalgie max sur BGE, on explore les moindres recoins !",
+      "viewer_count": 0,
+      "game_name": "Beyond Good & Evil",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-07-22T15:34:24Z"
     }
   }
 }
