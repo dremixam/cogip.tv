@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-22T12:25:17Z",
+  "updated_at": "2026-07-22T12:30:37Z",
   "live": [
-    "fairuven"
+    "fairuven",
+    "meonstera"
   ],
   "streams": {
     "fairuven": {
-      "title": "The Last Air Blender !sr  ////   !gaza",
-      "viewer_count": 5,
+      "title": "The Last Air Blender + react !sr  ////   !gaza",
+      "viewer_count": 6,
       "game_name": "Art",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-07-22T11:08:55Z"
+    },
+    "meonstera": {
+      "title": "【Tomodachi Life】Ep.9 : Nouveau quartier d' allié·e·s  • !discord !rs",
+      "viewer_count": 4,
+      "game_name": "Tomodachi Life: Living the Dream",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
+      "started_at": "2026-07-22T12:28:42Z"
     }
   }
 }
