@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-07-23T12:40:20Z",
-  "live": [
-    "fairuven"
-  ],
-  "streams": {
-    "fairuven": {
-      "title": "The Last Air Blender !sr  ////   !gaza",
-      "viewer_count": 5,
-      "game_name": "Art",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-07-23T09:09:08Z"
-    }
-  }
+  "updated_at": "2026-07-23T12:45:24Z",
+  "live": [],
+  "streams": {}
 }
