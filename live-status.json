@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-07-24T14:40:23Z",
+  "updated_at": "2026-07-24T14:45:23Z",
   "live": [
-    "zakium",
-    "gegtropcool"
+    "gegtropcool",
+    "zakium"
   ],
   "streams": {
-    "zakium": {
-      "title": "KCD2 : La Geste de Henri - Partie 34 : retour de la peste et stand up de moines (!rs !démo)",
-      "viewer_count": 8,
-      "game_name": "Kingdom Come: Deliverance II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-07-24T12:10:30Z"
-    },
     "gegtropcool": {
       "title": "79 milliard de raison d'apprécier Dimhaven en compagnie de @musedamnee",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "game_name": "Dimhaven: The Lost Source",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-24T13:59:06Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 34 : retour de la peste et stand up de moines (!rs !démo)",
+      "viewer_count": 7,
+      "game_name": "Kingdom Come: Deliverance II",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-24T12:10:30Z"
     }
   }
 }
