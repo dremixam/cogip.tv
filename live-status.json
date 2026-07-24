@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-24T12:10:23Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-24T12:15:23Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 34 : retour de la peste et stand up de moines (!rs !démo)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-24T12:10:30Z"
+    }
+  }
 }
