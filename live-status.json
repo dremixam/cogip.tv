@@ -1,31 +1,23 @@
 {
-  "updated_at": "2026-07-25T16:30:49Z",
+  "updated_at": "2026-07-25T16:35:17Z",
   "live": [
     "meonstera",
-    "dremixam",
-    "zakium"
+    "dremixam"
   ],
   "streams": {
     "meonstera": {
       "title": "【FFXIV】ALORS LE DRESSEUR ? (co-stream 93e lettre du producteur LIVE) !prog  • !discord !rs",
-      "viewer_count": 27,
+      "viewer_count": 31,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-07-25T07:47:52Z"
     },
     "dremixam": {
       "title": "[DROPS] ឴🧑‍🦲 Sacrifices de riches pour essayer d'empêcher la prochaine canicule឵ - !prime !kofi",
-      "viewer_count": 23,
+      "viewer_count": 19,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-07-25T15:49:56Z"
-    },
-    "zakium": {
-      "title": "KCD2 : La Geste de Henri - Partie 35 : C'était le méchant le méchant depuis le début ?! nooooooon  (!rs !démo)",
-      "viewer_count": 10,
-      "game_name": "Kingdom Come: Deliverance II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-07-25T12:03:42Z"
     }
   }
 }
