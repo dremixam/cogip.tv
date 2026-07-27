@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-07-27T11:50:19Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-27T11:55:15Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 37 : Henri le Tapinois, Henri l'auteur, Henri le Médecin et Henri l'égorgeur ! (!rs !démo)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-07-27T11:54:05Z"
+    }
+  }
 }
