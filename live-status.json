@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-07-28T20:55:18Z",
+  "updated_at": "2026-07-28T21:00:48Z",
   "live": [
-    "jimauve",
-    "gegtropcool"
+    "jimauve"
   ],
   "streams": {
     "jimauve": {
@@ -11,13 +10,6 @@
       "game_name": "BABBDI",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-07-28T18:53:12Z"
-    },
-    "gegtropcool": {
-      "title": "J'ai la vision (Vision quench avec @nanakelol et @bubuchenbois ) // TW: attention overdose de cool",
-      "viewer_count": 4,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-07-28T18:15:07Z"
     }
   }
 }
