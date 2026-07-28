@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-07-28T18:50:23Z",
+  "updated_at": "2026-07-28T18:55:18Z",
   "live": [
-    "gegtropcool"
+    "gegtropcool",
+    "jimauve"
   ],
   "streams": {
     "gegtropcool": {
       "title": "J'ai la vision (Vision quench avec @nanakelol) // TW: attention overdose de cool",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "game_name": "Vision Quench",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-07-28T18:15:07Z"
+    },
+    "jimauve": {
+      "title": "NOUVELLE RECOMPENSE + UPDATE DECORS + 16/9 + JIJI + TOI + MOI + TON SUB | !kofi !rs",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-07-28T18:53:12Z"
     }
   }
 }
