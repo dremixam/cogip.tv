@@ -1,5 +1,23 @@
 {
-  "updated_at": "2026-07-29T18:50:26Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-07-29T18:55:14Z",
+  "live": [
+    "jimauve",
+    "fairuven"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "Equipage de talent avec @fairuven et @zakium | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-07-29T18:54:40Z"
+    },
+    "fairuven": {
+      "title": "On se Jump le Space avec @jimauve et @zakium !jdr  ////   !gaza",
+      "viewer_count": 0,
+      "game_name": "Jump Space",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-07-29T18:51:11Z"
+    }
+  }
 }
