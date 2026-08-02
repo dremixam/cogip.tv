@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-02T14:40:20Z",
+  "updated_at": "2026-08-02T14:45:28Z",
   "live": [
-    "zakium",
-    "jimauve"
+    "jimauve",
+    "zakium"
   ],
   "streams": {
-    "zakium": {
-      "title": "KCD2 : La Geste de Henri - Partie 40 : Bagar, trahison et vengeance : le XVe Siècle, entre tradition et modernité (!rs !démo)",
-      "viewer_count": 11,
-      "game_name": "Kingdom Come: Deliverance II",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-02T12:01:22Z"
-    },
     "jimauve": {
       "title": "Stream surprise du streameur en guimauve | !kofi !rs",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-08-02T14:20:56Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 40 : Bagar, trahison et vengeance : le XVe Siècle, entre tradition et modernité (!rs !démo)",
+      "viewer_count": 9,
+      "game_name": "Kingdom Come: Deliverance II",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-02T12:01:22Z"
     }
   }
 }
