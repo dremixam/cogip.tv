@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-08-03T11:00:46Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-08-03T11:05:16Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "Retour de vacances ! Piapiatage, mots croisés puis Minecraft",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-08-03T11:02:36Z"
+    }
+  }
 }
