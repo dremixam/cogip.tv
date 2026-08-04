@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-04T11:10:21Z",
+  "updated_at": "2026-08-04T11:15:31Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "raoul_f0"
   ],
   "streams": {
     "kaililou": {
@@ -10,6 +11,13 @@
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-04T11:00:15Z"
+    },
+    "raoul_f0": {
+      "title": "Denshacomeback with a barbe",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-08-04T11:10:38Z"
     }
   }
 }
