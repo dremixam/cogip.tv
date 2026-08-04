@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-04T15:50:23Z",
+  "updated_at": "2026-08-04T15:55:19Z",
   "live": [
     "kaililou",
-    "gegtropcool"
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Avant les fusées on va apprendre la roue à eau hein...",
-      "viewer_count": 19,
+      "viewer_count": 25,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-04T11:00:15Z"
     },
-    "gegtropcool": {
-      "title": "Sobre il teste 2 démos en pleine canicule",
-      "viewer_count": 11,
-      "game_name": "Divinum",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-08-04T13:29:10Z"
+    "dremixam": {
+      "title": "🚀 Createmixam saison 2 : DANS L'ESPACE ! épisode 2 : le retour du retour឵ - !prime !kofi",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-08-04T15:52:32Z"
     }
   }
 }
