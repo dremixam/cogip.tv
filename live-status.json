@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-08-04T12:20:25Z",
+  "updated_at": "2026-08-04T12:25:24Z",
   "live": [
-    "raoul_f0",
-    "kaililou"
+    "kaililou",
+    "raoul_f0"
   ],
   "streams": {
-    "raoul_f0": {
-      "title": "Denshacomeback with a barbe",
-      "viewer_count": 20,
-      "game_name": "Denshattack!",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-08-04T11:10:38Z"
-    },
     "kaililou": {
       "title": "[Serveur Emixam] Avant les fusées on va apprendre la roue à eau hein...",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-04T11:00:15Z"
+    },
+    "raoul_f0": {
+      "title": "Denshacomeback with a barbe",
+      "viewer_count": 19,
+      "game_name": "Denshattack!",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-08-04T11:10:38Z"
     }
   }
 }
