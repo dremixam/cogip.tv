@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-04T13:40:29Z",
+  "updated_at": "2026-08-04T13:45:25Z",
   "live": [
     "kaililou",
     "raoul_f0",
@@ -8,21 +8,21 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Avant les fusées on va apprendre la roue à eau hein...",
-      "viewer_count": 23,
+      "viewer_count": 25,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-04T11:00:15Z"
     },
     "raoul_f0": {
       "title": "Denshacomeback with a barbe",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-08-04T11:10:38Z"
     },
     "gegtropcool": {
       "title": "Sobre il teste 2 démos en pleine canicule",
-      "viewer_count": 5,
+      "viewer_count": 6,
       "game_name": "Lootbound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-04T13:29:10Z"
