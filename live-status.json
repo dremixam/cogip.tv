@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-08-04T18:00:52Z",
+  "updated_at": "2026-08-04T18:05:17Z",
   "live": [
     "dremixam",
-    "gegtropcool"
+    "gegtropcool",
+    "jimauve"
   ],
   "streams": {
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : DANS L'ESPACE ! épisode 2 : le retour du retour឵ - !prime !kofi",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-04T15:52:32Z"
     },
     "gegtropcool": {
       "title": "Petite soiré entre personne respectable et bien élevées ft. @bubuchenbois et @jimauve",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-04T17:53:58Z"
+    },
+    "jimauve": {
+      "title": "Spooky SuperMarket Together avec @gegtropcool et @bubuchenbois | !kofi !rs",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-08-04T18:02:09Z"
     }
   }
 }
