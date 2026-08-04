@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-04T13:25:18Z",
+  "updated_at": "2026-08-04T13:30:38Z",
   "live": [
     "kaililou",
-    "raoul_f0"
+    "raoul_f0",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Avant les fusées on va apprendre la roue à eau hein...",
-      "viewer_count": 21,
+      "viewer_count": 20,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-04T11:00:15Z"
@@ -18,6 +19,13 @@
       "game_name": "Denshattack!",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-08-04T11:10:38Z"
+    },
+    "gegtropcool": {
+      "title": "Sobre il teste 2 démos en pleine canicule",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-08-04T13:29:10Z"
     }
   }
 }
