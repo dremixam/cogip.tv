@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-08-05T19:00:50Z",
+  "updated_at": "2026-08-05T19:05:26Z",
   "live": [
-    "jimauve"
+    "jimauve",
+    "fairuven"
   ],
   "streams": {
     "jimauve": {
@@ -10,6 +11,13 @@
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-08-05T18:31:42Z"
+    },
+    "fairuven": {
+      "title": "[STREAM JDR] Avatar Legend avec @jimauve , @mamapaprika @loup_mp4 et @halliwhy !jdr  ////   !gaza",
+      "viewer_count": 23,
+      "game_name": "Tabletop RPGs",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-05T19:03:08Z"
     }
   }
 }
