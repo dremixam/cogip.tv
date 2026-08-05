@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-05T12:05:18Z",
+  "updated_at": "2026-08-05T12:10:22Z",
   "live": [
     "kaililou",
-    "meonstera"
+    "meonstera",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Project Zomboid, B42, Jour 1] On tente de démarrer en hiver ??",
-      "viewer_count": 32,
+      "viewer_count": 35,
       "game_name": "Project Zomboid",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-05T11:03:36Z"
@@ -18,6 +19,13 @@
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-05T11:54:57Z"
+    },
+    "zakium": {
+      "title": "KCD2 : La Geste de Henri - Partie 42 : La fin des Aventures de Henri le Tapinois ! (et peut-être qu'après on fait des trucs ?)(!rs !démo)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-05T12:05:50Z"
     }
   }
 }
