@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-05T17:20:23Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "Découverte de Shards of Order, c'est trop breusson (!rs !démo)",
-      "viewer_count": 26,
-      "game_name": "Shards of Order",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-05T12:05:50Z"
-    }
-  }
+  "updated_at": "2026-08-05T17:25:18Z",
+  "live": [],
+  "streams": {}
 }
