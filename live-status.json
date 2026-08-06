@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-08-06T10:55:18Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-08-06T11:00:48Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Project Zomboid, B42, Jour 2] L'hiver est là..",
+      "viewer_count": 0,
+      "game_name": "Project Zomboid",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-08-06T11:00:26Z"
+    }
+  }
 }
