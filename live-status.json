@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-08-07T18:00:47Z",
+  "updated_at": "2026-08-07T18:05:24Z",
   "live": [
     "dremixam",
-    "gegtropcool"
+    "gegtropcool",
+    "daxxime"
   ],
   "streams": {
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : DANS L'ESPACE ! épisode 3 : bon l'espace ça sera pas de suite឵ - !prime !kofi",
-      "viewer_count": 22,
+      "viewer_count": 20,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-07T15:49:58Z"
     },
     "gegtropcool": {
       "title": "En just Dimhavening avec @musedamnee (oui la vraie)",
-      "viewer_count": 6,
+      "viewer_count": 5,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-07T17:53:21Z"
+    },
+    "daxxime": {
+      "title": "Pas tout à fait Skyrim - Découverte Enderal !1001 !discord !kofi",
+      "viewer_count": 1,
+      "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
+      "started_at": "2026-08-07T18:02:56Z"
     }
   }
 }
