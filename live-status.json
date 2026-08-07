@@ -1,36 +1,36 @@
 {
-  "updated_at": "2026-08-07T20:20:23Z",
+  "updated_at": "2026-08-07T20:25:19Z",
   "live": [
     "dremixam",
-    "daxxime",
     "gegtropcool",
+    "daxxime",
     "raoul_f0"
   ],
   "streams": {
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : DANS L'ESPACE ! épisode 3 : bon l'espace ça sera pas de suite឵ - !prime !kofi",
-      "viewer_count": 22,
+      "viewer_count": 20,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-07T15:49:58Z"
     },
+    "gegtropcool": {
+      "title": "En train de déféquer en compagnie de @musedamnee (oui la vraie)",
+      "viewer_count": 7,
+      "game_name": "The Binding of Isaac: Rebirth",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-08-07T17:53:21Z"
+    },
     "daxxime": {
       "title": "Pas tout à fait Skyrim - Découverte Enderal !1001 !discord !kofi",
-      "viewer_count": 7,
+      "viewer_count": 5,
       "game_name": "The Elder Scrolls V: Skyrim - Special Edition",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-08-07T18:02:56Z"
     },
-    "gegtropcool": {
-      "title": "En just Dimhavening avec @musedamnee (oui la vraie)",
-      "viewer_count": 6,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-08-07T17:53:21Z"
-    },
     "raoul_f0": {
       "title": "Denshanight Denshacrash",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "game_name": "Denshattack!",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-08-07T20:11:41Z"
