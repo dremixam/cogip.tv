@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-07T12:15:23Z",
+  "updated_at": "2026-08-07T12:20:22Z",
   "live": [
-    "zakium"
+    "zakium",
+    "raoul_f0"
   ],
   "streams": {
     "zakium": {
       "title": "Dive Or Die : plonger ou dé ! (!rs !discord)",
-      "viewer_count": 3,
+      "viewer_count": 7,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-07T12:04:36Z"
+    },
+    "raoul_f0": {
+      "title": "Denshacrash y'en aura sans doute :)",
+      "viewer_count": 2,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-08-07T12:18:41Z"
     }
   }
 }
