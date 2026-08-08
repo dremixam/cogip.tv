@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-08T17:25:15Z",
+  "updated_at": "2026-08-08T17:30:34Z",
   "live": [
-    "dremixam",
-    "fairuven"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
@@ -11,13 +10,6 @@
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-08T15:49:58Z"
-    },
-    "fairuven": {
-      "title": "Ptit Debrief du JDR   ////   !gaza",
-      "viewer_count": 3,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-08T16:27:28Z"
     }
   }
 }
