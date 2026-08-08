@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T16:25:16Z",
+  "updated_at": "2026-08-08T16:30:33Z",
   "live": [
     "meonstera",
     "dremixam",
@@ -8,24 +8,24 @@
   "streams": {
     "meonstera": {
       "title": "【REACT】Rancher du Grand Teton, Stero Ploplo, cherche toujours l'amour  • !discord !rs",
-      "viewer_count": 18,
+      "viewer_count": 20,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-08T13:25:40Z"
     },
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : Mission Pipi-Cola឵ - !prime !kofi",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-08T15:49:58Z"
     },
     "fairuven": {
       "title": "Ptit Debrief du JDR   ////   !gaza",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-08T16:09:47Z"
+      "started_at": "2026-08-08T16:27:28Z"
     }
   }
 }
