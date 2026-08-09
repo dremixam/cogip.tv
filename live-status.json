@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-09T00:45:23Z",
-  "live": [
-    "raoul_f0"
-  ],
-  "streams": {
-    "raoul_f0": {
-      "title": "\"Dodo et Dragons\" par Minel_Za",
-      "viewer_count": 10,
-      "game_name": "Dragon Age™: Origins",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-08-08T21:42:22Z"
-    }
-  }
+  "updated_at": "2026-08-09T00:50:20Z",
+  "live": [],
+  "streams": {}
 }
