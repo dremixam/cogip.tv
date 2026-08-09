@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-09T12:00:45Z",
+  "updated_at": "2026-08-09T12:05:16Z",
   "live": [
-    "gegtropcool"
+    "gegtropcool",
+    "zakium"
   ],
   "streams": {
     "gegtropcool": {
       "title": "On joue à elden ring pour changer sur cette chaîne avec @dahkrab et @maanette",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "game_name": "ELDEN RING",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-09T08:40:23Z"
+    },
+    "zakium": {
+      "title": "Découverte de Pax Autocratica ! (je pense qu'on va jouer les gentils !) (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-09T12:03:21Z"
     }
   }
 }
