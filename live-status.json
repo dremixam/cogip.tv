@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T20:00:46Z",
+  "updated_at": "2026-08-11T20:05:16Z",
   "live": [
     "jimauve",
     "gegtropcool"
@@ -7,14 +7,14 @@
   "streams": {
     "jimauve": {
       "title": "Blabla et on test la démo du jeu de @Doigt | !kofi !rs",
-      "viewer_count": 34,
+      "viewer_count": 37,
       "game_name": "Games + Demos",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-08-11T18:50:51Z"
     },
     "gegtropcool": {
       "title": "Balatro TW : celeri rave",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "game_name": "Balatro",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-11T17:16:57Z"
