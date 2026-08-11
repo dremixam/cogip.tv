@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-11T14:00:50Z",
+  "updated_at": "2026-08-11T14:05:20Z",
   "live": [
     "kaililou",
     "daxxime"
@@ -7,15 +7,15 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Un zoo ou une fusée ?",
-      "viewer_count": 26,
+      "viewer_count": 25,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-11T11:00:19Z"
     },
     "daxxime": {
-      "title": "Découverte de Riftstorm en avant-première !1001 !discord !kofi !keymailer",
-      "viewer_count": 4,
-      "game_name": "RIFTSTORM",
+      "title": "ça range à balle !1001 !discord !kofi !keymailer",
+      "viewer_count": 5,
+      "game_name": "Cellar Keeper",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-08-11T11:29:34Z"
     }
