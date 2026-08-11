@@ -1,17 +1,24 @@
 {
-  "updated_at": "2026-08-11T18:55:15Z",
+  "updated_at": "2026-08-11T19:00:50Z",
   "live": [
     "dremixam",
-    "gegtropcool",
-    "jimauve"
+    "jimauve",
+    "gegtropcool"
   ],
   "streams": {
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : Mardi amélioration d'usine chill឵ - !prime !kofi",
-      "viewer_count": 33,
+      "viewer_count": 32,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-11T15:49:57Z"
+    },
+    "jimauve": {
+      "title": "Blabla et on test la démo du jeu de @Doigt | !kofi !rs",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-08-11T18:50:51Z"
     },
     "gegtropcool": {
       "title": "Je test des démo🕹️délicieuses, je l’espère TW : le premier a tendence à mettre mal, celeri rave",
@@ -19,13 +26,6 @@
       "game_name": "Dungeon Lurker",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-11T17:16:57Z"
-    },
-    "jimauve": {
-      "title": "Blabla et on test la démo du jeu de @Doigt | !kofi !rs",
-      "viewer_count": 1,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-08-11T18:50:51Z"
     }
   }
 }
