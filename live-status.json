@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-08-12T12:05:17Z",
+  "updated_at": "2026-08-12T12:10:20Z",
   "live": [
     "kaililou",
-    "daxxime"
+    "daxxime",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Project Zomboid, B42, Jour 3] 6 mois plus tard avec @patwickshow",
-      "viewer_count": 29,
+      "viewer_count": 28,
       "game_name": "Project Zomboid",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-12T11:01:34Z"
     },
     "daxxime": {
       "title": "genshin mais sans les micro-transaction !1001 !discord !kofi !keymailer",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "game_name": "DragonSword: Awakening",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-08-12T11:41:21Z"
+    },
+    "zakium": {
+      "title": "suite de Pax Autocratica ! on est les gentils de l'espace tqt (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Pax Autocratica",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-12T12:09:47Z"
     }
   }
 }
