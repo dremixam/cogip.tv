@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-13T18:00:50Z",
+  "updated_at": "2026-08-13T18:05:18Z",
   "live": [
-    "notchthewolf"
+    "notchthewolf",
+    "gegtropcool"
   ],
   "streams": {
     "notchthewolf": {
       "title": "Antibiotique des facteurs ce soir entre cogip élite male alpha.",
-      "viewer_count": 11,
+      "viewer_count": 6,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-13T17:43:09Z"
+    },
+    "gegtropcool": {
+      "title": "Abiotic Factor ⚗️🧪🧑‍🔬 avec @daxxime, @jimauve, @notchthewolf et @raoul_f0",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-08-13T18:04:27Z"
     }
   }
 }
