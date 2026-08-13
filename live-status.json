@@ -1,17 +1,17 @@
 {
-  "updated_at": "2026-08-13T19:00:50Z",
+  "updated_at": "2026-08-13T19:05:18Z",
   "live": [
     "jimauve",
     "notchthewolf",
+    "raoul_f0",
     "gegtropcool",
-    "daxxime",
-    "raoul_f0"
+    "daxxime"
   ],
   "streams": {
     "jimauve": {
       "title": "On est des grands adultes scientifiques et genre c'est la fin du monde | avec @gegtropcool @raoul_f0 @notchthewolf @daxxime | !kofi !rs",
-      "viewer_count": 12,
-      "game_name": "Just Chatting",
+      "viewer_count": 15,
+      "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-08-13T18:22:38Z"
     },
@@ -22,6 +22,13 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-13T17:43:09Z"
     },
+    "raoul_f0": {
+      "title": "Je suis le cuistot gastro dans Abiotic Factor avec @daxxime, @notchthewolf, @gegtropcool et @jimauve !!!",
+      "viewer_count": 5,
+      "game_name": "Abiotic Factor",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-08-13T18:22:00Z"
+    },
     "gegtropcool": {
       "title": "Abiotic Factor ⚗️🧪🧑‍🔬 avec @daxxime, @jimauve, @notchthewolf et @raoul_f0",
       "viewer_count": 4,
@@ -31,17 +38,10 @@
     },
     "daxxime": {
       "title": "ABIOTIC FACTOR - LA GRANDE AVENTURE feat @jimauve @notchthewolf @gegtropcool @raoul_f0 | !1001 !discord !kofi",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-08-13T18:35:31Z"
-    },
-    "raoul_f0": {
-      "title": "Je suis le cuistot gastro dans Abiotic Factor avec @daxxime, @notchthewolf, @gegtropcool et @jimauve !!!",
-      "viewer_count": 2,
-      "game_name": "Abiotic Factor",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-08-13T18:22:00Z"
     }
   }
 }
