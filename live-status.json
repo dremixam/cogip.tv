@@ -1,47 +1,47 @@
 {
-  "updated_at": "2026-08-13T19:30:37Z",
+  "updated_at": "2026-08-13T19:35:18Z",
   "live": [
     "jimauve",
     "notchthewolf",
     "gegtropcool",
-    "daxxime",
-    "raoul_f0"
+    "raoul_f0",
+    "daxxime"
   ],
   "streams": {
     "jimauve": {
       "title": "On est des grands adultes scientifiques et genre c'est la fin du monde | avec @gegtropcool @raoul_f0 @notchthewolf @daxxime | !kofi !rs",
-      "viewer_count": 17,
+      "viewer_count": 13,
       "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-08-13T18:22:38Z"
     },
     "notchthewolf": {
       "title": "Antibiotique des facteurs ce soir entre cogip élite male alpha.",
-      "viewer_count": 9,
+      "viewer_count": 7,
       "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-13T17:43:09Z"
     },
     "gegtropcool": {
       "title": "Abiotic Factor ⚗️🧪🧑‍🔬 avec @daxxime, @jimauve, @notchthewolf et @raoul_f0",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-13T18:04:27Z"
     },
-    "daxxime": {
-      "title": "ABIOTIC FACTOR - LA GRANDE AVENTURE feat @jimauve @notchthewolf @gegtropcool @raoul_f0 | !1001 !discord !kofi",
-      "viewer_count": 1,
-      "game_name": "Abiotic Factor",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
-      "started_at": "2026-08-13T18:35:31Z"
-    },
     "raoul_f0": {
       "title": "Je suis le cuistot gastro dans Abiotic Factor avec @daxxime, @notchthewolf, @gegtropcool et @jimauve !!!",
-      "viewer_count": 1,
+      "viewer_count": 2,
       "game_name": "Abiotic Factor",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-08-13T18:22:00Z"
+    },
+    "daxxime": {
+      "title": "ABIOTIC FACTOR - LA GRANDE AVENTURE feat @jimauve @notchthewolf @gegtropcool @raoul_f0 | !1001 !discord !kofi",
+      "viewer_count": 2,
+      "game_name": "Abiotic Factor",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
+      "started_at": "2026-08-13T18:35:31Z"
     }
   }
 }
