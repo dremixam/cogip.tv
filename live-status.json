@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-14T19:25:16Z",
-  "live": [
-    "dremixam"
-  ],
-  "streams": {
-    "dremixam": {
-      "title": "🚀 Createmixam saison 2 : Vendredi chill឵ - !prime !kofi",
-      "viewer_count": 25,
-      "game_name": "Minecraft",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-08-14T15:49:58Z"
-    }
-  }
+  "updated_at": "2026-08-14T19:30:40Z",
+  "live": [],
+  "streams": {}
 }
