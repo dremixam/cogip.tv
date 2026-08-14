@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-14T14:45:23Z",
+  "updated_at": "2026-08-14T14:50:21Z",
   "live": [
-    "zakium",
-    "fairuven"
+    "zakium"
   ],
   "streams": {
     "zakium": {
       "title": "Encore du Pax Autocratica, je suis dans ma lancée ^^ on verra après :p (!rs !discord)",
-      "viewer_count": 21,
+      "viewer_count": 27,
       "game_name": "Pax Autocratica",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-14T11:54:59Z"
-    },
-    "fairuven": {
-      "title": "The Last AirBlender Face au Président de la Nation du Feu Ruffin  !sr ////   !gaza",
-      "viewer_count": 9,
-      "game_name": "",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-14T10:51:27Z"
     }
   }
 }
