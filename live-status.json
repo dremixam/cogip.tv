@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-08-16T10:00:47Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-08-16T10:05:15Z",
+  "live": [
+    "fairuven"
+  ],
+  "streams": {
+    "fairuven": {
+      "title": "The Last AirBlender Face a Ruffin Episode 3  !sr ////   !gaza",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-16T10:01:58Z"
+    }
+  }
 }
