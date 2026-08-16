@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-16T17:25:15Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "Helldivers 2 poin poin poin poiiiiin avec @Toopixel_ @lechauvetv et @crazyswiss (!rs !discord)",
-      "viewer_count": 15,
-      "game_name": "HELLDIVERS 2",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-16T11:54:18Z"
-    }
-  }
+  "updated_at": "2026-08-16T17:30:33Z",
+  "live": [],
+  "streams": {}
 }
