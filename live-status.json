@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-08-16T11:50:21Z",
+  "updated_at": "2026-08-16T11:55:17Z",
   "live": [
     "kaililou",
-    "fairuven"
+    "fairuven",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 9] On farm tranquillement aujourd'hui",
-      "viewer_count": 16,
+      "viewer_count": 19,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-16T11:00:39Z"
     },
     "fairuven": {
       "title": "The Last AirBlender Face a Ruffin Episode 3  !sr ////   !gaza",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-16T10:01:58Z"
+    },
+    "zakium": {
+      "title": "Helldivers 2 poin poin poin poiiiiin avec @Toopixel_ @lechauvetv et @crazyswiss (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-16T11:54:18Z"
     }
   }
 }
