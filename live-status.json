@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-08-17T16:00:49Z",
+  "updated_at": "2026-08-17T16:05:15Z",
   "live": [
     "kaililou",
-    "fairuven",
-    "dremixam"
+    "dremixam",
+    "fairuven"
   ],
   "streams": {
     "kaililou": {
@@ -13,19 +13,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-17T11:00:15Z"
     },
-    "fairuven": {
-      "title": "The Last AirBlender Face a Ruffin Episode 6  !sr ////   !gaza",
-      "viewer_count": 11,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-17T11:08:23Z"
-    },
     "dremixam": {
       "title": "🛠️ Réparation à petit budget et bonne ambiance឵ - !prime !kofi",
-      "viewer_count": 7,
+      "viewer_count": 14,
       "game_name": "Low-Budget Repairs",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-17T15:50:46Z"
+    },
+    "fairuven": {
+      "title": "The Last AirBlender Face a Ruffin Episode 6  !sr ////   !gaza",
+      "viewer_count": 12,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-17T11:08:23Z"
     }
   }
 }
