@@ -1,10 +1,10 @@
 {
-  "updated_at": "2026-08-18T16:00:52Z",
+  "updated_at": "2026-08-18T16:05:18Z",
   "live": [
     "kaililou",
     "zakium",
-    "dremixam",
-    "notchthewolf"
+    "notchthewolf",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
@@ -16,24 +16,24 @@
     },
     "zakium": {
       "title": "Un peu de Minecraft avec @kaililou ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 11,
+      "viewer_count": 12,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
     },
-    "dremixam": {
-      "title": "🚀 Createmixam saison 2 : zinzineries à l'usine឵ - !prime !kofi",
-      "viewer_count": 10,
-      "game_name": "Minecraft",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-08-18T15:51:39Z"
-    },
     "notchthewolf": {
       "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "game_name": "Beyond Good & Evil",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-18T14:42:34Z"
+    },
+    "dremixam": {
+      "title": "🚀 Createmixam saison 2 : zinzineries à l'usine឵ - !prime !kofi",
+      "viewer_count": 9,
+      "game_name": "Minecraft",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-08-18T15:51:39Z"
     }
   }
 }
