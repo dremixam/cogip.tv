@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-08-18T11:45:25Z",
+  "updated_at": "2026-08-18T11:50:20Z",
   "live": [
     "kaililou",
     "gegtropcool",
-    "fairuven"
+    "fairuven",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
@@ -22,10 +23,17 @@
     },
     "fairuven": {
       "title": "Ma Campagne en Bateau Stop !sr ////   !gaza",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "game_name": "Corsair Cove",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-18T10:35:19Z"
+    },
+    "zakium": {
+      "title": "Un peu de Minecraft ? sur le serveur de DrEmixam :) (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-18T11:48:50Z"
     }
   }
 }
