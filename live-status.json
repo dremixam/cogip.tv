@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-18T18:00:50Z",
+  "updated_at": "2026-08-18T18:05:16Z",
   "live": [
-    "dremixam",
-    "notchthewolf"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
       "title": "🚀 Createmixam saison 2 : zinzineries à l'usine឵ - !prime !kofi",
-      "viewer_count": 23,
+      "viewer_count": 31,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-08-18T15:51:39Z"
-    },
-    "notchthewolf": {
-      "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
-      "viewer_count": 14,
-      "game_name": "Beyond Good & Evil",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
-      "started_at": "2026-08-18T14:42:34Z"
     }
   }
 }
