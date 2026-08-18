@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T12:25:15Z",
+  "updated_at": "2026-08-18T12:30:38Z",
   "live": [
     "kaililou",
     "zakium",
@@ -9,14 +9,14 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Fusée aujourd'hui ?",
-      "viewer_count": 24,
+      "viewer_count": 21,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-18T11:00:29Z"
     },
     "zakium": {
       "title": "Un peu de Minecraft ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 14,
+      "viewer_count": 13,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
@@ -24,7 +24,7 @@
     "gegtropcool": {
       "title": "Stream demo 🕹️☝️ J'en ai une cargaison à tester et des supers jeux pour après potentiellement",
       "viewer_count": 5,
-      "game_name": "Games + Demos",
+      "game_name": "My Beautiful Faraway, Please Don't Be Cruel to Me",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-18T11:21:19Z"
     },
