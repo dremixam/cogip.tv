@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-18T10:55:17Z",
+  "updated_at": "2026-08-18T11:00:49Z",
   "live": [
-    "fairuven"
+    "fairuven",
+    "kaililou"
   ],
   "streams": {
     "fairuven": {
       "title": "Ma Campagne en Auto Vaisseau Stop !sr ////   !gaza",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-18T10:35:19Z"
+    },
+    "kaililou": {
+      "title": "[Serveur Emixam] Fusée aujourd'hui ?",
+      "viewer_count": 0,
+      "game_name": "Minecraft",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-08-18T11:00:29Z"
     }
   }
 }
