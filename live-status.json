@@ -1,10 +1,11 @@
 {
-  "updated_at": "2026-08-18T15:50:23Z",
+  "updated_at": "2026-08-18T15:55:16Z",
   "live": [
     "kaililou",
     "zakium",
     "notchthewolf",
-    "gegtropcool"
+    "gegtropcool",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
@@ -23,17 +24,24 @@
     },
     "notchthewolf": {
       "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
-      "viewer_count": 10,
-      "game_name": "Just Chatting",
+      "viewer_count": 11,
+      "game_name": "Beyond Good & Evil",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-18T14:42:34Z"
     },
     "gegtropcool": {
       "title": "Le meilleur jeu vidéo de 2014",
-      "viewer_count": 6,
+      "viewer_count": 7,
       "game_name": "The Binding of Isaac: Rebirth",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-18T11:21:19Z"
+    },
+    "dremixam": {
+      "title": "🚀 Createmixam saison 2 : zinzineries à l'usine឵ - !prime !kofi",
+      "viewer_count": 1,
+      "game_name": "Minecraft",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-08-18T15:51:39Z"
     }
   }
 }
