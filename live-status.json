@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:05:19Z",
+  "updated_at": "2026-08-18T15:10:23Z",
   "live": [
     "kaililou",
     "zakium",
@@ -9,21 +9,21 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Fusée aujourd'hui ?",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-18T11:00:29Z"
     },
     "zakium": {
       "title": "Un peu de Minecraft avec @kaililou ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
     },
     "notchthewolf": {
       "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
-      "viewer_count": 11,
+      "viewer_count": 8,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-18T14:42:34Z"
