@@ -1,31 +1,39 @@
 {
-  "updated_at": "2026-08-18T14:40:23Z",
+  "updated_at": "2026-08-18T14:45:27Z",
   "live": [
     "kaililou",
     "zakium",
-    "gegtropcool"
+    "gegtropcool",
+    "notchthewolf"
   ],
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Fusée aujourd'hui ?",
-      "viewer_count": 20,
+      "viewer_count": 21,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-18T11:00:29Z"
     },
     "zakium": {
       "title": "Un peu de Minecraft avec @kaililou ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 14,
+      "viewer_count": 15,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
     },
     "gegtropcool": {
       "title": "On risque la pluie avec @billybobjones_",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "Risk of Rain 2",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-18T11:21:19Z"
+    },
+    "notchthewolf": {
+      "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
+      "started_at": "2026-08-18T14:42:34Z"
     }
   }
 }
