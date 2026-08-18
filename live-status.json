@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T13:40:24Z",
+  "updated_at": "2026-08-18T13:45:24Z",
   "live": [
     "kaililou",
     "zakium",
@@ -9,28 +9,28 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Fusée aujourd'hui ?",
-      "viewer_count": 23,
+      "viewer_count": 21,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-18T11:00:29Z"
     },
     "zakium": {
       "title": "Un peu de Minecraft avec @kaililou ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 15,
+      "viewer_count": 13,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
     },
     "gegtropcool": {
       "title": "Stream demo 🕹️☝️ J'en ai une cargaison à tester et des supers jeux pour après potentiellement",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "game_name": "My Beautiful Faraway, Please Don't Be Cruel to Me",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-18T11:21:19Z"
     },
     "fairuven": {
       "title": "Liberté Démocratie toussa toussa !sr ////   !gaza",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "HELLDIVERS 2",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-18T10:35:19Z"
