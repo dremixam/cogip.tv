@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T13:30:38Z",
+  "updated_at": "2026-08-18T13:35:18Z",
   "live": [
     "kaililou",
     "zakium",
@@ -9,7 +9,7 @@
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Fusée aujourd'hui ?",
-      "viewer_count": 24,
+      "viewer_count": 22,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-18T11:00:29Z"
@@ -30,7 +30,7 @@
     },
     "fairuven": {
       "title": "Liberté Démocratie toussa toussa !sr ////   !gaza",
-      "viewer_count": 4,
+      "viewer_count": 5,
       "game_name": "HELLDIVERS 2",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-18T10:35:19Z"
