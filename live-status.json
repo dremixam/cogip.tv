@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18T15:20:23Z",
+  "updated_at": "2026-08-18T15:25:19Z",
   "live": [
     "kaililou",
     "zakium",
@@ -16,22 +16,22 @@
     },
     "zakium": {
       "title": "Un peu de Minecraft avec @kaililou ? sur le serveur de DrEmixam :) (!rs !discord)",
-      "viewer_count": 10,
+      "viewer_count": 13,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-18T11:48:50Z"
     },
     "notchthewolf": {
       "title": "Beyond Goon & Evil tu connais ? ( non j'ai pas miss click la lettre )",
-      "viewer_count": 8,
+      "viewer_count": 9,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-18T14:42:34Z"
     },
     "gegtropcool": {
-      "title": "On risque la pluie avec @billybobjones_",
-      "viewer_count": 8,
-      "game_name": "Risk of Rain 2",
+      "title": "Le meilleur jeu vidéo de 2014",
+      "viewer_count": 7,
+      "game_name": "The Binding of Isaac: Rebirth",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-18T11:21:19Z"
     }
