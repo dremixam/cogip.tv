@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-19T15:55:17Z",
+  "updated_at": "2026-08-19T16:00:53Z",
   "live": [
     "kaililou",
     "meonstera",
-    "zakium",
-    "notchthewolf"
+    "notchthewolf",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Serveur Emixam] Le pétrole n'existe pas..",
-      "viewer_count": 27,
+      "viewer_count": 28,
       "game_name": "Minecraft",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-19T11:00:19Z"
@@ -21,19 +21,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-19T13:06:54Z"
     },
-    "zakium": {
-      "title": "Oskour je fais Minecraft avec @kaililou ? sur le serveur de @DrEmixam :) (!rs !discord)",
-      "viewer_count": 11,
-      "game_name": "Minecraft",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-19T12:12:14Z"
-    },
     "notchthewolf": {
       "title": "Je ne joue PAS DU TOUT parce que c'est Machine girl qui a fait les ost (:",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "game_name": "Neon White",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_notchthewolf-640x360.jpg",
       "started_at": "2026-08-19T14:18:16Z"
+    },
+    "zakium": {
+      "title": "Oskour je fais Minecraft avec @kaililou ? sur le serveur de @DrEmixam :) (!rs !discord)",
+      "viewer_count": 9,
+      "game_name": "Minecraft",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-19T12:12:14Z"
     }
   }
 }
