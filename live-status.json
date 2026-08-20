@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-08-20T15:05:17Z",
+  "updated_at": "2026-08-20T15:10:31Z",
   "live": [
     "kaililou",
-    "gegtropcool",
-    "zakium"
+    "zakium",
+    "gegtropcool"
   ],
   "streams": {
     "kaililou": {
       "title": "On se termine sur brotato",
-      "viewer_count": 19,
+      "viewer_count": 21,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-20T11:01:39Z"
     },
-    "gegtropcool": {
-      "title": "On s'en remet un petit peu (des démos)",
-      "viewer_count": 10,
-      "game_name": "Trust Your Gut",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-08-20T12:54:37Z"
-    },
     "zakium": {
       "title": "ON se Brotatermine avec @kaililou !",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-20T11:00:55Z"
+    },
+    "gegtropcool": {
+      "title": "On s'en remet un petit peu (des démos)",
+      "viewer_count": 7,
+      "game_name": "Trust Your Gut",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-08-20T12:54:37Z"
     }
   }
 }
