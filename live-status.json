@@ -1,24 +1,24 @@
 {
-  "updated_at": "2026-08-20T20:05:16Z",
+  "updated_at": "2026-08-20T20:10:21Z",
   "live": [
-    "jimauve",
     "meonstera",
+    "jimauve",
     "zakium"
   ],
   "streams": {
-    "jimauve": {
-      "title": "bogarre avec la douceur ( @loup_mp4 )  | !kofi !rs",
-      "viewer_count": 13,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-08-20T18:56:24Z"
-    },
     "meonstera": {
       "title": "【STOREBOUND】cacaculotte avec les potes @halliwhy et @zakium • !discord !rs • TW Sang / Araigné / autre bestiole / FLASH",
       "viewer_count": 13,
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-20T17:49:33Z"
+    },
+    "jimauve": {
+      "title": "bogarre avec la douceur ( @loup_mp4 )  | !kofi !rs",
+      "viewer_count": 11,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-08-20T18:56:24Z"
     },
     "zakium": {
       "title": "Un deuxième stream ? hééé oui ! StoreBound avec @Meonstera et @Halliwhy !",
