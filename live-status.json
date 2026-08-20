@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20T15:15:25Z",
+  "updated_at": "2026-08-20T15:20:23Z",
   "live": [
     "kaililou",
     "zakium",
@@ -8,7 +8,7 @@
   "streams": {
     "kaililou": {
       "title": "On se termine sur brotato",
-      "viewer_count": 19,
+      "viewer_count": 20,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-20T11:01:39Z"
@@ -22,8 +22,8 @@
     },
     "gegtropcool": {
       "title": "On s'en remet un petit peu (des démos)",
-      "viewer_count": 6,
-      "game_name": "Trust Your Gut",
+      "viewer_count": 5,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-20T12:54:37Z"
     }
