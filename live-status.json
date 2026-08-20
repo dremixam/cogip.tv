@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-20T21:45:24Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "bogarre avec la douceur ( @loup_mp4 )  | !kofi !rs",
-      "viewer_count": 24,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-08-20T18:56:24Z"
-    }
-  }
+  "updated_at": "2026-08-20T21:50:21Z",
+  "live": [],
+  "streams": {}
 }
