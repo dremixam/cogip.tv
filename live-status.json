@@ -1,15 +1,15 @@
 {
-  "updated_at": "2026-08-20T13:10:23Z",
+  "updated_at": "2026-08-20T13:15:25Z",
   "live": [
     "kaililou",
     "zakium",
-    "fairuven",
-    "gegtropcool"
+    "gegtropcool",
+    "fairuven"
   ],
   "streams": {
     "kaililou": {
       "title": "On va tenter de survivre avec @zakium, @fairuven et @jimauve 🚀",
-      "viewer_count": 23,
+      "viewer_count": 21,
       "game_name": "Jump Space",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-20T11:01:39Z"
@@ -21,19 +21,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-20T11:00:55Z"
     },
-    "fairuven": {
-      "title": "On se Jump le Space avec @kaililou et @zakium !sr ////   !gaza",
-      "viewer_count": 4,
-      "game_name": "Jump Space",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-20T11:10:35Z"
-    },
     "gegtropcool": {
       "title": "On s'en remet un petit peu (des démos)",
-      "viewer_count": 3,
+      "viewer_count": 4,
       "game_name": "Being & Becoming",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-08-20T12:54:37Z"
+    },
+    "fairuven": {
+      "title": "On se Jump le Space avec @kaililou et @zakium !sr ////   !gaza",
+      "viewer_count": 2,
+      "game_name": "Jump Space",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-20T11:10:35Z"
     }
   }
 }
