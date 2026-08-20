@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-08-20T16:00:51Z",
+  "updated_at": "2026-08-20T16:05:17Z",
   "live": [
-    "kaililou",
-    "zakium"
+    "kaililou"
   ],
   "streams": {
     "kaililou": {
@@ -11,13 +10,6 @@
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-20T11:01:39Z"
-    },
-    "zakium": {
-      "title": "ON se Brotatermine avec @kaililou !",
-      "viewer_count": 12,
-      "game_name": "Brotato",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-20T11:00:55Z"
     }
   }
 }
