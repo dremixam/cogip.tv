@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-20T18:55:16Z",
+  "updated_at": "2026-08-20T19:00:50Z",
   "live": [
     "meonstera",
-    "zakium"
+    "zakium",
+    "jimauve"
   ],
   "streams": {
     "meonstera": {
       "title": "【STOREBOUND】cacaculotte avec les potes @halliwhy et @zakium • !discord !rs • TW Sang / Araigné / autre bestiole / FLASH",
-      "viewer_count": 12,
+      "viewer_count": 10,
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-20T17:49:33Z"
@@ -18,6 +19,13 @@
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-20T17:55:02Z"
+    },
+    "jimauve": {
+      "title": "bogarre avec la douceur ( @loup_mp4 )  | !kofi !rs",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-08-20T18:56:24Z"
     }
   }
 }
