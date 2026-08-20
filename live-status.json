@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-20T17:55:17Z",
+  "updated_at": "2026-08-20T18:00:49Z",
   "live": [
-    "meonstera"
+    "meonstera",
+    "zakium"
   ],
   "streams": {
     "meonstera": {
       "title": "【STOREBOUND】cacaculotte avec les potes @halliwhy et @zakium • !discord !rs",
-      "viewer_count": 6,
+      "viewer_count": 8,
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-20T17:49:33Z"
+    },
+    "zakium": {
+      "title": "Un deuxième stream ? hééé oui ! StoreBound avec @Meonstera et @Halliwhy !",
+      "viewer_count": 6,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-20T17:55:02Z"
     }
   }
 }
