@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-08-21T12:00:48Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-08-21T12:05:18Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "Un deuxième stream ? hééé oui ! StoreBound avec @Meonstera et @Halliwhy !",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-21T12:01:55Z"
+    }
+  }
 }
