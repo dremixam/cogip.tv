@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-23T14:15:23Z",
+  "updated_at": "2026-08-23T14:20:20Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "fairuven"
   ],
   "streams": {
     "kaililou": {
       "title": "[Soulmask, Episode 10] Petit déménagement ?",
-      "viewer_count": 22,
+      "viewer_count": 21,
       "game_name": "Soulmask",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-08-23T11:01:08Z"
+    },
+    "fairuven": {
+      "title": "Dans l Espace mais tout seul cette fois !sr ////   !gaza",
+      "viewer_count": 0,
+      "game_name": "Space Haven",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-23T14:19:36Z"
     }
   }
 }
