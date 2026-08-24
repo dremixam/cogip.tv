@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-08-24T12:15:26Z",
+  "updated_at": "2026-08-24T12:20:21Z",
   "live": [
     "meonstera",
-    "fairuven",
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
     "meonstera": {
       "title": "【FFXIV】Roulettes en chill et on écoute vos reco musicales • !discord !rs",
-      "viewer_count": 15,
+      "viewer_count": 18,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-24T11:55:24Z"
     },
-    "fairuven": {
-      "title": "React + The Last Air Blender !sr ////   !gaza",
-      "viewer_count": 6,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-24T11:08:54Z"
-    },
     "zakium": {
       "title": "[Dive or Die] Ptit Sacrifice OKLM :p (!rs !discord)",
-      "viewer_count": 2,
+      "viewer_count": 9,
       "game_name": "Dive or Die: Children of Rain",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-24T11:59:34Z"
+    },
+    "fairuven": {
+      "title": "React + The Last Air Blender !sr ////   !gaza",
+      "viewer_count": 5,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-24T11:08:54Z"
     }
   }
 }
