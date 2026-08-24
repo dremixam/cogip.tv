@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-08-24T14:25:18Z",
+  "updated_at": "2026-08-24T14:30:39Z",
   "live": [
-    "meonstera",
-    "zakium"
+    "meonstera"
   ],
   "streams": {
     "meonstera": {
       "title": "【FFXIV】Roulettes en chill et on écoute vos reco musicales • !discord !rs",
-      "viewer_count": 17,
+      "viewer_count": 18,
       "game_name": "FINAL FANTASY XIV ONLINE",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-08-24T11:55:24Z"
-    },
-    "zakium": {
-      "title": "[Dive or Die] Ptit Sacrifice OKLM :p (!rs !discord)",
-      "viewer_count": 12,
-      "game_name": "Dive or Die: Children of Rain",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-08-24T11:59:34Z"
     }
   }
 }
