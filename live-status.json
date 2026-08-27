@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-08-27T22:30:36Z",
-  "live": [
-    "fairuven"
-  ],
-  "streams": {
-    "fairuven": {
-      "title": "oké Starwars MAIS XCOM SURTOUT OMG !sr ////   !gaza",
-      "viewer_count": 2,
-      "game_name": "Star Wars Zero Company",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-08-27T19:21:45Z"
-    }
-  }
+  "updated_at": "2026-08-27T22:35:16Z",
+  "live": [],
+  "streams": {}
 }
