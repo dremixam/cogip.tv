@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-08-28T12:30:36Z",
+  "updated_at": "2026-08-28T12:35:15Z",
   "live": [
     "fairuven",
-    "zakium"
+    "zakium",
+    "gegtropcool"
   ],
   "streams": {
     "fairuven": {
       "title": "[no Cam] oké Starwars MAIS XCOM SURTOUT OMG !sr ////   !gaza",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "game_name": "Star Wars Zero Company",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-28T11:05:41Z"
     },
     "zakium": {
       "title": "Dive or die ! puis sovereign tower ? peut être :p (!rs !discord)",
-      "viewer_count": 6,
-      "game_name": "Just Chatting",
+      "viewer_count": 8,
+      "game_name": "Dive or Die: Children of Rain",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-28T12:06:43Z"
+    },
+    "gegtropcool": {
+      "title": "La mise à jour d'elden ring⚔️✨ et demo + bavardage de jeux vidéos",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-08-28T12:31:43Z"
     }
   }
 }
