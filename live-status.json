@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-28T12:05:16Z",
+  "updated_at": "2026-08-28T12:10:21Z",
   "live": [
-    "fairuven"
+    "fairuven",
+    "zakium"
   ],
   "streams": {
     "fairuven": {
       "title": "[no Cam] oké Starwars MAIS XCOM SURTOUT OMG !sr ////   !gaza",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "game_name": "Star Wars Zero Company",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-08-28T11:05:41Z"
+    },
+    "zakium": {
+      "title": "je fais quoi ? je suis po sûr ^^ (!rs !discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-28T12:06:43Z"
     }
   }
 }
