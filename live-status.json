@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-08-30T11:55:14Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-08-30T12:00:46Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "Une tasse de liber-thé ? (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-08-30T12:00:30Z"
+    }
+  }
 }
