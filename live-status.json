@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-08-31T14:30:38Z",
+  "updated_at": "2026-08-31T14:35:18Z",
   "live": [
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
     "zakium": {
       "title": "[sovereign Tower] la tour souveraine ^^ (!rs !discord)",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "game_name": "Sovereign Tower",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-08-31T12:07:33Z"
+    },
+    "fairuven": {
+      "title": "On Continue Star Xcom et on parle du \"meeting\" anti IA en Seine et Marne !sr ////   !gaza",
+      "viewer_count": 0,
+      "game_name": "Star Wars Zero Company",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-08-31T14:32:54Z"
     }
   }
 }
