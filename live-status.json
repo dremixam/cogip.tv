@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-04T12:05:15Z",
+  "updated_at": "2026-09-04T12:10:20Z",
   "live": [
-    "fairuven",
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
-    "fairuven": {
-      "title": "The Last Air Blender !sr ////   !gaza",
-      "viewer_count": 1,
-      "game_name": "Art",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-09-04T11:58:46Z"
-    },
     "zakium": {
       "title": "[sovereign Tower] épisode 3 : Intrigue dans la tour (!rs !discord)",
-      "viewer_count": 1,
+      "viewer_count": 10,
       "game_name": "Sovereign Tower",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-04T12:01:10Z"
+    },
+    "fairuven": {
+      "title": "The Last Air Blender !sr ////   !gaza",
+      "viewer_count": 3,
+      "game_name": "Art",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-09-04T11:58:46Z"
     }
   }
 }
