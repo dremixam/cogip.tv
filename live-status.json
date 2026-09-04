@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-09-04T14:40:21Z",
+  "updated_at": "2026-09-04T14:45:24Z",
   "live": [
-    "zakium",
-    "fairuven"
+    "zakium"
   ],
   "streams": {
     "zakium": {
       "title": "[sovereign Tower] épisode 3 : Intrigue dans la tour (!rs !discord)",
-      "viewer_count": 19,
+      "viewer_count": 18,
       "game_name": "Sovereign Tower",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-04T12:01:10Z"
-    },
-    "fairuven": {
-      "title": "ui Xcom Star Wars !sr ////   !gaza",
-      "viewer_count": 6,
-      "game_name": "Star Wars Zero Company",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-09-04T14:07:16Z"
     }
   }
 }
