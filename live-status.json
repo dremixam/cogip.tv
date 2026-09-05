@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-05T15:55:14Z",
+  "updated_at": "2026-09-05T16:00:47Z",
   "live": [
-    "fairuven",
-    "dremixam"
+    "dremixam",
+    "fairuven"
   ],
   "streams": {
-    "fairuven": {
-      "title": "Dungeon c'est L'heure de la sortie  !sr ////   !gaza",
-      "viewer_count": 2,
-      "game_name": "Dungeon Settlers",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-09-05T10:01:09Z"
-    },
     "dremixam": {
       "title": "👨‍🦲 Tuage de riches឵ - !prime !kofi",
-      "viewer_count": 1,
+      "viewer_count": 8,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-05T15:49:57Z"
+    },
+    "fairuven": {
+      "title": "Dungeon c'est L'heure de la sortie  !sr ////   !gaza",
+      "viewer_count": 3,
+      "game_name": "Dungeon Settlers",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-09-05T10:01:09Z"
     }
   }
 }
