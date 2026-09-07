@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-09-07T16:05:17Z",
+  "updated_at": "2026-09-07T16:10:18Z",
   "live": [
-    "zakium",
     "dremixam"
   ],
   "streams": {
-    "zakium": {
-      "title": "[sovereign Tower] épisode 4 : Gideon à les cheveux tout dru (!rs !discord)",
-      "viewer_count": 10,
-      "game_name": "Sovereign Tower",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-07T12:04:40Z"
-    },
     "dremixam": {
       "title": "🛠️ Réparation à petit budget et bonne ambiance឵ - !prime !kofi",
-      "viewer_count": 9,
+      "viewer_count": 11,
       "game_name": "Low-Budget Repairs",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-07T15:49:56Z"
