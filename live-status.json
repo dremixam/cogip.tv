@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-09-08T16:40:25Z",
+  "updated_at": "2026-09-08T16:45:23Z",
   "live": [
-    "dremixam",
-    "meonstera"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
@@ -11,13 +10,6 @@
       "game_name": "Chop Chop Inc.",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-08T15:49:58Z"
-    },
-    "meonstera": {
-      "title": "【FFXIV】Re ! Attendez quoient du POKEMON dans MON FF QUATORZE ??? (découverte dresseur) • !discord !rs",
-      "viewer_count": 12,
-      "game_name": "FINAL FANTASY XIV ONLINE",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-09-08T11:55:57Z"
     }
   }
 }
