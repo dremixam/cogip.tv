@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-09-08T11:55:15Z",
+  "updated_at": "2026-09-08T12:00:49Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "meonstera"
   ],
   "streams": {
     "kaililou": {
       "title": "Retour de vacances ! Piapia, planning, mots fléchés puis Against the storm",
-      "viewer_count": 27,
+      "viewer_count": 24,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-08T11:00:24Z"
+    },
+    "meonstera": {
+      "title": "【FFXIV】Re ! Attendez quoient du POKEMON dans MON FF QUATORZE ??? (découverte dresseur) • !discord !rs",
+      "viewer_count": 6,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
+      "started_at": "2026-09-08T11:55:57Z"
     }
   }
 }
