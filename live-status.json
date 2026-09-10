@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T18:40:19Z",
+  "updated_at": "2026-09-10T18:45:25Z",
   "live": [
     "jimauve",
     "meonstera",
@@ -8,22 +8,22 @@
   "streams": {
     "jimauve": {
       "title": "BIP BOUP Science avec L'homme aux milles histoires ( @daxxime ) et l'homme a la blouse ( @gegtropcool )  | !kofi !rs",
-      "viewer_count": 10,
+      "viewer_count": 12,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-09-10T18:30:44Z"
     },
     "meonstera": {
       "title": "【Storebound】retour au MAGASIN avec mes chipiiiies ( @zakium et @halliwhy ) • !discord !rs",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-09-10T18:07:03Z"
     },
     "zakium": {
       "title": "[StoreBound] MAGASIN MAGASIN MAGASIN !! avec @Meonstera et @Halliwhy (!rs  !discord)",
-      "viewer_count": 3,
-      "game_name": "Just Chatting",
+      "viewer_count": 5,
+      "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-10T18:27:03Z"
     }
