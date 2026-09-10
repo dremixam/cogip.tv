@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-09-10T11:00:46Z",
+  "updated_at": "2026-09-10T11:05:50Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "Stage de démocratie avec @zakium",
-      "viewer_count": 0,
+      "viewer_count": 2,
       "game_name": "HELLDIVERS 2",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-10T11:00:12Z"
+    },
+    "zakium": {
+      "title": "[helldivers 2] entrainement de nouvelle recrue(!rs !discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-09-10T11:02:49Z"
     }
   }
 }
