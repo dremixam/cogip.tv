@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-10T21:05:18Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "[StoreBound] MAGASIN MAGASIN MAGASIN !! avec @Meonstera et @Halliwhy (!rs  !discord)",
-      "viewer_count": 5,
-      "game_name": "Storebound",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-10T18:27:03Z"
-    }
-  }
+  "updated_at": "2026-09-10T21:10:21Z",
+  "live": [],
+  "streams": {}
 }
