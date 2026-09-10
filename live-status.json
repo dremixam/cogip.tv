@@ -1,31 +1,15 @@
 {
-  "updated_at": "2026-09-10T16:05:16Z",
+  "updated_at": "2026-09-10T16:10:22Z",
   "live": [
-    "fairuven",
-    "kaililou",
-    "zakium"
+    "fairuven"
   ],
   "streams": {
     "fairuven": {
       "title": "The Last Air Blender  !sr ////   !gaza",
-      "viewer_count": 33,
+      "viewer_count": 29,
       "game_name": "Art",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-09-10T13:57:13Z"
-    },
-    "kaililou": {
-      "title": "Stage de démocratie avec @zakium",
-      "viewer_count": 19,
-      "game_name": "HELLDIVERS 2",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-09-10T11:00:12Z"
-    },
-    "zakium": {
-      "title": "[helldivers 2] Démocratie à la cool avec @kaililou (!rs  !discord)",
-      "viewer_count": 10,
-      "game_name": "HELLDIVERS 2",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-10T11:02:49Z"
     }
   }
 }
