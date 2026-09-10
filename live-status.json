@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-09-10T18:25:16Z",
+  "updated_at": "2026-09-10T18:30:39Z",
   "live": [
-    "meonstera"
+    "meonstera",
+    "zakium"
   ],
   "streams": {
     "meonstera": {
       "title": "【Storebound】retour au MAGASIN avec mes chipiiiies ( @zakium et @halliwhy ) • !discord !rs",
-      "viewer_count": 11,
+      "viewer_count": 16,
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-09-10T18:07:03Z"
+    },
+    "zakium": {
+      "title": "[StoreBound] MAGASIN MAGASIN MAGASIN !! avec @Meonstera et @Halliwhy (!rs  !discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-09-10T18:27:03Z"
     }
   }
 }
