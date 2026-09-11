@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-11T12:10:20Z",
+  "updated_at": "2026-09-11T12:15:23Z",
   "live": [
-    "fairuven",
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
+    "zakium": {
+      "title": "[sovereign Tower] Ep 5 : Officiellement en couple avec une Ex Statue (!rs  !discord)",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-09-11T12:02:02Z"
+    },
     "fairuven": {
       "title": "The Last Air Blender  !sr ////   !gaza",
       "viewer_count": 3,
       "game_name": "Art",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
       "started_at": "2026-09-11T09:56:15Z"
-    },
-    "zakium": {
-      "title": "[sovereign Tower] Ep 5 : Officiellement en couple avec une Ex Statue (!rs  !discord)",
-      "viewer_count": 2,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-11T12:02:02Z"
     }
   }
 }
