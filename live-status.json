@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-09-12T15:45:24Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-09-12T15:50:21Z",
+  "live": [
+    "dremixam"
+  ],
+  "streams": {
+    "dremixam": {
+      "title": "🪚 Déforestation simulator឵ - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Chop Chop Inc.",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-09-12T15:49:56Z"
+    }
+  }
 }
