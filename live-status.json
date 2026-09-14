@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-09-14T11:00:53Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-09-14T11:05:18Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "Piapiatage, planning puis Valheim !",
+      "viewer_count": 5,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-09-14T11:00:43Z"
+    }
+  }
 }
