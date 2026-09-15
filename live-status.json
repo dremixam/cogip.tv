@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15T11:15:21Z",
+  "updated_at": "2026-09-15T11:20:20Z",
   "live": [
-    "gegtropcool",
-    "kaililou"
+    "kaililou",
+    "gegtropcool"
   ],
   "streams": {
-    "gegtropcool": {
-      "title": "Decouverte : Grunn🌱 /Petite visite de mon jardin",
-      "viewer_count": 10,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-09-15T10:58:49Z"
-    },
     "kaililou": {
       "title": "[Serveur Valheim 1.0, Jour 3] On se roule dans la boue des marais",
-      "viewer_count": 6,
+      "viewer_count": 10,
       "game_name": "Valheim",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-15T11:00:58Z"
+    },
+    "gegtropcool": {
+      "title": "Decouverte : Grunn🌱 /Petite visite de mon jardin",
+      "viewer_count": 8,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-09-15T10:58:49Z"
     }
   }
 }
