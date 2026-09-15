@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-15T19:40:22Z",
+  "updated_at": "2026-09-15T19:45:25Z",
   "live": [
-    "dremixam",
-    "jimauve"
+    "jimauve",
+    "dremixam"
   ],
   "streams": {
-    "dremixam": {
-      "title": "🪚 Ça coupe du bois pour faire des trucs឵ - !prime !kofi",
-      "viewer_count": 23,
-      "game_name": "Chop Chop Inc.",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-09-15T15:49:55Z"
-    },
     "jimauve": {
       "title": "Peut être : Project Zomboid RUN B42| !kofi !rs",
-      "viewer_count": 20,
+      "viewer_count": 23,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-09-15T18:51:55Z"
+    },
+    "dremixam": {
+      "title": "🪚 Ça coupe du bois pour faire des trucs឵ - !prime !kofi",
+      "viewer_count": 21,
+      "game_name": "Chop Chop Inc.",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-09-15T15:49:55Z"
     }
   }
 }
