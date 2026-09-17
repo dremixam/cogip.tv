@@ -1,31 +1,5 @@
 {
-  "updated_at": "2026-09-17T20:25:16Z",
-  "live": [
-    "gegtropcool",
-    "meonstera",
-    "zakium"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "🎙️🔴Interview trop cool avec @doigt / TW : sauce algérienne,  bonne expérience",
-      "viewer_count": 35,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-09-17T17:30:58Z"
-    },
-    "meonstera": {
-      "title": "【Storebound】one last pipiculotte au MAGASIN ft @halliwhy et @zakium • !discord !rs",
-      "viewer_count": 6,
-      "game_name": "Storebound",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-09-17T18:04:39Z"
-    },
-    "zakium": {
-      "title": "StoreBound] épisode FInal avec @Halliwhy et @Meonstera ! (!rs  !discord)",
-      "viewer_count": 5,
-      "game_name": "Storebound",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-17T17:57:31Z"
-    }
-  }
+  "updated_at": "2026-09-17T20:30:36Z",
+  "live": [],
+  "streams": {}
 }
