@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-09-22T19:25:15Z",
+  "updated_at": "2026-09-22T19:30:38Z",
   "live": [
-    "dremixam",
     "jimauve",
     "gegtropcool"
   ],
   "streams": {
-    "dremixam": {
-      "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
-      "viewer_count": 21,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-09-22T15:49:56Z"
-    },
     "jimauve": {
       "title": "On poursuit la run ZOMBOID | !kofi !rs",
-      "viewer_count": 16,
+      "viewer_count": 30,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-09-22T18:59:31Z"
