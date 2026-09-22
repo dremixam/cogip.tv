@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-09-22T18:55:20Z",
+  "updated_at": "2026-09-22T19:00:50Z",
   "live": [
     "dremixam",
-    "gegtropcool"
+    "gegtropcool",
+    "jimauve"
   ],
   "streams": {
     "dremixam": {
@@ -14,10 +15,17 @@
     },
     "gegtropcool": {
       "title": "Découverte🪄✨ de Magical Blush",
-      "viewer_count": 9,
+      "viewer_count": 13,
       "game_name": "BECROWNED",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-09-22T17:22:49Z"
+    },
+    "jimauve": {
+      "title": "On poursuit la run ZOMBOID | !kofi !rs",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-09-22T18:59:31Z"
     }
   }
 }
