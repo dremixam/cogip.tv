@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-22T17:35:20Z",
+  "updated_at": "2026-09-22T17:40:23Z",
   "live": [
     "dremixam",
     "gegtropcool"
@@ -7,7 +7,7 @@
   "streams": {
     "dremixam": {
       "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
-      "viewer_count": 21,
+      "viewer_count": 20,
       "game_name": "Plan B: Terraform",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-22T15:49:56Z"
@@ -15,7 +15,7 @@
     "gegtropcool": {
       "title": "Découverte🪄✨ de Magical Blush",
       "viewer_count": 7,
-      "game_name": "Just Chatting",
+      "game_name": "Magical Blush",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-09-22T17:22:49Z"
     }
