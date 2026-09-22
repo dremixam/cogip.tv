@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-09-22T11:00:50Z",
+  "updated_at": "2026-09-22T11:05:18Z",
   "live": [
-    "daxxime"
+    "daxxime",
+    "kaililou"
   ],
   "streams": {
     "daxxime": {
       "title": "12h - 14h : Découverte ANOMALY PRESIDENT | !1001 !discord !kofi !keymailer",
-      "viewer_count": 5,
+      "viewer_count": 7,
       "game_name": "Anomaly President",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
       "started_at": "2026-09-22T10:17:53Z"
+    },
+    "kaililou": {
+      "title": "[Serveur Valheim 1.0, Jour 6] Elle descende de la montagne à Valheim",
+      "viewer_count": 2,
+      "game_name": "Valheim",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-09-22T11:01:41Z"
     }
   }
 }
