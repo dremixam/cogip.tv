@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-09-22T15:45:24Z",
+  "updated_at": "2026-09-22T15:50:22Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
       "title": "[Serveur Valheim 1.0, Jour 6] Elle descende de la montagne à Valheim",
-      "viewer_count": 38,
+      "viewer_count": 39,
       "game_name": "Valheim",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-22T11:01:41Z"
+    },
+    "dremixam": {
+      "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-09-22T15:49:56Z"
     }
   }
 }
