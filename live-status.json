@@ -1,7 +1,9 @@
 {
-  "updated_at": "2026-09-23T18:25:15Z",
+  "updated_at": "2026-09-23T18:30:35Z",
   "live": [
-    "zakium"
+    "zakium",
+    "jimauve",
+    "daxxime"
   ],
   "streams": {
     "zakium": {
@@ -10,6 +12,20 @@
       "game_name": "Storebound",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-23T17:55:27Z"
+    },
+    "jimauve": {
+      "title": "Cé halflife mé nan | feat @Gegtropcool @daxxime @notthewolf | !kofi !rs",
+      "viewer_count": 4,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-09-23T18:28:36Z"
+    },
+    "daxxime": {
+      "title": "Scientifiques les plus chauds de ta région feat @jimauve @gegtropcool et @notchthewolf | !1001 !discord !kofi",
+      "viewer_count": 0,
+      "game_name": "Abiotic Factor",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
+      "started_at": "2026-09-23T18:27:37Z"
     }
   }
 }
