@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-23T22:05:16Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "Fin de soirée | !kofi !rs",
-      "viewer_count": 28,
-      "game_name": "Software and Game Development",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-09-23T18:28:36Z"
-    }
-  }
+  "updated_at": "2026-09-23T22:10:19Z",
+  "live": [],
+  "streams": {}
 }
