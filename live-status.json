@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-09-23T10:05:16Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-09-23T10:10:19Z",
+  "live": [
+    "daxxime"
+  ],
+  "streams": {
+    "daxxime": {
+      "title": "12h - 14h : ça chillax (Gravebound est cassé) | !1001 !discord !kofi",
+      "viewer_count": 3,
+      "game_name": "Crash Bandicoot 4: It's About Time",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_daxxime-640x360.jpg",
+      "started_at": "2026-09-23T10:06:47Z"
+    }
+  }
 }
