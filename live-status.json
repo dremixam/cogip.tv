@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-09-24T14:05:16Z",
+  "updated_at": "2026-09-24T14:10:23Z",
   "live": [
     "kaililou",
-    "zakium",
-    "gegtropcool"
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Runescape Dragonwilds 1.0, Multi, Jour 4] Velgar time ?! Avec @zakium, smoltom et couette",
-      "viewer_count": 20,
+      "viewer_count": 19,
       "game_name": "RuneScape: Dragonwilds",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-24T11:02:23Z"
@@ -19,13 +18,6 @@
       "game_name": "RuneScape: Dragonwilds",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-24T10:52:20Z"
-    },
-    "gegtropcool": {
-      "title": "Découverte  🔻🧬 - Petit résumé et discussion sur Control puis découverte de Control Resonant",
-      "viewer_count": 6,
-      "game_name": "CONTROL Resonant",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-09-24T12:56:43Z"
     }
   }
 }
