@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-09-24T19:35:17Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-09-24T19:40:20Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Découverte  🔻🧬 - Control Resonant / TW : moi je m'appelle Mathias, Dr Darling en Tétéesse",
+      "viewer_count": 2,
+      "game_name": "CONTROL Resonant",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-09-24T19:38:01Z"
+    }
+  }
 }
