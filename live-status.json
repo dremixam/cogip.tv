@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-09-26T12:15:22Z",
+  "updated_at": "2026-09-26T12:20:19Z",
   "live": [
-    "fairuven",
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
-    "fairuven": {
-      "title": "The Last Air Blender !sr ////   !gaza",
-      "viewer_count": 3,
-      "game_name": "Art",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-09-26T11:55:41Z"
-    },
     "zakium": {
       "title": "[sovereign Tower] Ep 8 : La suite de la suite de la fin ! O.o  (!rs  !discord)",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "game_name": "Sovereign Tower",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-26T11:58:30Z"
+    },
+    "fairuven": {
+      "title": "The Last Air Blender !sr ////   !gaza",
+      "viewer_count": 2,
+      "game_name": "Art",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-09-26T11:55:41Z"
     }
   }
 }
