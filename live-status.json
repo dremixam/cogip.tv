@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-28T17:20:21Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "[Resonance] épisode 1 : Le Prequel de la tornade de rat ! (!rs  !discord)",
-      "viewer_count": 19,
-      "game_name": "Resonance: A Plague Tale Legacy",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-09-28T11:58:01Z"
-    }
-  }
+  "updated_at": "2026-09-28T17:25:16Z",
+  "live": [],
+  "streams": {}
 }
