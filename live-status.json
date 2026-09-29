@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-09-29T15:45:23Z",
+  "updated_at": "2026-09-29T15:50:21Z",
   "live": [
     "kaililou",
-    "gegtropcool"
+    "gegtropcool",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
@@ -14,10 +15,17 @@
     },
     "gegtropcool": {
       "title": "Découverte  🔻🧬 - Control Resonant",
-      "viewer_count": 9,
+      "viewer_count": 10,
       "game_name": "CONTROL Resonant",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-09-29T11:47:52Z"
+    },
+    "dremixam": {
+      "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-09-29T15:49:56Z"
     }
   }
 }
