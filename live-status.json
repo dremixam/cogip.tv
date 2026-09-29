@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-09-29T17:50:21Z",
+  "updated_at": "2026-09-29T17:55:16Z",
   "live": [
     "dremixam",
-    "gegtropcool"
+    "gegtropcool",
+    "jimauve"
   ],
   "streams": {
     "dremixam": {
       "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
-      "viewer_count": 27,
+      "viewer_count": 26,
       "game_name": "Plan B: Terraform",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-29T15:49:56Z"
     },
     "gegtropcool": {
       "title": "Découverte de R.E.P.O. avec @bubuchenbois et @jimauve",
-      "viewer_count": 4,
-      "game_name": "Just Chatting",
+      "viewer_count": 5,
+      "game_name": "R.E.P.O.",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-09-29T17:33:16Z"
+    },
+    "jimauve": {
+      "title": "Faire semblant que tout va bien alors que ma recherche d'emploi infructueuse m'affecte | feat @gegtropcool et @bubucheenbois | !kofi !rs",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-09-29T17:50:09Z"
     }
   }
 }
