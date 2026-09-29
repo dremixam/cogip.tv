@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-29T20:10:19Z",
+  "updated_at": "2026-09-29T20:15:22Z",
   "live": [
     "dremixam",
     "jimauve",
@@ -8,21 +8,21 @@
   "streams": {
     "dremixam": {
       "title": "🪐 Colonisation planétaire឵ - !prime !kofi",
-      "viewer_count": 20,
+      "viewer_count": 21,
       "game_name": "Plan B: Terraform",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-09-29T15:49:56Z"
     },
     "jimauve": {
       "title": "Je trouve du travail sur REPO  | feat @gegtropcool et @bubucheenbois | !kofi !rs",
-      "viewer_count": 12,
+      "viewer_count": 11,
       "game_name": "R.E.P.O.",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-09-29T17:50:09Z"
     },
     "gegtropcool": {
       "title": "Découverte de R.E.P.O. avec @bubuchenbois et @jimauve",
-      "viewer_count": 3,
+      "viewer_count": 2,
       "game_name": "R.E.P.O.",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-09-29T17:33:16Z"
