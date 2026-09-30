@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-30T18:50:21Z",
-  "live": [
-    "raoul_f0"
-  ],
-  "streams": {
-    "raoul_f0": {
-      "title": "On vous aborde en toute piraterie cordiale et festive, avec @docteurperec ![anniversaire d'affiliation]",
-      "viewer_count": 8,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-09-30T12:53:11Z"
-    }
-  }
+  "updated_at": "2026-09-30T18:55:20Z",
+  "live": [],
+  "streams": {}
 }
