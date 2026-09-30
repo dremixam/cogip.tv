@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-09-30T22:40:19Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "Tenter de connecter JIMANAGER et MINECRAFT | !kofi !rs",
-      "viewer_count": 14,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-09-30T18:58:39Z"
-    }
-  }
+  "updated_at": "2026-09-30T22:45:21Z",
+  "live": [],
+  "streams": {}
 }
