@@ -1,30 +1,29 @@
 {
-  "updated_at": "2026-09-30T13:35:18Z",
+  "updated_at": "2026-09-30T13:40:21Z",
   "live": [
     "kaililou",
     "meonstera",
     "raoul_f0",
-    "zakium",
-    "gegtropcool"
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Runescape Dragonwilds 1.0, Multi, Jour 5] Road to FellHollow !! Avec @zakium et Smoltom",
-      "viewer_count": 22,
+      "viewer_count": 26,
       "game_name": "RuneScape: Dragonwilds",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-09-30T11:00:40Z"
     },
     "meonstera": {
       "title": "【TOEM 2】la maladie ne m'empêchera pas de découvrir ce banger • !discord !rs",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "game_name": "TOEM 2",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-09-30T12:13:09Z"
     },
     "raoul_f0": {
       "title": "Reprise de Stream pour l'anniversaire d'affiliation lol Avec Alimette ! FrereKastor vers 16h Et Sea of thieves dans la soirée !",
-      "viewer_count": 9,
+      "viewer_count": 12,
       "game_name": "Oxygen Not Included",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
       "started_at": "2026-09-30T12:53:11Z"
@@ -35,13 +34,6 @@
       "game_name": "RuneScape: Dragonwilds",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-09-30T10:56:24Z"
-    },
-    "gegtropcool": {
-      "title": "🔻🧬 CONTROL RESONANT / TW: Dirtman & Cowboy",
-      "viewer_count": 4,
-      "game_name": "CONTROL Resonant",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-09-30T12:20:27Z"
     }
   }
 }
