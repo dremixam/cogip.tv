@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-10-03T10:05:15Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "🔻🧬 CONTROL RESONANT #3 TW : the witcher",
-      "viewer_count": 9,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-10-03T07:39:21Z"
-    }
-  }
+  "updated_at": "2026-10-03T10:10:55Z",
+  "live": [],
+  "streams": {}
 }
