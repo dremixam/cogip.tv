@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-10-06T19:35:15Z",
+  "updated_at": "2026-10-06T19:40:21Z",
   "live": [
     "jimauve"
   ],
   "streams": {
     "jimauve": {
-      "title": "Tchat into vote sur ce qu'on fait | !kofi !rs",
+      "title": "On travail sur le minecraft Interactif | !kofi !rs",
       "viewer_count": 16,
-      "game_name": "Just Chatting",
+      "game_name": "Software and Game Development",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-10-06T18:54:09Z"
     }
