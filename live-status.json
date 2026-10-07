@@ -1,5 +1,23 @@
 {
-  "updated_at": "2026-10-07T10:55:15Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-07T11:00:46Z",
+  "live": [
+    "kaililou",
+    "zakium"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Runescape Dragonwilds 1.0, Multi, Jour 7] Imaru aujourd'hui ? Avec @zakium et Smoltom",
+      "viewer_count": 0,
+      "game_name": "RuneScape: Dragonwilds",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-10-07T11:00:32Z"
+    },
+    "zakium": {
+      "title": "Runescape Dragon Wilds] : les gentils dragons de Felolow ! avec SmolTom et @Kaililou (!rs  !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-10-07T11:00:28Z"
+    }
+  }
 }
