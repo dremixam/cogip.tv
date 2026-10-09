@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-10-09T15:45:27Z",
+  "updated_at": "2026-10-09T15:50:23Z",
   "live": [
     "meonstera",
-    "zakium"
+    "zakium",
+    "dremixam"
   ],
   "streams": {
     "meonstera": {
       "title": "【REACT】Les cowboys et l'amour - Qui pour Yeehaw dans mon coeur?  • !discord !rs",
-      "viewer_count": 16,
+      "viewer_count": 15,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-10-09T14:24:33Z"
     },
     "zakium": {
       "title": "[Resonance : a plague tale legacy] : la fin, the end, finito, mwisho ! (!rs  !discord)",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "game_name": "Resonance: A Plague Tale Legacy",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-10-09T11:57:44Z"
+    },
+    "dremixam": {
+      "title": "[DROPS]឴👨‍🦲 On tue des riches pour se détendre឵ - !prime !kofi",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-10-09T15:49:57Z"
     }
   }
 }
