@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-10-09T16:05:18Z",
+  "updated_at": "2026-10-09T16:10:23Z",
   "live": [
     "meonstera",
-    "dremixam",
-    "zakium"
+    "zakium",
+    "dremixam"
   ],
   "streams": {
     "meonstera": {
       "title": "【REACT】Les cowboys et l'amour - Qui pour Yeehaw dans mon coeur?  • !discord !rs",
-      "viewer_count": 20,
+      "viewer_count": 18,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-10-09T14:24:33Z"
     },
-    "dremixam": {
-      "title": "🪚 Bismillah c'est les ténèbres឵ - !prime !kofi",
-      "viewer_count": 10,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-10-09T15:49:57Z"
-    },
     "zakium": {
       "title": "[Resonance : a plague tale legacy] : la fin, the end, finito, mwisho ! (!rs  !discord)",
-      "viewer_count": 10,
+      "viewer_count": 11,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-10-09T11:57:44Z"
+    },
+    "dremixam": {
+      "title": "🪚 Bismillah c'est les ténèbres឵ - !prime !kofi",
+      "viewer_count": 9,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-10-09T15:49:57Z"
     }
   }
 }
