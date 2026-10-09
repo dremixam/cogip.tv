@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-10-09T21:15:26Z",
-  "live": [
-    "dremixam"
-  ],
-  "streams": {
-    "dremixam": {
-      "title": "🪚 Bismillah c'est les ténèbres឵ - !prime !kofi",
-      "viewer_count": 17,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-10-09T15:49:57Z"
-    }
-  }
+  "updated_at": "2026-10-09T21:20:22Z",
+  "live": [],
+  "streams": {}
 }
