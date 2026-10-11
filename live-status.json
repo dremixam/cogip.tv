@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-11T08:30:38Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-11T08:35:15Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Elden ring ⚔️🧙 The Convergence 3.0 avec @dahkrab et @maanette",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-11T08:31:57Z"
+    }
+  }
 }
