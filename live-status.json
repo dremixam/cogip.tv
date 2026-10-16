@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-10-16T15:30:44Z",
-  "live": [
-    "gegtropcool"
-  ],
-  "streams": {
-    "gegtropcool": {
-      "title": "On react aux annonce pour No rest for the wicked",
-      "viewer_count": 8,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-10-16T12:05:05Z"
-    }
-  }
+  "updated_at": "2026-10-16T15:35:18Z",
+  "live": [],
+  "streams": {}
 }
