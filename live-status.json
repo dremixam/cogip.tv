@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17T18:15:24Z",
+  "updated_at": "2026-10-17T18:20:21Z",
   "live": [
     "jimauve",
     "kaililou",
@@ -10,14 +10,14 @@
   "streams": {
     "jimauve": {
       "title": "Blabla into !cache cache PUBG organisé par @shakawah | l'équipe COGIP avec @gegTropCool et @zakium | !kofi !rs",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "game_name": "PUBG: BATTLEGROUNDS",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-10-17T15:23:22Z"
     },
     "kaililou": {
       "title": "Cache cache PUBG de @shakawah | Equipe CO-JPP avec @raoul_f0 et @fairuven",
-      "viewer_count": 15,
+      "viewer_count": 13,
       "game_name": "PUBG: BATTLEGROUNDS",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-10-17T15:48:10Z"
@@ -38,7 +38,7 @@
     },
     "gegtropcool": {
       "title": "Cache Cache 🙈👀sur PUBG avec @jimauve et @zakium organisé par @shakawah | !rs !kofi",
-      "viewer_count": 2,
+      "viewer_count": 3,
       "game_name": "PUBG: BATTLEGROUNDS",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-10-17T15:24:57Z"
