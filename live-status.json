@@ -1,11 +1,11 @@
 {
-  "updated_at": "2026-10-17T16:45:25Z",
+  "updated_at": "2026-10-17T16:50:21Z",
   "live": [
     "jimauve",
     "kaililou",
-    "gegtropcool",
+    "raoul_f0",
     "zakium",
-    "raoul_f0"
+    "gegtropcool"
   ],
   "streams": {
     "jimauve": {
@@ -17,31 +17,31 @@
     },
     "kaililou": {
       "title": "Cache cache PUBG de @shakawah | Equipe CO-JPP avec @raoul_f0 et @fairuven",
-      "viewer_count": 11,
+      "viewer_count": 9,
       "game_name": "PUBG: BATTLEGROUNDS",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-10-17T15:48:10Z"
     },
-    "gegtropcool": {
-      "title": "Cache Cache 🙈👀sur PUBG avec @jimauve et @zakium organisé par @shakawah | !rs !kofi",
-      "viewer_count": 5,
+    "raoul_f0": {
+      "title": "MANIF ET CACHE CACHE SUR PUBG organisé par @shakawah, avec @kaililou et @fairuven (coincé en manif)",
+      "viewer_count": 4,
       "game_name": "PUBG: BATTLEGROUNDS",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-10-17T15:24:57Z"
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
+      "started_at": "2026-10-17T15:47:44Z"
     },
     "zakium": {
       "title": "on se cache cache le PUBG avec @jimauve et @gegtropcool (organisé par @shakawah! ) <3",
-      "viewer_count": 5,
+      "viewer_count": 4,
       "game_name": "PUBG: BATTLEGROUNDS",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-10-17T15:43:03Z"
     },
-    "raoul_f0": {
-      "title": "MANIF ET CACHE CACHE SUR PUBG organisé par @shakawah, avec @kaililou et @fairuven (coincé en manif)",
-      "viewer_count": 3,
+    "gegtropcool": {
+      "title": "Cache Cache 🙈👀sur PUBG avec @jimauve et @zakium organisé par @shakawah | !rs !kofi",
+      "viewer_count": 2,
       "game_name": "PUBG: BATTLEGROUNDS",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_raoul_f0-640x360.jpg",
-      "started_at": "2026-10-17T15:47:44Z"
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-17T15:24:57Z"
     }
   }
 }
