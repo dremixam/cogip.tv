@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-10-19T11:15:25Z",
+  "updated_at": "2026-10-19T11:20:22Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "Piapiatage, planning, mots fléchés puis des démos !",
-      "viewer_count": 7,
+      "viewer_count": 8,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-10-19T11:00:10Z"
+    },
+    "zakium": {
+      "title": "oups j'ai oublié de changer le titre : des démos avec @kaililou làààà (!rs !discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-10-19T11:15:16Z"
     }
   }
 }
