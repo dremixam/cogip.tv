@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-19T14:00:51Z",
+  "updated_at": "2026-10-19T14:05:17Z",
   "live": [
     "kaililou",
     "zakium"
@@ -7,15 +7,15 @@
   "streams": {
     "kaililou": {
       "title": "On teste des démos avec @zakium et smoltom",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "game_name": "Wyldheart",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-10-19T11:00:10Z"
     },
     "zakium": {
       "title": "oups j'ai oublié de changer le titre : des démos avec @kaililou làààà (!rs !discord)",
-      "viewer_count": 11,
-      "game_name": "Just Chatting",
+      "viewer_count": 10,
+      "game_name": "Wyldheart",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-10-19T11:15:16Z"
     }
