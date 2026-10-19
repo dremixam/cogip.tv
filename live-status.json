@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-10-19T16:25:17Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "oups j'ai oublié de changer le titre : des démos avec @kaililou làààà (!rs !discord)",
-      "viewer_count": 14,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-10-19T11:15:16Z"
-    }
-  }
+  "updated_at": "2026-10-19T16:30:39Z",
+  "live": [],
+  "streams": {}
 }
