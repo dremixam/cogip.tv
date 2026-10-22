@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-10-22T17:50:24Z",
-  "live": [
-    "meonstera"
-  ],
-  "streams": {
-    "meonstera": {
-      "title": "re (blabla + démos ) • !discord !rs",
-      "viewer_count": 27,
-      "game_name": "Games + Demos",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-10-22T14:00:38Z"
-    }
-  }
+  "updated_at": "2026-10-22T17:55:18Z",
+  "live": [],
+  "streams": {}
 }
