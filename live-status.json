@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-23T11:45:27Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-23T11:50:24Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "CONTROL RESONANT🔻🧬 #6 | !rs !kofi",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-23T11:50:00Z"
+    }
+  }
 }
