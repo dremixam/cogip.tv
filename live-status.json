@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-25T09:50:21Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-25T09:55:14Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "CONTROL RESONANT🔻🧬 #6 On se capte à Clermont-ferrand / TW : stream républicain| !rs !kofi",
+      "viewer_count": 4,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-25T09:52:23Z"
+    }
+  }
 }
