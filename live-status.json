@@ -1,8 +1,7 @@
 {
-  "updated_at": "2026-10-25T12:10:21Z",
+  "updated_at": "2026-10-25T12:15:26Z",
   "live": [
-    "gegtropcool",
-    "kaililou"
+    "gegtropcool"
   ],
   "streams": {
     "gegtropcool": {
@@ -11,13 +10,6 @@
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-10-25T09:52:23Z"
-    },
-    "kaililou": {
-      "title": "[Enshrouded, Jour 3] C'est la drogueeeeeee ! Giveaway vers 16h 🎉",
-      "viewer_count": 10,
-      "game_name": "Enshrouded",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-10-25T12:00:16Z"
     }
   }
 }
