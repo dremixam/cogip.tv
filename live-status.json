@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-10-25T11:55:15Z",
+  "updated_at": "2026-10-25T12:00:51Z",
   "live": [
-    "gegtropcool"
+    "gegtropcool",
+    "kaililou"
   ],
   "streams": {
     "gegtropcool": {
       "title": "Elden Ring the Convergence ⚔️🧙 avec @dahkrab et @maanette / TW: faubourg | !rs !kofi",
-      "viewer_count": 14,
+      "viewer_count": 12,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-10-25T09:52:23Z"
+    },
+    "kaililou": {
+      "title": "[Enshrouded, Jour 3] C'est la drogueeeeeee ! Giveaway vers 16h 🎉",
+      "viewer_count": 0,
+      "game_name": "Enshrouded",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-10-25T12:00:16Z"
     }
   }
 }
