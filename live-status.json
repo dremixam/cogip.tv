@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-26T10:15:26Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-26T10:20:24Z",
+  "live": [
+    "jimauve"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "Travailler sur Minecraft interactif ⛏️⛏️⛏️ | !kofi !rs",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-10-26T10:16:29Z"
+    }
+  }
 }
