@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-10-26T11:55:17Z",
+  "updated_at": "2026-10-26T12:00:57Z",
   "live": [
-    "jimauve"
+    "jimauve",
+    "kaililou"
   ],
   "streams": {
     "jimauve": {
       "title": "Travailler sur Minecraft interactif ⛏️⛏️⛏️ | !kofi !rs",
-      "viewer_count": 29,
+      "viewer_count": 28,
       "game_name": "Software and Game Development",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-10-26T10:16:29Z"
+    },
+    "kaililou": {
+      "title": "Piapiatage, planning mots fléchés puis Enshrouded !",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-10-26T12:00:40Z"
     }
   }
 }
