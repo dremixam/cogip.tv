@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-26T13:05:16Z",
+  "updated_at": "2026-10-26T13:10:46Z",
   "live": [
-    "jimauve",
-    "kaililou"
+    "kaililou",
+    "jimauve"
   ],
   "streams": {
-    "jimauve": {
-      "title": "Travailler sur Minecraft interactif ⛏️⛏️⛏️ | !kofi !rs",
-      "viewer_count": 25,
-      "game_name": "Software and Game Development",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-10-26T10:16:29Z"
-    },
     "kaililou": {
       "title": "[Enshrouded, Jour 4] Chill, chèvre et constru",
-      "viewer_count": 25,
+      "viewer_count": 29,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-10-26T12:40:35Z"
+    },
+    "jimauve": {
+      "title": "Travailler sur Minecraft interactif ⛏️⛏️⛏️ | !kofi !rs",
+      "viewer_count": 27,
+      "game_name": "Software and Game Development",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-10-26T10:16:29Z"
     }
   }
 }
