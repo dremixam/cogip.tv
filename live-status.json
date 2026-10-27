@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-27T11:55:17Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-27T12:00:56Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Découverte, Reka] Une petite maison sur pattes !",
+      "viewer_count": 0,
+      "game_name": "REKA",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-10-27T12:00:26Z"
+    }
+  }
 }
