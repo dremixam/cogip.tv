@@ -1,7 +1,8 @@
 {
-  "updated_at": "2026-10-28T18:20:27Z",
+  "updated_at": "2026-10-28T18:25:22Z",
   "live": [
-    "meonstera"
+    "meonstera",
+    "gegtropcool"
   ],
   "streams": {
     "meonstera": {
@@ -10,6 +11,13 @@
       "game_name": "Unmasked Truths: Shattered Dreams",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-10-28T14:09:13Z"
+    },
+    "gegtropcool": {
+      "title": "Soirée friendslop avec @bubuchenbois et @jimauve | !rs !kofi",
+      "viewer_count": 2,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-28T18:22:43Z"
     }
   }
 }
