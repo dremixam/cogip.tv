@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-10-28T18:45:29Z",
+  "updated_at": "2026-10-28T18:50:25Z",
   "live": [
-    "gegtropcool"
+    "gegtropcool",
+    "jimauve"
   ],
   "streams": {
     "gegtropcool": {
       "title": "Soirée friendslop avec @bubuchenbois et @jimauve | !rs !kofi",
-      "viewer_count": 18,
+      "viewer_count": 14,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-10-28T18:22:43Z"
+    },
+    "jimauve": {
+      "title": "Des démo, et des copains | feat @bubucheenbois & @gegtropcool | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-10-28T18:49:43Z"
     }
   }
 }
