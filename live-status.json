@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-10-28T19:05:19Z",
+  "updated_at": "2026-10-28T19:10:26Z",
   "live": [
-    "gegtropcool",
-    "jimauve"
+    "jimauve",
+    "gegtropcool"
   ],
   "streams": {
-    "gegtropcool": {
-      "title": "Soirée friendslop avec @bubuchenbois et @jimauve | !rs !kofi",
-      "viewer_count": 11,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-10-28T18:22:43Z"
-    },
     "jimauve": {
       "title": "Des démo, et des copains | feat @bubuchenbois & @gegtropcool | !kofi !rs",
-      "viewer_count": 5,
-      "game_name": "Just Chatting",
+      "viewer_count": 12,
+      "game_name": "Pipes.exe",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-10-28T18:49:43Z"
+    },
+    "gegtropcool": {
+      "title": "Soirée friendslop avec @bubuchenbois et @jimauve | !rs !kofi",
+      "viewer_count": 9,
+      "game_name": "Pipes.exe",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-10-28T18:22:43Z"
     }
   }
 }
