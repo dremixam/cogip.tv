@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-10-29T11:55:19Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-10-29T12:01:00Z",
+  "live": [
+    "kaililou"
+  ],
+  "streams": {
+    "kaililou": {
+      "title": "[Découverte, Warior Cats] Je retombe en enfance et je suis un chat",
+      "viewer_count": 0,
+      "game_name": "Warrior Cats: Clans of the Forest",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-10-29T12:00:17Z"
+    }
+  }
 }
