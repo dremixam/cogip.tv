@@ -1,20 +1,20 @@
 {
-  "updated_at": "2026-11-02T14:20:27Z",
+  "updated_at": "2026-11-02T14:25:20Z",
   "live": [
     "kaililou",
     "jimauve"
   ],
   "streams": {
     "kaililou": {
-      "title": "Piapiatage, planning, mots fléchés puis Enshrouded",
-      "viewer_count": 24,
-      "game_name": "Just Chatting",
+      "title": "[Enshrouded, Jour 6] on discute en farmant tranquillou",
+      "viewer_count": 26,
+      "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-02T12:01:05Z"
     },
     "jimauve": {
       "title": "On tente d'améliorer les alertes du stream | !kofi !rs",
-      "viewer_count": 20,
+      "viewer_count": 17,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-11-02T13:08:24Z"
