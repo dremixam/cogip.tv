@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-11-04T18:15:32Z",
-  "live": [
-    "meonstera"
-  ],
-  "streams": {
-    "meonstera": {
-      "title": "【Point & Click Showcase】18h : \"Tu cliques ou tu pointes ?\" co-stream du showcase avec @pipissenlit et @gegtropcool • !discord !rs",
-      "viewer_count": 21,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-11-04T16:01:46Z"
-    }
-  }
+  "updated_at": "2026-11-04T18:20:27Z",
+  "live": [],
+  "streams": {}
 }
