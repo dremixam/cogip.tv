@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-04T12:00:57Z",
+  "updated_at": "2026-11-04T12:05:20Z",
   "live": [
-    "zakium"
+    "zakium",
+    "kaililou"
   ],
   "streams": {
     "zakium": {
       "title": "[runeScape DragonWilds] épisode 13 : la fin finale de la finitude ? et parkour au dessus du vde :p avec @kaiLilou et SmolTom (!rs !discord)",
-      "viewer_count": 0,
+      "viewer_count": 3,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-04T11:58:33Z"
+    },
+    "kaililou": {
+      "title": "[Runescape Dragonwilds, Jour 13] Aujourd'hui c'est Kuldra ?? Avec @zakium et Smoltom",
+      "viewer_count": 1,
+      "game_name": "RuneScape: Dragonwilds",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
+      "started_at": "2026-11-04T12:00:46Z"
     }
   }
 }
