@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-11-04T22:45:28Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "On test le jeu de @Zakium | !kofi !rs",
-      "viewer_count": 19,
-      "game_name": "Spellcaster University",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-11-04T20:01:26Z"
-    }
-  }
+  "updated_at": "2026-11-04T22:50:24Z",
+  "live": [],
+  "streams": {}
 }
