@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T17:01:06Z",
+  "updated_at": "2026-11-04T17:05:22Z",
   "live": [
     "kaililou",
     "meonstera",
@@ -8,7 +8,7 @@
   "streams": {
     "kaililou": {
       "title": "On se finit sur Brotato ! Avec @zakium et Smoltom",
-      "viewer_count": 21,
+      "viewer_count": 19,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-04T12:00:46Z"
@@ -22,8 +22,8 @@
     },
     "zakium": {
       "title": "ptit brotato for la fin @kaiLilou et SmolTom (!rs !discord)",
-      "viewer_count": 9,
-      "game_name": "Brotato",
+      "viewer_count": 10,
+      "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-04T11:58:33Z"
     }
