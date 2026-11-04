@@ -1,20 +1,12 @@
 {
-  "updated_at": "2026-11-04T17:10:27Z",
+  "updated_at": "2026-11-04T17:15:33Z",
   "live": [
-    "kaililou",
     "meonstera"
   ],
   "streams": {
-    "kaililou": {
-      "title": "On se finit sur Brotato ! Avec @zakium et Smoltom",
-      "viewer_count": 22,
-      "game_name": "Brotato",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
-      "started_at": "2026-11-04T12:00:46Z"
-    },
     "meonstera": {
       "title": "【Point & Click Showcase】18h : \"Tu cliques ou tu pointes ?\" co-stream du showcase avec @pipissenlit et @gegtropcool • !discord !rs",
-      "viewer_count": 18,
+      "viewer_count": 33,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-11-04T16:01:46Z"
