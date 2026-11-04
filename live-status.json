@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-04T20:00:57Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-04T20:05:25Z",
+  "live": [
+    "jimauve"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "On test le jeu de @Zakium | !kofi !rs",
+      "viewer_count": 4,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-11-04T20:01:26Z"
+    }
+  }
 }
