@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-04T16:35:31Z",
+  "updated_at": "2026-11-04T16:40:54Z",
   "live": [
     "kaililou",
     "meonstera",
@@ -7,23 +7,23 @@
   ],
   "streams": {
     "kaililou": {
-      "title": "[Runescape Dragonwilds, Jour 13] Aujourd'hui c'est Kuldra ?? Avec @zakium et Smoltom",
-      "viewer_count": 20,
-      "game_name": "RuneScape: Dragonwilds",
+      "title": "On se finit sur Brotato ! Avec @zakium et Smoltom",
+      "viewer_count": 22,
+      "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-04T12:00:46Z"
     },
     "meonstera": {
       "title": "【Point & Click Showcase】18h : \"Tu cliques ou tu pointes ?\" co-stream du showcase avec @pipissenlit et @gegtropcool • !discord !rs",
-      "viewer_count": 14,
+      "viewer_count": 16,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-11-04T16:01:46Z"
     },
     "zakium": {
-      "title": "[runeScape DragonWilds] épisode 13 : la fin finale de la finitude ? et parkour au dessus du vde :p avec @kaiLilou et SmolTom (!rs !discord)",
-      "viewer_count": 12,
-      "game_name": "Just Chatting",
+      "title": "ptit brotato for la fin @kaiLilou et SmolTom (!rs !discord)",
+      "viewer_count": 13,
+      "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-04T11:58:33Z"
     }
