@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-05T12:25:21Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-05T12:30:46Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "[SULFUR] (re)découverte de Sulfur 🤘 (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-05T12:30:22Z"
+    }
+  }
 }
