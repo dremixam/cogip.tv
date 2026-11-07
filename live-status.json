@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-11-07T17:35:18Z",
-  "live": [
-    "zakium"
-  ],
-  "streams": {
-    "zakium": {
-      "title": "[SULFUR] C'est moi !! on découvre des nouvelles recettes de gobelins 👀 (!rs !discord)",
-      "viewer_count": 11,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-07T13:02:42Z"
-    }
-  }
+  "updated_at": "2026-11-07T17:40:23Z",
+  "live": [],
+  "streams": {}
 }
