@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-11-08T12:55:17Z",
+  "updated_at": "2026-11-08T13:00:54Z",
   "live": [
     "kaililou",
-    "gegtropcool"
+    "gegtropcool",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 7] Y a troooop de trucs à faire et c'est bien",
-      "viewer_count": 16,
+      "viewer_count": 17,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-08T12:00:09Z"
     },
     "gegtropcool": {
       "title": "Elden ring⚔️🧙 Stream républicain avec @dahkrab et @maanette TW : Traitre à la classe",
-      "viewer_count": 8,
+      "viewer_count": 10,
       "game_name": "ELDEN RING",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-11-08T09:42:25Z"
+    },
+    "zakium": {
+      "title": "[SULFUR] C'est moi !!  👀 (!rs !discord)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-08T13:00:31Z"
     }
   }
 }
