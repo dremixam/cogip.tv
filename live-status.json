@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-08T20:50:24Z",
+  "updated_at": "2026-11-08T20:55:18Z",
   "live": [
-    "jimauve",
-    "dremixam"
+    "dremixam",
+    "jimauve"
   ],
   "streams": {
-    "jimauve": {
-      "title": "Minecraft INTERACTIF : un BINGO mais Le tchat m'aide ou me nuit avec commande et point de chaine ! | !cheese !lapin !fromage | !kofi !rs",
-      "viewer_count": 34,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-11-08T20:01:17Z"
-    },
     "dremixam": {
       "title": "🌕 GTA6 mais sur la lune et on la nettoie avec @h__s !!?!឵ - DE RETOUR - !prime !kofi",
-      "viewer_count": 31,
+      "viewer_count": 32,
       "game_name": "Moon Sweepers",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-11-08T16:49:55Z"
+    },
+    "jimauve": {
+      "title": "Minecraft INTERACTIF : un BINGO mais Le tchat m'aide ou me nuit avec commande et point de chaine ! | !cheese !lapin !fromage | !kofi !rs",
+      "viewer_count": 31,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-11-08T20:01:17Z"
     }
   }
 }
