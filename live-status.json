@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-11-08T16:50:24Z",
+  "updated_at": "2026-11-08T16:55:17Z",
   "live": [
     "kaililou",
-    "zakium",
-    "dremixam"
+    "dremixam",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
@@ -13,19 +13,19 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-08T12:00:09Z"
     },
+    "dremixam": {
+      "title": "🌕 GTA6 mais sur la lune et on la nettoie avec @H__S !!?!឵ - !prime !kofi",
+      "viewer_count": 8,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-08T16:49:55Z"
+    },
     "zakium": {
       "title": "[SULFUR] C'est moi !!  👀 (!rs !discord)",
       "viewer_count": 8,
       "game_name": "SULFUR",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-08T13:00:31Z"
-    },
-    "dremixam": {
-      "title": "🌕 GTA6 mais sur la lune et on la nettoie avec @H__S !!?!឵ - !prime !kofi",
-      "viewer_count": 0,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
-      "started_at": "2026-11-08T16:49:55Z"
     }
   }
 }
