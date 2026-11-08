@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-08T09:40:22Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-08T09:45:26Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Elden ring⚔️🧙 Stream républicain avec @dahkrab et @maanette",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-11-08T09:42:25Z"
+    }
+  }
 }
