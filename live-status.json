@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-09T12:55:19Z",
+  "updated_at": "2026-11-09T13:00:59Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 8] Prout et quêtes",
-      "viewer_count": 22,
+      "viewer_count": 21,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-09T12:00:11Z"
+    },
+    "zakium": {
+      "title": "[SULFUR] les astuces cuisine de Zakimu ! 👀 (!rs !discord)",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-09T12:57:05Z"
     }
   }
 }
