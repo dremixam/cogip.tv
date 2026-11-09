@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-11-09T22:20:25Z",
-  "live": [
-    "jimauve"
-  ],
-  "streams": {
-    "jimauve": {
-      "title": "On test l'alpha 🐺 première version \"péter\" comme dirait @Raoul_f0 de Donjon Baston : ARCADE, mon nouveau jeu interactif  | !kofi !rs",
-      "viewer_count": 26,
-      "game_name": "Twitch Plays",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-11-09T19:59:17Z"
-    }
-  }
+  "updated_at": "2026-11-09T22:25:18Z",
+  "live": [],
+  "streams": {}
 }
