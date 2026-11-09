@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-09T19:55:19Z",
+  "updated_at": "2026-11-09T20:00:56Z",
   "live": [
-    "dremixam"
+    "dremixam",
+    "jimauve"
   ],
   "streams": {
     "dremixam": {
       "title": "👨‍🦲 GTA6 mais avec un chauve qui tue des streamers millionnaires឵ - !prime !kofi",
-      "viewer_count": 32,
+      "viewer_count": 31,
       "game_name": "HITMAN World of Assassination",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-11-09T16:49:55Z"
+    },
+    "jimauve": {
+      "title": "On test la béta alpha première version \"péter\" comme dirait @Raoul_f0 de Donjon Baston : ARCADE, mon nouveau jeu interactif  | !kofi !rs",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-11-09T19:59:17Z"
     }
   }
 }
