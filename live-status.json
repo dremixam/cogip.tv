@@ -1,17 +1,24 @@
 {
-  "updated_at": "2026-11-11T13:00:54Z",
+  "updated_at": "2026-11-11T13:05:22Z",
   "live": [
     "kaililou",
-    "zakium",
-    "jimauve"
+    "jimauve",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 9] Chill et constru",
-      "viewer_count": 24,
+      "viewer_count": 25,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-11T12:00:09Z"
+    },
+    "jimauve": {
+      "title": "On developpe Donjon Baston : Arcade un jeu video interactif avec le tcaht  | !kofi !rs",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-11-11T12:59:23Z"
     },
     "zakium": {
       "title": "[Bombanana] retour des désamorceuses de bombes 👆👀👆 ! avec @meonstera et @halliwhy (!rs !discord)",
@@ -19,13 +26,6 @@
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-11T12:56:44Z"
-    },
-    "jimauve": {
-      "title": "On developpe Donjon Baston : Arcade un jeu video interactif avec le tcaht  | !kofi !rs",
-      "viewer_count": 0,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-11-11T12:59:23Z"
     }
   }
 }
