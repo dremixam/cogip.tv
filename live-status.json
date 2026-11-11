@@ -1,18 +1,11 @@
 {
-  "updated_at": "2026-11-11T15:45:27Z",
+  "updated_at": "2026-11-11T15:50:25Z",
   "live": [
-    "zakium",
     "kaililou",
+    "zakium",
     "meonstera"
   ],
   "streams": {
-    "zakium": {
-      "title": "[Bombanana] retour des désamorceuses de bombes 👆👀👆 ! avec @meonstera et @halliwhy (!rs !discord)",
-      "viewer_count": 24,
-      "game_name": "BOMBANANA!",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-11T12:56:44Z"
-    },
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 9] Chill et constru",
       "viewer_count": 20,
@@ -20,9 +13,16 @@
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-11T12:00:09Z"
     },
+    "zakium": {
+      "title": "[Bombanana] retour des désamorceuses de bombes 👆👀👆 ! avec @meonstera et @halliwhy (!rs !discord)",
+      "viewer_count": 18,
+      "game_name": "BOMBANANA!",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-11T12:56:44Z"
+    },
     "meonstera": {
       "title": "【BOMBANANA !】 Attention ça va péter ! ft @halliwhy et @zakium • !discord !rs",
-      "viewer_count": 11,
+      "viewer_count": 13,
       "game_name": "BOMBANANA!",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-11-11T13:07:39Z"
