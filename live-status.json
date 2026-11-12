@@ -1,24 +1,17 @@
 {
-  "updated_at": "2026-11-12T16:55:19Z",
+  "updated_at": "2026-11-12T17:00:57Z",
   "live": [
     "kaililou",
-    "zakium",
-    "meonstera"
+    "meonstera",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "[Permafrost, Jour 2] On se caille le popotin avec @zakium",
-      "viewer_count": 21,
+      "viewer_count": 22,
       "game_name": "Permafrost",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-12T12:00:41Z"
-    },
-    "zakium": {
-      "title": "[permafrost] -40°C et @Kaililou : qui me tuera en première ? (!discord)",
-      "viewer_count": 9,
-      "game_name": "Permafrost",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-12T11:59:47Z"
     },
     "meonstera": {
       "title": "【Dressmaker】 Je ne pense qu'à lui (le jeu des robes) • !discord !rs",
@@ -26,6 +19,13 @@
       "game_name": "Dressmaker (2026)",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
       "started_at": "2026-11-12T14:07:47Z"
+    },
+    "zakium": {
+      "title": "[permafrost] -40°C et @Kaililou : qui me tuera en première ? (!discord)",
+      "viewer_count": 8,
+      "game_name": "Permafrost",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-12T11:59:47Z"
     }
   }
 }
