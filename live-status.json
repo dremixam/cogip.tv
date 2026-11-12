@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-11-12T14:05:22Z",
+  "updated_at": "2026-11-12T14:10:24Z",
   "live": [
     "kaililou",
-    "zakium"
+    "zakium",
+    "meonstera"
   ],
   "streams": {
     "kaililou": {
@@ -14,10 +15,17 @@
     },
     "zakium": {
       "title": "[permafrost] -40°C et @Kaililou : qui me tuera en première ? (!discord)",
-      "viewer_count": 8,
+      "viewer_count": 6,
       "game_name": "Permafrost",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-12T11:59:47Z"
+    },
+    "meonstera": {
+      "title": "【Dressmaker】 Je ne pense qu'à lui (le jeu des robes) • !discord !rs",
+      "viewer_count": 1,
+      "game_name": "Dressmaker (2026)",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
+      "started_at": "2026-11-12T14:07:47Z"
     }
   }
 }
