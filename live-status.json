@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-12T12:15:28Z",
+  "updated_at": "2026-11-12T12:20:28Z",
   "live": [
-    "zakium",
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
-    "zakium": {
-      "title": "[permafrost] -40°C et @Kaililou : qui me tuera en première ? (!discord)",
-      "viewer_count": 6,
-      "game_name": "Permafrost",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-12T11:59:47Z"
-    },
     "kaililou": {
       "title": "[Permafrost, Jour 2] On se caille le popotin avec @zakium",
-      "viewer_count": 5,
+      "viewer_count": 9,
       "game_name": "Permafrost",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-12T12:00:41Z"
+    },
+    "zakium": {
+      "title": "[permafrost] -40°C et @Kaililou : qui me tuera en première ? (!discord)",
+      "viewer_count": 5,
+      "game_name": "Permafrost",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-12T11:59:47Z"
     }
   }
 }
