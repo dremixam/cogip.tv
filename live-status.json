@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-13T12:45:30Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-13T12:50:25Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "J’ai longtemps débattu avec moi-même et finalement SULFUR, je crois... (!discord)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-13T12:47:58Z"
+    }
+  }
 }
