@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-13T09:05:20Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-13T09:10:24Z",
+  "live": [
+    "jimauve"
+  ],
+  "streams": {
+    "jimauve": {
+      "title": "Bienvenue a Mustard Magic School | !kofi !rs",
+      "viewer_count": 6,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
+      "started_at": "2026-11-13T09:05:08Z"
+    }
+  }
 }
