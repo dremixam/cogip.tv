@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-11-14T17:30:42Z",
+  "updated_at": "2026-11-14T17:35:22Z",
   "live": [
-    "dremixam",
-    "meonstera"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
       "title": "🌕 GTA6 mais on se nettoie la lune entre potes - !prime !kofi !clip",
-      "viewer_count": 20,
+      "viewer_count": 21,
       "game_name": "Moon Sweepers",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-11-14T16:49:55Z"
-    },
-    "meonstera": {
-      "title": "【Papote】 On prépare le mois de décembre sur la chaine • !discord !rs",
-      "viewer_count": 12,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
-      "started_at": "2026-11-14T14:06:10Z"
     }
   }
 }
