@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-15T09:40:24Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-15T09:45:28Z",
+  "live": [
+    "gegtropcool"
+  ],
+  "streams": {
+    "gegtropcool": {
+      "title": "Pas prévu de boire un café ce matin mais vous pouvez quand meme me parler promis (ft. @dahkrab et @maanette) | !rs !kofi",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-11-15T09:44:53Z"
+    }
+  }
 }
