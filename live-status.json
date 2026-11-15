@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-15T12:20:23Z",
+  "updated_at": "2026-11-15T12:25:20Z",
   "live": [
-    "gegtropcool",
-    "kaililou"
+    "kaililou",
+    "gegtropcool"
   ],
   "streams": {
-    "gegtropcool": {
-      "title": "Pas prévu de boire un café ce matin mais vous pouvez quand meme me parler promis (ft. @dahkrab et @maanette) | !rs !kofi",
-      "viewer_count": 13,
-      "game_name": "ELDEN RING",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-11-15T09:44:53Z"
-    },
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 10] En route vers Pikemead !",
-      "viewer_count": 13,
+      "viewer_count": 14,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-15T12:00:14Z"
+    },
+    "gegtropcool": {
+      "title": "Pas prévu de boire un café ce matin mais vous pouvez quand meme me parler promis (ft. @dahkrab et @maanette) | !rs !kofi",
+      "viewer_count": 12,
+      "game_name": "ELDEN RING",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
+      "started_at": "2026-11-15T09:44:53Z"
     }
   }
 }
