@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-16T16:45:41Z",
+  "updated_at": "2026-11-16T16:50:26Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 11] Journée décoration",
-      "viewer_count": 31,
+      "viewer_count": 33,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-16T12:00:37Z"
+    },
+    "dremixam": {
+      "title": "👨‍🦲 GTA6 mais on tue des milliardaires (promis c'est le dernier titre mensonger)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-16T16:49:56Z"
     }
   }
 }
