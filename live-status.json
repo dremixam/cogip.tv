@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-11-16T16:00:56Z",
+  "updated_at": "2026-11-16T16:05:21Z",
   "live": [
-    "kaililou",
-    "jimauve"
+    "kaililou"
   ],
   "streams": {
     "kaililou": {
       "title": "[DROP✅, Enshrouded, Jour 11] Journée décoration",
-      "viewer_count": 21,
+      "viewer_count": 34,
       "game_name": "Enshrouded",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-16T12:00:37Z"
-    },
-    "jimauve": {
-      "title": "Petite aprem petit dev pour améliorer la DA de la chaine | !kofi !rs",
-      "viewer_count": 19,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
-      "started_at": "2026-11-16T13:12:28Z"
     }
   }
 }
