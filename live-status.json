@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-11-17T16:35:20Z",
+  "updated_at": "2026-11-17T16:40:30Z",
   "live": [
-    "kaililou",
-    "gegtropcool"
+    "kaililou"
   ],
   "streams": {
     "kaililou": {
       "title": "Des dinoooos ! On se brotate en détente",
-      "viewer_count": 18,
+      "viewer_count": 17,
       "game_name": "Brotato",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-17T12:01:26Z"
-    },
-    "gegtropcool": {
-      "title": "🔻🧬Control Resonant - J'ai bu mon café du matin deux fois pour info",
-      "viewer_count": 8,
-      "game_name": "CONTROL Resonant",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
-      "started_at": "2026-11-17T13:02:36Z"
     }
   }
 }
