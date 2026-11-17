@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-17T20:05:29Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-17T20:10:35Z",
+  "live": [
+    "fairuven"
+  ],
+  "streams": {
+    "fairuven": {
+      "title": "Non pas Re c'est un stream test technique !sr ////   !gaza",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-11-17T20:10:16Z"
+    }
+  }
 }
