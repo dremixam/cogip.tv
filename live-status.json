@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-18T21:45:36Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-18T21:50:27Z",
+  "live": [
+    "dremixam"
+  ],
+  "streams": {
+    "dremixam": {
+      "title": "🌴 GTA6 sortie officielle OMG. Découverte en mode SLOW RUN. TW: violence/femme/wokisme",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-18T21:49:57Z"
+    }
+  }
 }
