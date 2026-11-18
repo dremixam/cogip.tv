@@ -1,23 +1,31 @@
 {
-  "updated_at": "2026-11-18T13:55:18Z",
+  "updated_at": "2026-11-18T14:00:56Z",
   "live": [
     "jimauve",
-    "zakium"
+    "zakium",
+    "meonstera"
   ],
   "streams": {
     "jimauve": {
       "title": "Dev sur DONJON BASTON ARCADE  | !kofi !rs",
-      "viewer_count": 20,
+      "viewer_count": 19,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-11-18T12:56:21Z"
     },
     "zakium": {
       "title": "[Probably Stolen]découverte, on ouvre un petit commerce tranquille :p(!discord !rs !démo)",
-      "viewer_count": 10,
+      "viewer_count": 9,
       "game_name": "Probably Stolen",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-18T13:01:08Z"
+    },
+    "meonstera": {
+      "title": "【Papote】tests (retour du songrequest !sr) et je sais pas mais j'avais envie de stream • !discord !rs",
+      "viewer_count": 3,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_meonstera-640x360.jpg",
+      "started_at": "2026-11-18T13:55:57Z"
     }
   }
 }
