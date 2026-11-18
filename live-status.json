@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-18T13:01:00Z",
+  "updated_at": "2026-11-18T13:05:21Z",
   "live": [
-    "jimauve"
+    "jimauve",
+    "zakium"
   ],
   "streams": {
     "jimauve": {
       "title": "Dev sur DONJON BASTON ARCADE  | !kofi !rs",
-      "viewer_count": 8,
+      "viewer_count": 11,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-11-18T12:56:21Z"
+    },
+    "zakium": {
+      "title": "[Probably Stolen]découverte, on ouvre un petit commerce tranquille :p(!discord !rs !démo)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-18T13:01:08Z"
     }
   }
 }
