@@ -1,15 +1,5 @@
 {
-  "updated_at": "2026-11-18T21:25:20Z",
-  "live": [
-    "fairuven"
-  ],
-  "streams": {
-    "fairuven": {
-      "title": "Re !  Ce live peut s autodétruire a tout moment !sr ////   !gaza",
-      "viewer_count": 6,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-11-18T19:11:05Z"
-    }
-  }
+  "updated_at": "2026-11-18T21:30:45Z",
+  "live": [],
+  "streams": {}
 }
