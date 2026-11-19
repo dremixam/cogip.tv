@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-11-19T16:45:30Z",
+  "updated_at": "2026-11-19T16:50:32Z",
   "live": [
     "kaililou",
-    "zakium"
+    "zakium",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
@@ -14,10 +15,17 @@
     },
     "zakium": {
       "title": "[Permafrost] épisode 4, agougouglagla ☓.☓ (!discord !rs !démo)",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "game_name": "Permafrost",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-19T12:01:15Z"
+    },
+    "dremixam": {
+      "title": "🌴 GTA6 suite de la découverte en mode SLOW RUN. TW: violence/femme/wokisme",
+      "viewer_count": 0,
+      "game_name": "Grand Theft Auto VI",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-19T16:49:56Z"
     }
   }
 }
