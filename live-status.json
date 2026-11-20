@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-20T12:45:34Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-20T12:50:30Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "[GTA VI !!] Grossiste Très Accommodant, Vaguement Illégal ! [Probably Stolen en vrai de vrai :p](!discord !rs !démo)",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-20T12:49:47Z"
+    }
+  }
 }
