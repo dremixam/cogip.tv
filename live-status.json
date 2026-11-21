@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-21T16:45:30Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-21T16:50:29Z",
+  "live": [
+    "dremixam"
+  ],
+  "streams": {
+    "dremixam": {
+      "title": "🌴 GTA6 jour 4, Début du chapitre 2 ! mode SLOW RUN. TW: femme/wokisme",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-21T16:49:57Z"
+    }
+  }
 }
