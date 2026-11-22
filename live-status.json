@@ -1,31 +1,31 @@
 {
-  "updated_at": "2026-11-22T14:00:56Z",
+  "updated_at": "2026-11-22T14:05:22Z",
   "live": [
     "jimauve",
-    "fairuven",
-    "zakium"
+    "zakium",
+    "fairuven"
   ],
   "streams": {
     "jimauve": {
       "title": "tu code ? mdrrrr ??? Ici ça CODE ! | !kofi !rs",
-      "viewer_count": 21,
+      "viewer_count": 19,
       "game_name": "Software and Game Development",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-11-22T12:53:55Z"
     },
-    "fairuven": {
-      "title": "Découverte Queen's Domain  !sr ////   !gaza",
-      "viewer_count": 8,
-      "game_name": "Queen's Domain",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
-      "started_at": "2026-11-22T12:45:17Z"
-    },
     "zakium": {
       "title": "[GTA VI !!] Gestion Trouble et Approximative d'un Vendeur Inquiétant [Probably Stolen en vrai de vrai :p](!discord !rs !démo)",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "game_name": "Probably Stolen",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-22T13:02:00Z"
+    },
+    "fairuven": {
+      "title": "Découverte Queen's Domain  !sr ////   !gaza",
+      "viewer_count": 5,
+      "game_name": "Queen's Domain",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_fairuven-640x360.jpg",
+      "started_at": "2026-11-22T12:45:17Z"
     }
   }
 }
