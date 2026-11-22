@@ -1,16 +1,24 @@
 {
-  "updated_at": "2026-11-22T13:00:55Z",
+  "updated_at": "2026-11-22T13:05:21Z",
   "live": [
     "jimauve",
+    "zakium",
     "fairuven"
   ],
   "streams": {
     "jimauve": {
       "title": "Code ou Game ? | !kofi !rs",
-      "viewer_count": 7,
+      "viewer_count": 10,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_jimauve-640x360.jpg",
       "started_at": "2026-11-22T12:53:55Z"
+    },
+    "zakium": {
+      "title": "[GTA VI !!] Gestion Trouble et Approximative d'un Vendeur Inquiétant [Probably Stolen en vrai de vrai :p](!discord !rs !démo)",
+      "viewer_count": 2,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-22T13:02:00Z"
     },
     "fairuven": {
       "title": "NOOOON RUFFIN  !sr ////   !gaza",
