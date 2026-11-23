@@ -1,23 +1,15 @@
 {
-  "updated_at": "2026-11-23T19:00:55Z",
+  "updated_at": "2026-11-23T19:05:29Z",
   "live": [
-    "dremixam",
-    "zakium"
+    "dremixam"
   ],
   "streams": {
     "dremixam": {
-      "title": "🌴 GTA6 on continue le chapitre 2, Jason est rétabli faut faire du blé ! mode SLOW RUN. TW: femme/wokisme",
-      "viewer_count": 26,
+      "title": "🌴 GTA6 on continue le chapitre 2, Jason est rétabli faut faire du blé ! mode SLOW RUN. TW: femme/wokisme - !prime !kofi !clip !ecola",
+      "viewer_count": 27,
       "game_name": "Grand Theft Auto VI",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
       "started_at": "2026-11-23T16:49:57Z"
-    },
-    "zakium": {
-      "title": "[GTA VI !!] Grande Tambouille Administrative d'un Vendeur Insomniaque [Probably Stolen en vrai de vrai :p](!discord !rs !démo)",
-      "viewer_count": 18,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-23T12:51:59Z"
     }
   }
 }
