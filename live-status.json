@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-23T12:50:30Z",
+  "updated_at": "2026-11-23T12:55:22Z",
   "live": [
-    "kaililou"
+    "kaililou",
+    "zakium"
   ],
   "streams": {
     "kaililou": {
       "title": "Mots fléchés, piapiatage puis Enshrouded chill",
-      "viewer_count": 14,
+      "viewer_count": 19,
       "game_name": "Just Chatting",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-23T12:00:20Z"
+    },
+    "zakium": {
+      "title": "[GTA VI !!] Grande Tambouille Administrative d'un Vendeur Insomniaque [Probably Stolen en vrai de vrai :p](!discord !rs !démo)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-23T12:51:59Z"
     }
   }
 }
