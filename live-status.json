@@ -1,8 +1,9 @@
 {
-  "updated_at": "2026-11-24T16:45:42Z",
+  "updated_at": "2026-11-24T16:50:28Z",
   "live": [
     "kaililou",
-    "gegtropcool"
+    "gegtropcool",
+    "dremixam"
   ],
   "streams": {
     "kaililou": {
@@ -14,10 +15,17 @@
     },
     "gegtropcool": {
       "title": "🔻🧬Control Resonant - Joyeuse fête des profs de français",
-      "viewer_count": 7,
+      "viewer_count": 6,
       "game_name": "CONTROL Resonant",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_gegtropcool-640x360.jpg",
       "started_at": "2026-11-24T12:42:41Z"
+    },
+    "dremixam": {
+      "title": "🌴 GTA6 chapitre 3, on débarque à Vice City ! mode SLOW RUN. TW: femme/wokisme",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-24T16:49:57Z"
     }
   }
 }
