@@ -1,23 +1,23 @@
 {
-  "updated_at": "2026-11-26T12:05:25Z",
+  "updated_at": "2026-11-26T12:10:38Z",
   "live": [
-    "kaililou",
-    "zakium"
+    "zakium",
+    "kaililou"
   ],
   "streams": {
+    "zakium": {
+      "title": "[permafrost] je suis le zéro absolue dans cette histoire :p @kaililou (!discord !rs !démo)",
+      "viewer_count": 7,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-26T12:03:19Z"
+    },
     "kaililou": {
       "title": "[Permafrost, Jour 4] On affronte le grand FROA avec @zakium",
       "viewer_count": 6,
       "game_name": "Permafrost",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_kaililou-640x360.jpg",
       "started_at": "2026-11-26T12:00:36Z"
-    },
-    "zakium": {
-      "title": "[permafrost] je suis le zéro absolue dans cette histoire :p @kaililou (!discord !rs !démo)",
-      "viewer_count": 1,
-      "game_name": "Just Chatting",
-      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
-      "started_at": "2026-11-26T12:03:19Z"
     }
   }
 }
