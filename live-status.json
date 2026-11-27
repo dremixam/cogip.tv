@@ -1,5 +1,15 @@
 {
-  "updated_at": "2026-11-27T12:35:23Z",
-  "live": [],
-  "streams": {}
+  "updated_at": "2026-11-27T12:40:30Z",
+  "live": [
+    "zakium"
+  ],
+  "streams": {
+    "zakium": {
+      "title": "[GTA VI] Galerie de Trouvailles Atypiques, Visiblement Illicites [Probably stolen en vrai :p] (!discord !rs !démo)",
+      "viewer_count": 1,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
+      "started_at": "2026-11-27T12:39:14Z"
+    }
+  }
 }
