@@ -1,15 +1,23 @@
 {
-  "updated_at": "2026-11-27T16:45:33Z",
+  "updated_at": "2026-11-27T16:50:30Z",
   "live": [
-    "zakium"
+    "zakium",
+    "dremixam"
   ],
   "streams": {
     "zakium": {
       "title": "[GTA VI] Galerie de Trouvailles Atypiques, Visiblement Illicites [Probably stolen en vrai :p] (!discord !rs !démo)",
-      "viewer_count": 20,
+      "viewer_count": 22,
       "game_name": "Probably Stolen",
       "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_zakium-640x360.jpg",
       "started_at": "2026-11-27T12:39:14Z"
+    },
+    "dremixam": {
+      "title": "🌴 GTA6 on poursuit dans Vice City chapitre 3, c'est toujours aussi zinzin ! mode SLOW RUN. TW: femme/wokisme",
+      "viewer_count": 0,
+      "game_name": "Just Chatting",
+      "thumbnail_url": "https://static-cdn.jtvnw.net/previews-ttv/live_user_dremixam-640x360.jpg",
+      "started_at": "2026-11-27T16:49:57Z"
     }
   }
 }
